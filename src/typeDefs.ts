@@ -1,11 +1,6 @@
 import { gql } from 'apollo-server'
 
 const typeDefs = gql`
-  type Weight {
-    lbs: [Int]
-    kg: [Int]
-  }
-
   """
   Individual cat
   """
@@ -172,7 +167,22 @@ const typeDefs = gql`
   }
 
   type Query {
+    """
+    Retrieves all cats
+    """
     allCats: [Cat]
+  }
+
+  type Weight {
+    """
+    The weight in pounds
+    """
+    lbs: [Int]
+
+    """
+    The weight in kilograms
+    """
+    kg: [Int]
   }
 `
 
