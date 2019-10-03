@@ -35,6 +35,9 @@
   },
   "scripts": {
     "build": "rm -rf dist && tsc",
+    "lint": "tslint --project .",
+    "lint:fix": "tslint --quiet --fix --project .",
+    "prettier": "prettier --list-different \"src/**/*.ts\"",
     "start": "node .",
     "watch": "nodemon"
   },

@@ -1,6 +1,11 @@
 import { gql } from 'apollo-server'
 
 const typeDefs = gql`
+  type Weight {
+    lbs: [Int]
+    kg: [Int]
+  }
+
   """
   Individual cat
   """
@@ -154,6 +159,16 @@ const typeDefs = gql`
     How vocal the breed is (1-5)
     """
     vocalisation: Int
+
+    """
+    The average weight of the breed. First item in the array is the lower and and second item is the upper end of the range.
+    """
+    weight: Weight
+
+    """
+    The Wikipedia URL for the breed
+    """
+    wikipediaURL: String
   }
 
   type Query {

@@ -37,13 +37,12 @@
       "Gentle"
     ],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/abyssinian",
-    "vetstreet_url": "http://www.vetstreet.com/cats/abyssinian",
     "vocalisation": 1,
     "weight": {
-      "imperial": [7, 10],
-      "metric": "3 - 5"
+      "lbs": [7, 10],
+      "kg": [3, 5]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Abyssinian_(cat)"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Abyssinian_(cat)"
   },
   {
     "adaptability": 5,
@@ -80,13 +79,12 @@
       "Playful",
       "Active"
     ],
-    "vetstreet_url": "http://www.vetstreet.com/cats/aegean-cat",
     "vocalisation": 3,
     "weight": {
-      "imperial": [7, 10],
-      "metric": "3 - 5"
+      "lbs": [7, 10],
+      "kg": [3, 5]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Aegean_cat"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Aegean_cat"
   },
   {
     "CFAUrl": "http://cfa.org/Breeds/BreedsAB/AmericanBobtail.aspx",
@@ -126,13 +124,12 @@
       "Sensitive"
     ],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/american-bobtail",
-    "vetstreet_url": "http://www.vetstreet.com/cats/american-bobtail",
     "vocalisation": 3,
     "weight": {
-      "imperial": [7, 16],
-      "metric": "3 - 7"
+      "lbs": [7, 16],
+      "kg": [3, 7]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/American_Bobtail"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/American_Bobtail"
   },
   {
     "CFAUrl": "http://cfa.org/Breeds/BreedsAB/AmericanCurl.aspx",
@@ -174,13 +171,12 @@
       "Social"
     ],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/american-curl",
-    "vetstreet_url": "http://www.vetstreet.com/cats/american-curl",
     "vocalisation": 3,
     "weight": {
-      "imperial": [5, 10],
-      "metric": "2 - 5"
+      "lbs": [5, 10],
+      "kg": [2, 5]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/American_Curl"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/American_Curl"
   },
   {
     "CFAUrl": "http://cfa.org/Breeds/BreedsAB/AmericanShorthair.aspx",
@@ -214,13 +210,12 @@
     "suppressedTail": false,
     "temperament": ["Active", "Curious", "Easy Going", "Playful", "Calm"],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/american-shorthair",
-    "vetstreet_url": "http://www.vetstreet.com/cats/american-shorthair",
     "vocalisation": 3,
     "weight": {
-      "imperial": [8, 15],
-      "metric": "4 - 7"
+      "lbs": [8, 15],
+      "kg": [4, 7]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/American_Shorthair"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/American_Shorthair"
   },
   {
     "CFAUrl": "http://cfa.org/Breeds/BreedsAB/AmericanWirehair.aspx",
@@ -264,13 +259,12 @@
       "Sensible",
       "Social"
     ],
-    "vetstreet_url": "http://www.vetstreet.com/cats/american-wirehair",
     "vocalisation": 3,
     "weight": {
-      "imperial": [8, 15],
-      "metric": "4 - 7"
+      "lbs": [8, 15],
+      "kg": [4, 7]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/American_Wirehair"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/American_Wirehair"
   },
   {
     "adaptability": 5,
@@ -311,10 +305,10 @@
     "vcahospitals_url": "",
     "vocalisation": 1,
     "weight": {
-      "imperial": [8, 16],
-      "metric": "4 - 7"
+      "lbs": [8, 16],
+      "kg": [4, 7]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Arabian_Mau"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Arabian_Mau"
   },
   {
     "adaptability": 5,
@@ -354,10 +348,10 @@
     ],
     "vocalisation": 3,
     "weight": {
-      "imperial": [7, 15],
-      "metric": "3 - 7"
+      "lbs": [7, 15],
+      "kg": [3, 7]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Australian_Mist"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Australian_Mist"
   },
   {
     "CFAUrl": "http://cfa.org/Breeds/BreedsAB/Balinese.aspx",
@@ -390,13 +384,12 @@
     "suppressedTail": false,
     "temperament": ["Affectionate", "Intelligent", "Playful"],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/balinese",
-    "vetstreet_url": "http://www.vetstreet.com/cats/balinese",
     "vocalisation": 5,
     "weight": {
-      "imperial": [4, 10],
-      "metric": "2 - 5"
+      "lbs": [4, 10],
+      "kg": [2, 5]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Balinese_(cat)"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Balinese_(cat)"
   },
   {
     "adaptability": 5,
@@ -430,10 +423,10 @@
     "temperament": ["Affectionate", "Lively", "Friendly", "Intelligent"],
     "vocalisation": 3,
     "weight": {
-      "imperial": [4, 9],
-      "metric": "2 - 4"
+      "lbs": [4, 9],
+      "kg": [2, 4]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Bambino_cat"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Bambino_cat"
   },
   {
     "CFAUrl": "http://cfa.org/Breeds/BreedsAB/Bengal.aspx",
@@ -468,13 +461,12 @@
     "suppressedTail": false,
     "temperament": ["Alert", "Agile", "Energetic", "Demanding", "Intelligent"],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/bengal",
-    "vetstreet_url": "http://www.vetstreet.com/cats/bengal",
     "vocalisation": 5,
     "weight": {
-      "imperial": [6, 12],
-      "metric": "3 - 7"
+      "lbs": [6, 12],
+      "kg": [3, 7]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Bengal_(cat)"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Bengal_(cat)"
   },
   {
     "CFAUrl": "http://cfa.org/Breeds/BreedsAB/Birman.aspx",
@@ -508,13 +500,12 @@
     "suppressedTail": false,
     "temperament": ["Affectionate", "Active", "Gentle", "Social"],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/birman",
-    "vetstreet_url": "http://www.vetstreet.com/cats/birman",
     "vocalisation": 1,
     "weight": {
-      "imperial": [6, 15],
-      "metric": "3 - 7"
+      "lbs": [6, 15],
+      "kg": [3, 7]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Birman"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Birman"
   },
   {
     "CFAUrl": "http://cfa.org/Breeds/BreedsAB/Bombay.aspx",
@@ -554,13 +545,12 @@
       "Playful"
     ],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/bombay",
-    "vetstreet_url": "http://www.vetstreet.com/cats/bombay",
     "vocalisation": 5,
     "weight": {
-      "imperial": [6, 11],
-      "metric": "3 - 5"
+      "lbs": [6, 11],
+      "kg": [3, 5]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Bombay_(cat)"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Bombay_(cat)"
   },
   {
     "adaptability": 5,
@@ -600,10 +590,10 @@
     ],
     "vocalisation": 1,
     "weight": {
-      "imperial": [8, 18],
-      "metric": "4 - 8"
+      "lbs": [8, 18],
+      "kg": [4, 8]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/British_Longhair"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/British_Longhair"
   },
   {
     "CFAUrl": "http://cfa.org/Breeds/BreedsAB/BritishShorthair.aspx",
@@ -644,13 +634,12 @@
       "Calm"
     ],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/british-shorthair",
-    "vetstreet_url": "http://www.vetstreet.com/cats/british-shorthair",
     "vocalisation": 1,
     "weight": {
-      "imperial": [12, 20],
-      "metric": "5 - 9"
+      "lbs": [12, 20],
+      "kg": [5, 9]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/British_Shorthair"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/British_Shorthair"
   },
   {
     "CFAUrl": "http://cfa.org/Breeds/BreedsAB/Burmese.aspx",
@@ -692,13 +681,12 @@
       "Lively"
     ],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/burmese",
-    "vetstreet_url": "http://www.vetstreet.com/cats/burmese",
     "vocalisation": 5,
     "weight": {
-      "imperial": [6, 12],
-      "metric": "3 - 5"
+      "lbs": [6, 12],
+      "kg": [3, 5]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Burmese_(cat)"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Burmese_(cat)"
   },
   {
     "CFAUrl": "http://cfa.org/Breeds/BreedsAB/Burmilla.aspx",
@@ -738,13 +726,12 @@
       "Playful",
       "Social"
     ],
-    "vetstreet_url": "http://www.vetstreet.com/cats/burmilla",
     "vocalisation": 5,
     "weight": {
-      "imperial": [6, 13],
-      "metric": "3 - 6"
+      "lbs": [6, 13],
+      "kg": [3, 6]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Burmilla"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Burmilla"
   },
   {
     "adaptability": 5,
@@ -783,10 +770,10 @@
     ],
     "vocalisation": 1,
     "weight": {
-      "imperial": [10, 15],
-      "metric": "5 - 7"
+      "lbs": [10, 15],
+      "kg": [5, 7]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/California_Spangled"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/California_Spangled"
   },
   {
     "adaptability": 5,
@@ -820,10 +807,10 @@
     "temperament": ["Affectionate", "Demanding", "Interactive", "Loyal"],
     "vocalisation": 5,
     "weight": {
-      "imperial": [7, 12],
-      "metric": "3 - 5"
+      "lbs": [7, 12],
+      "kg": [3, 5]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Chantilly-Tiffany"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Chantilly-Tiffany"
   },
   {
     "CFAUrl": "http://cfa.org/Breeds/BreedsCJ/Chartreux.aspx",
@@ -864,13 +851,12 @@
       "Playful"
     ],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/chartreux",
-    "vetstreet_url": "http://www.vetstreet.com/cats/chartreux",
     "vocalisation": 1,
     "weight": {
-      "imperial": [6, 15],
-      "metric": "3 - 7"
+      "lbs": [6, 15],
+      "kg": [3, 7]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Chartreux"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Chartreux"
   },
   {
     "adaptability": 5,
@@ -903,10 +889,10 @@
     "temperament": ["Affectionate", "Intelligent", "Playful", "Social"],
     "vocalisation": 1,
     "weight": {
-      "imperial": [7, 15],
-      "metric": "3 - 7"
+      "lbs": [7, 15],
+      "kg": [3, 7]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Chausie"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Chausie"
   },
   {
     "adaptability": 5,
@@ -939,10 +925,10 @@
     "temperament": ["Affectionate", "Gentle", "Intelligent", "Social"],
     "vocalisation": 5,
     "weight": {
-      "imperial": [8, 15],
-      "metric": "4 - 7"
+      "lbs": [8, 15],
+      "kg": [4, 7]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Bengal_cat#Cheetoh"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Bengal_cat#Cheetoh"
   },
   {
     "CFAUrl": "http://cfa.org/Breeds/BreedsCJ/ColorpointShorthair.aspx",
@@ -980,10 +966,10 @@
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/colorpoint-shorthair",
     "vocalisation": 5,
     "weight": {
-      "imperial": [4, 10],
-      "metric": "2 - 5"
+      "lbs": [4, 10],
+      "kg": [2, 5]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Colorpoint_Shorthair"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Colorpoint_Shorthair"
   },
   {
     "CFAUrl": "http://cfa.org/Breeds/BreedsCJ/CornishRex.aspx",
@@ -1024,13 +1010,12 @@
       "Playful"
     ],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/cornish-rex",
-    "vetstreet_url": "http://www.vetstreet.com/cats/cornish-rex",
     "vocalisation": 1,
     "weight": {
-      "imperial": [5, 9],
-      "metric": "2 - 4"
+      "lbs": [5, 9],
+      "kg": [2, 4]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Cornish_Rex"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Cornish_Rex"
   },
   {
     "adaptability": 5,
@@ -1062,13 +1047,12 @@
     "strangerFriendly": 3,
     "suppressedTail": true,
     "temperament": ["Gentle", "Loyal", "Intelligent", "Playful"],
-    "vetstreet_url": "http://www.vetstreet.com/cats/cymric",
     "vocalisation": 3,
     "weight": {
-      "imperial": [8, 13],
-      "metric": "4 - 6"
+      "lbs": [8, 13],
+      "kg": [4, 6]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Cymric_(cat)"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Cymric_(cat)"
   },
   {
     "adaptability": 5,
@@ -1102,10 +1086,10 @@
     "temperament": ["Affectionate", "Social"],
     "vocalisation": 3,
     "weight": {
-      "imperial": [8, 16],
-      "metric": "4 - 7"
+      "lbs": [8, 16],
+      "kg": [4, 7]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Cyprus_cat"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Cyprus_cat"
   },
   {
     "CFAUrl": "http://cfa.org/Breeds/BreedsCJ/DevonRex.aspx",
@@ -1145,13 +1129,12 @@
       "Playful"
     ],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/devon-rex",
-    "vetstreet_url": "http://www.vetstreet.com/cats/devon-rex",
     "vocalisation": 1,
     "weight": {
-      "imperial": [5, 10],
-      "metric": "2 - 5"
+      "lbs": [5, 10],
+      "kg": [2, 5]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Devon_Rex"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Devon_Rex"
   },
   {
     "adaptability": 4,
@@ -1184,10 +1167,10 @@
     "temperament": ["Playful", "Affectionate", "Loyal", "Social"],
     "vocalisation": 2,
     "weight": {
-      "imperial": [10, 12],
-      "metric": "5 - 6"
+      "lbs": [10, 12],
+      "kg": [5, 6]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Donskoy_(cat)"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Donskoy_(cat)"
   },
   {
     "adaptability": 3,
@@ -1219,13 +1202,12 @@
     "strangerFriendly": 3,
     "suppressedTail": false,
     "temperament": ["Intelligent", "Friendly", "Gentle", "Loving", "Loyal"],
-    "vetstreet_url": "http://www.vetstreet.com/cats/li-hua",
     "vocalisation": 3,
     "weight": {
-      "imperial": [9, 12],
-      "metric": "4 - 6"
+      "lbs": [9, 12],
+      "kg": [4, 6]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Dragon_Li"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Dragon_Li"
   },
   {
     "CFAUrl": "http://cfa.org/Breeds/BreedsCJ/EgyptianMau.aspx",
@@ -1267,13 +1249,12 @@
       "Playful"
     ],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/egyptian-mau",
-    "vetstreet_url": "http://www.vetstreet.com/cats/egyptian-mau",
     "vocalisation": 3,
     "weight": {
-      "imperial": [6, 14],
-      "metric": "3 - 6"
+      "lbs": [6, 14],
+      "kg": [3, 6]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Egyptian_Mau"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Egyptian_Mau"
   },
   {
     "CFAUrl": "http://cfa.org/Breeds/BreedsCJ/EuropeanBurmese.aspx",
@@ -1309,8 +1290,8 @@
     "temperament": ["Sweet", "Affectionate", "Loyal"],
     "vocalisation": 4,
     "weight": {
-      "imperial": [7, 14],
-      "metric": "3 - 6"
+      "lbs": [7, 14],
+      "kg": [3, 6]
     }
   },
   {
@@ -1345,13 +1326,12 @@
     "suppressedTail": false,
     "temperament": ["Affectionate", "Sweet", "Loyal", "Quiet", "Peaceful"],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/exotic-shorthair",
-    "vetstreet_url": "http://www.vetstreet.com/cats/exotic-shorthair",
     "vocalisation": 1,
     "weight": {
-      "imperial": [7, 14],
-      "metric": "3 - 6"
+      "lbs": [7, 14],
+      "kg": [3, 6]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Exotic_Shorthair"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Exotic_Shorthair"
   },
   {
     "CFAUrl": "http://cfa.org/Breeds/BreedsCJ/HavanaBrown.aspx",
@@ -1392,13 +1372,12 @@
       "Playful"
     ],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/havana-brown",
-    "vetstreet_url": "http://www.vetstreet.com/cats/havana-brown",
     "vocalisation": 1,
     "weight": {
-      "imperial": [6, 10],
-      "metric": "3 - 5"
+      "lbs": [6, 10],
+      "kg": [3, 5]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Havana_Brown"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Havana_Brown"
   },
   {
     "adaptability": 5,
@@ -1436,13 +1415,12 @@
     "suppressedTail": false,
     "temperament": ["Dependent", "Gentle", "Intelligent", "Quiet", "Social"],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/himalayan",
-    "vetstreet_url": "http://www.vetstreet.com/cats/himalayan",
     "vocalisation": 1,
     "weight": {
-      "imperial": [7, 14],
-      "metric": "3 - 6"
+      "lbs": [7, 14],
+      "kg": [3, 6]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Himalayan_(cat)"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Himalayan_(cat)"
   },
   {
     "CFAUrl": "http://cfa.org/Breeds/BreedsCJ/JapaneseBobtail.aspx",
@@ -1486,13 +1464,12 @@
       "Social"
     ],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/japanese-bobtail",
-    "vetstreet_url": "http://www.vetstreet.com/cats/japanese-bobtail",
     "vocalisation": 5,
     "weight": {
-      "imperial": [5, 10],
-      "metric": "2 - 5"
+      "lbs": [5, 10],
+      "kg": [2, 5]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Japanese_Bobtail"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Japanese_Bobtail"
   },
   {
     "adaptability": 4,
@@ -1524,13 +1501,12 @@
     "suppressedTail": false,
     "temperament": ["Active", "Devoted", "Intelligent", "Playful"],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/javanese",
-    "vetstreet_url": "http://www.vetstreet.com/cats/javanese",
     "vocalisation": 5,
     "weight": {
-      "imperial": [5, 10],
-      "metric": "2 - 5"
+      "lbs": [5, 10],
+      "kg": [2, 5]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Javanese_cat"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Javanese_cat"
   },
   {
     "CFAUrl": "http://cfa.org/Breeds/BreedsKthruR/KhaoManee.aspx",
@@ -1566,10 +1542,10 @@
     "temperament": ["Calm", "Relaxed", "Talkative", "Playful", "Warm"],
     "vocalisation": 5,
     "weight": {
-      "imperial": [8, 12],
-      "metric": "4 - 6"
+      "lbs": [8, 12],
+      "kg": [4, 6]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Khao_Manee"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Khao_Manee"
   },
   {
     "CFAUrl": "http://cfa.org/Breeds/BreedsKthruR/Korat.aspx",
@@ -1607,13 +1583,12 @@
       "Trainable"
     ],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/korat",
-    "vetstreet_url": "http://www.vetstreet.com/cats/korat",
     "vocalisation": 3,
     "weight": {
-      "imperial": [7, 11],
-      "metric": "3 - 5"
+      "lbs": [7, 11],
+      "kg": [3, 5]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Korat"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Korat"
   },
   {
     "adaptability": 5,
@@ -1651,13 +1626,12 @@
       "Playful",
       "Trainable"
     ],
-    "vetstreet_url": "http://www.vetstreet.com/cats/kurilian-bobtail",
     "vocalisation": 3,
     "weight": {
-      "imperial": [8, 15],
-      "metric": "4 - 7"
+      "lbs": [8, 15],
+      "kg": [4, 7]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Kurilian_Bobtail"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Kurilian_Bobtail"
   },
   {
     "CFAUrl": "http://cfa.org/Breeds/BreedsKthruR/LaPerm.aspx",
@@ -1698,13 +1672,12 @@
       "Quiet"
     ],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/laperm",
-    "vetstreet_url": "http://www.vetstreet.com/cats/laperm",
     "vocalisation": 3,
     "weight": {
-      "imperial": [6, 10],
-      "metric": "3 - 5"
+      "lbs": [6, 10],
+      "kg": [3, 5]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/LaPerm"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/LaPerm"
   },
   {
     "CFAUrl": "http://cfa.org/Breeds/BreedsKthruR/MaineCoon.aspx",
@@ -1751,13 +1724,12 @@
       "Independent"
     ],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/maine-coon",
-    "vetstreet_url": "http://www.vetstreet.com/cats/maine-coon",
     "vocalisation": 1,
     "weight": {
-      "imperial": [12, 18],
-      "metric": "5 - 8"
+      "lbs": [12, 18],
+      "kg": [5, 8]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Maine_Coon"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Maine_Coon"
   },
   {
     "adaptability": 5,
@@ -1790,10 +1762,10 @@
     "temperament": ["Affectionate", "Interactive", "Playful", "Social"],
     "vocalisation": 5,
     "weight": {
-      "imperial": [6, 13],
-      "metric": "3 - 6"
+      "lbs": [6, 13],
+      "kg": [3, 6]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Asian_cat"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Asian_cat"
   },
   {
     "CFAUrl": "http://cfa.org/Breeds/BreedsKthruR/Manx.aspx",
@@ -1827,13 +1799,12 @@
     "suppressedTail": true,
     "temperament": ["Easy Going", "Intelligent", "Loyal", "Playful", "Social"],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/manx",
-    "vetstreet_url": "http://www.vetstreet.com/cats/manx",
     "vocalisation": 3,
     "weight": {
-      "imperial": [7, 13],
-      "metric": "3 - 6"
+      "lbs": [7, 13],
+      "kg": [3, 6]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Manx_(cat)"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Manx_(cat)"
   },
   {
     "adaptability": 5,
@@ -1865,13 +1836,12 @@
     "strangerFriendly": 5,
     "suppressedTail": false,
     "temperament": ["Agile", "Easy Going", "Intelligent", "Playful"],
-    "vetstreet_url": "http://www.vetstreet.com/cats/munchkin",
     "vocalisation": 3,
     "weight": {
-      "imperial": [5, 9],
-      "metric": "2 - 4"
+      "lbs": [5, 9],
+      "kg": [2, 4]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Munchkin_(cat)"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Munchkin_(cat)"
   },
   {
     "adaptability": 5,
@@ -1905,10 +1875,10 @@
     "temperament": ["Gentle", "Quiet", "Shy", "Playful"],
     "vocalisation": 1,
     "weight": {
-      "imperial": [7, 11],
-      "metric": "3 - 5"
+      "lbs": [7, 11],
+      "kg": [3, 5]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Nebelung"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Nebelung"
   },
   {
     "CFAUrl": "http://cfa.org/Breeds/BreedsKthruR/NorwegianForestCat.aspx",
@@ -1953,13 +1923,12 @@
       "Curious"
     ],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/norwegian-forest-cat",
-    "vetstreet_url": "http://www.vetstreet.com/cats/norwegian-forest-cat",
     "vocalisation": 1,
     "weight": {
-      "imperial": [8, 16],
-      "metric": "4 - 7"
+      "lbs": [8, 16],
+      "kg": [4, 7]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Norwegian_Forest_Cat"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Norwegian_Forest_Cat"
   },
   {
     "CFAUrl": "http://cfa.org/Breeds/BreedsKthruR/Ocicat.aspx",
@@ -2002,13 +1971,12 @@
       "Social"
     ],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/ocicat",
-    "vetstreet_url": "http://www.vetstreet.com/cats/ocicat",
     "vocalisation": 3,
     "weight": {
-      "imperial": [7, 15],
-      "metric": "3 - 7"
+      "lbs": [7, 15],
+      "kg": [3, 7]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Ocicat"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Ocicat"
   },
   {
     "CFAUrl": "http://cfa.org/Breeds/BreedsKthruR/Oriental.aspx",
@@ -2049,13 +2017,12 @@
       "Curious"
     ],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/oriental",
-    "vetstreet_url": "http://www.vetstreet.com/cats/oriental",
     "vocalisation": 5,
     "weight": {
-      "imperial": [5, 10],
-      "metric": "2 - 5"
+      "lbs": [5, 10],
+      "kg": [2, 5]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Oriental_Shorthair"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Oriental_Shorthair"
   },
   {
     "CFAUrl": "http://cfa.org/Breeds/BreedsKthruR/Persian.aspx",
@@ -2089,13 +2056,12 @@
     "suppressedTail": false,
     "temperament": ["Affectionate", "Loyal", "Sedate", "Quiet"],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/persian",
-    "vetstreet_url": "http://www.vetstreet.com/cats/persian",
     "vocalisation": 1,
     "weight": {
-      "imperial": [9, 14],
-      "metric": "4 - 6"
+      "lbs": [9, 14],
+      "kg": [4, 6]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Persian_(cat)"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Persian_(cat)"
   },
   {
     "adaptability": 5,
@@ -2127,13 +2093,12 @@
     "strangerFriendly": 4,
     "suppressedTail": true,
     "temperament": ["Affectionate", "Social", "Intelligent", "Loyal"],
-    "vetstreet_url": "http://www.vetstreet.com/cats/pixiebob",
     "vocalisation": 1,
     "weight": {
-      "imperial": [8, 17],
-      "metric": "4 - 8"
+      "lbs": [8, 17],
+      "kg": [4, 8]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Pixiebob"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Pixiebob"
   },
   {
     "CFAUrl": "http://cfa.org/Breeds/BreedsKthruR/Ragamuffin.aspx",
@@ -2167,13 +2132,12 @@
     "suppressedTail": false,
     "temperament": ["Affectionate", "Friendly", "Gentle", "Calm"],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/ragamuffin",
-    "vetstreet_url": "http://www.vetstreet.com/cats/ragamuffin",
     "vocalisation": 1,
     "weight": {
-      "imperial": [8, 20],
-      "metric": "4 - 9"
+      "lbs": [8, 20],
+      "kg": [4, 9]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Ragamuffin_cat"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Ragamuffin_cat"
   },
   {
     "CFAUrl": "http://cfa.org/Breeds/BreedsKthruR/Ragdoll.aspx",
@@ -2207,13 +2171,12 @@
     "suppressedTail": false,
     "temperament": ["Affectionate", "Friendly", "Gentle", "Quiet", "Easygoing"],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/ragdoll",
-    "vetstreet_url": "http://www.vetstreet.com/cats/ragdoll",
     "vocalisation": 1,
     "weight": {
-      "imperial": [12, 20],
-      "metric": "5 - 9"
+      "lbs": [12, 20],
+      "kg": [5, 9]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Ragdoll"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Ragdoll"
   },
   {
     "CFAUrl": "http://cfa.org/Breeds/BreedsKthruR/RussianBlue.aspx",
@@ -2256,13 +2219,12 @@
       "Quiet"
     ],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/russian-blue",
-    "vetstreet_url": "http://www.vetstreet.com/cats/russian-blue-nebelung",
     "vocalisation": 1,
     "weight": {
-      "imperial": [5, 11],
-      "metric": "2 - 5"
+      "lbs": [5, 11],
+      "kg": [2, 5]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Russian_Blue"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Russian_Blue"
   },
   {
     "adaptability": 5,
@@ -2301,13 +2263,12 @@
       "Adventurous",
       "Affectionate"
     ],
-    "vetstreet_url": "http://www.vetstreet.com/cats/savannah",
     "vocalisation": 1,
     "weight": {
-      "imperial": [8, 25],
-      "metric": "4 - 11"
+      "lbs": [8, 25],
+      "kg": [4, 11]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Savannah_cat"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Savannah_cat"
   },
   {
     "CFAUrl": "http://cfa.org/Breeds/BreedsSthruT/ScottishFold.aspx",
@@ -2348,13 +2309,12 @@
       "Loving"
     ],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/scottish-fold",
-    "vetstreet_url": "http://www.vetstreet.com/cats/scottish-fold-highland-fold",
     "vocalisation": 1,
     "weight": {
-      "imperial": [5, 11],
-      "metric": "2 - 5"
+      "lbs": [5, 11],
+      "kg": [2, 5]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Scottish_Fold"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Scottish_Fold"
   },
   {
     "CFAUrl": "http://cfa.org/Breeds/BreedsSthruT/SelkirkRex.aspx",
@@ -2397,13 +2357,12 @@
       "Social"
     ],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/selkirk-rex",
-    "vetstreet_url": "http://www.vetstreet.com/cats/selkirk-rex",
     "vocalisation": 3,
     "weight": {
-      "imperial": [6, 16],
-      "metric": "3 - 7"
+      "lbs": [6, 16],
+      "kg": [3, 7]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Selkirk_Rex"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Selkirk_Rex"
   },
   {
     "CFAUrl": "http://cfa.org/Breeds/BreedsSthruT/Siamese.aspx",
@@ -2444,13 +2403,12 @@
       "Energetic"
     ],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/siamese",
-    "vetstreet_url": "http://www.vetstreet.com/cats/siamese",
     "vocalisation": 5,
     "weight": {
-      "imperial": [8, 15],
-      "metric": "4 - 7"
+      "lbs": [8, 15],
+      "kg": [4, 7]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Siamese_(cat)"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Siamese_(cat)"
   },
   {
     "CFAUrl": "http://cfa.org/Breeds/BreedsSthruT/Siberian.aspx",
@@ -2492,13 +2450,12 @@
       "Affectionate"
     ],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/siberian",
-    "vetstreet_url": "http://www.vetstreet.com/cats/siberian",
     "vocalisation": 1,
     "weight": {
-      "imperial": [8, 16],
-      "metric": "4 - 7"
+      "lbs": [8, 16],
+      "kg": [4, 7]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Siberian_(cat)"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Siberian_(cat)"
   },
   {
     "CFAUrl": "http://cfa.org/Breeds/BreedsSthruT/Singapura.aspx",
@@ -2540,13 +2497,12 @@
       "Loyal"
     ],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/singapura",
-    "vetstreet_url": "http://www.vetstreet.com/cats/singapura",
     "vocalisation": 1,
     "weight": {
-      "imperial": [5, 8],
-      "metric": "2 - 4"
+      "lbs": [5, 8],
+      "kg": [2, 4]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Singapura_(cat)"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Singapura_(cat)"
   },
   {
     "adaptability": 5,
@@ -2580,10 +2536,10 @@
     "temperament": ["Affectionate", "Social", "Intelligent", "Sweet-tempered"],
     "vocalisation": 5,
     "weight": {
-      "imperial": [7, 12],
-      "metric": "3 - 5"
+      "lbs": [7, 12],
+      "kg": [3, 5]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Snowshoe_(cat)"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Snowshoe_(cat)"
   },
   {
     "CFAUrl": "http://cfa.org/Breeds/BreedsSthruT/Somali.aspx",
@@ -2624,13 +2580,12 @@
       "Loyal"
     ],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/somali",
-    "vetstreet_url": "http://www.vetstreet.com/cats/somali",
     "vocalisation": 1,
     "weight": {
-      "imperial": [6, 12],
-      "metric": "3 - 5"
+      "lbs": [6, 12],
+      "kg": [3, 5]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Somali_(cat)"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Somali_(cat)"
   },
   {
     "CFAUrl": "http://cfa.org/Breeds/BreedsSthruT/Sphynx.aspx",
@@ -2664,13 +2619,12 @@
     "suppressedTail": false,
     "temperament": ["Loyal", "Inquisitive", "Friendly", "Quiet", "Gentle"],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/sphynx",
-    "vetstreet_url": "http://www.vetstreet.com/cats/sphynx",
     "vocalisation": 5,
     "weight": {
-      "imperial": [6, 12],
-      "metric": "3 - 5"
+      "lbs": [6, 12],
+      "kg": [3, 5]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Sphynx_(cat)"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Sphynx_(cat)"
   },
   {
     "CFAUrl": "http://cfa.org/Breeds/BreedsSthruT/Tonkinese.aspx",
@@ -2712,13 +2666,12 @@
       "Affectionate"
     ],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/tonkinese",
-    "vetstreet_url": "http://www.vetstreet.com/cats/tonkinese",
     "vocalisation": 5,
     "weight": {
-      "imperial": [6, 12],
-      "metric": "3 - 5"
+      "lbs": [6, 12],
+      "kg": [3, 5]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Tonkinese_(cat)"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Tonkinese_(cat)"
   },
   {
     "adaptability": 5,
@@ -2750,13 +2703,12 @@
     "strangerFriendly": 5,
     "suppressedTail": false,
     "temperament": ["Playful", "Social", "Intelligent"],
-    "vetstreet_url": "http://www.vetstreet.com/cats/toyger",
     "vocalisation": 5,
     "weight": {
-      "imperial": [7, 15],
-      "metric": "3 - 7"
+      "lbs": [7, 15],
+      "kg": [3, 7]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Toyger"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Toyger"
   },
   {
     "CFAUrl": "http://cfa.org/Breeds/BreedsSthruT/TurkishAngora.aspx",
@@ -2797,13 +2749,12 @@
       "Social"
     ],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/turkish-angora",
-    "vetstreet_url": "http://www.vetstreet.com/cats/turkish-angora",
     "vocalisation": 3,
     "weight": {
-      "imperial": [5, 10],
-      "metric": "2 - 5"
+      "lbs": [5, 10],
+      "kg": [2, 5]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Turkish_Angora"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Turkish_Angora"
   },
   {
     "CFAUrl": "http://cfa.org/Breeds/BreedsSthruT/TurkishVan.aspx",
@@ -2836,13 +2787,12 @@
     "suppressedTail": false,
     "temperament": ["Agile", "Intelligent", "Loyal", "Playful", "Energetic"],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/turkish-van",
-    "vetstreet_url": "http://www.vetstreet.com/cats/turkish-van",
     "vocalisation": 5,
     "weight": {
-      "imperial": [7, 20],
-      "metric": "3 - 9"
+      "lbs": [7, 20],
+      "kg": [3, 9]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/Turkish_Van"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/Turkish_Van"
   },
   {
     "adaptability": 5,
@@ -2876,9 +2826,9 @@
     "temperament": ["Playful", "Social", "Intelligent", "Curious", "Friendly"],
     "vocalisation": 5,
     "weight": {
-      "imperial": [12, 18],
-      "metric": "5 - 8"
+      "lbs": [12, 18],
+      "kg": [5, 8]
     },
-    "wikipedia_url": "https://en.wikipedia.org/wiki/York_Chocolate"
+    "wikipediaURL": "https://en.wikipedia.org/wiki/York_Chocolate"
   }
 ]
