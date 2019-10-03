@@ -144,6 +144,16 @@ const typeDefs = gql`
     Does the breed have a suppressed tail
     """
     suppressedTail: Boolean
+
+    """
+    The temperament of the breed
+    """
+    temperament: [String]
+
+    """
+    How vocal the breed is (1-5)
+    """
+    vocalisation: Int
   }
 
   type Query {

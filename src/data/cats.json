@@ -1,9 +1,9 @@
 [
   {
+    "CFAUrl": "http://cfa.org/Breeds/BreedsAB/Abyssinian.aspx",
     "adaptability": 5,
     "affectionLevel": 5,
     "alternativeNames": null,
-    "CFAUrl": "http://cfa.org/Breeds/BreedsAB/Abyssinian.aspx",
     "childFriendliness": 3,
     "countryCode": "EG",
     "description": "The Abyssinian is easy to care for, and a joy to have in your home. They’re affectionate cats and love both people and other animals.",
@@ -29,12 +29,18 @@
     "socialNeeds": 5,
     "strangerFriendly": 5,
     "suppressedTail": false,
-    "temperament": "Active, Energetic, Independent, Intelligent, Gentle",
+    "temperament": [
+      "Active",
+      "Energetic",
+      "Independent",
+      "Intelligent",
+      "Gentle"
+    ],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/abyssinian",
     "vetstreet_url": "http://www.vetstreet.com/cats/abyssinian",
     "vocalisation": 1,
     "weight": {
-      "imperial": "7  -  10",
+      "imperial": [7, 10],
       "metric": "3 - 5"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/Abyssinian_(cat)"
@@ -67,20 +73,26 @@
     "socialNeeds": 4,
     "strangerFriendly": 4,
     "suppressedTail": false,
-    "temperament": "Affectionate, Social, Intelligent, Playful, Active",
+    "temperament": [
+      "Affectionate",
+      "Social",
+      "Intelligent",
+      "Playful",
+      "Active"
+    ],
     "vetstreet_url": "http://www.vetstreet.com/cats/aegean-cat",
     "vocalisation": 3,
     "weight": {
-      "imperial": "7 - 10",
+      "imperial": [7, 10],
       "metric": "3 - 5"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aegean_cat"
   },
   {
+    "CFAUrl": "http://cfa.org/Breeds/BreedsAB/AmericanBobtail.aspx",
     "adaptability": 5,
     "affectionLevel": 5,
     "alternativeNames": null,
-    "CFAUrl": "http://cfa.org/Breeds/BreedsAB/AmericanBobtail.aspx",
     "childFriendliness": 4,
     "countryCode": "US",
     "description": "American Bobtails are loving and incredibly intelligent cats possessing a distinctive wild appearance. They are extremely interactive cats that bond with their human family with great devotion.",
@@ -106,21 +118,27 @@
     "socialNeeds": 3,
     "strangerFriendly": 3,
     "suppressedTail": true,
-    "temperament": "Intelligent, Interactive, Lively, Playful, Sensitive",
+    "temperament": [
+      "Intelligent",
+      "Interactive",
+      "Lively",
+      "Playful",
+      "Sensitive"
+    ],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/american-bobtail",
     "vetstreet_url": "http://www.vetstreet.com/cats/american-bobtail",
     "vocalisation": 3,
     "weight": {
-      "imperial": "7 - 16",
+      "imperial": [7, 16],
       "metric": "3 - 7"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/American_Bobtail"
   },
   {
+    "CFAUrl": "http://cfa.org/Breeds/BreedsAB/AmericanCurl.aspx",
     "adaptability": 5,
     "affectionLevel": 5,
     "alternativeNames": null,
-    "CFAUrl": "http://cfa.org/Breeds/BreedsAB/AmericanCurl.aspx",
     "childFriendliness": 4,
     "countryCode": "US",
     "description": "Distinguished by truly unique ears that curl back in a graceful arc, offering an alert, perky, happily surprised expression, they cause people to break out into a big smile when viewing their first Curl. Curls are very people-oriented, faithful, affectionate soulmates, adjusting remarkably fast to other pets, children, and new situations.",
@@ -146,21 +164,29 @@
     "socialNeeds": 3,
     "strangerFriendly": 3,
     "suppressedTail": false,
-    "temperament": "Affectionate, Curious, Intelligent, Interactive, Lively, Playful, Social",
+    "temperament": [
+      "Affectionate",
+      "Curious",
+      "Intelligent",
+      "Interactive",
+      "Lively",
+      "Playful",
+      "Social"
+    ],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/american-curl",
     "vetstreet_url": "http://www.vetstreet.com/cats/american-curl",
     "vocalisation": 3,
     "weight": {
-      "imperial": "5 - 10",
+      "imperial": [5, 10],
       "metric": "2 - 5"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/American_Curl"
   },
   {
+    "CFAUrl": "http://cfa.org/Breeds/BreedsAB/AmericanShorthair.aspx",
     "adaptability": 5,
     "affectionLevel": 5,
     "alternativeNames": ["Domestic Shorthair"],
-    "CFAUrl": "http://cfa.org/Breeds/BreedsAB/AmericanShorthair.aspx",
     "childFriendliness": 4,
     "countryCode": "US",
     "description": "The American Shorthair is known for its longevity, robust health, good looks, sweet personality, and amiability with children, dogs, and other pets.",
@@ -186,21 +212,21 @@
     "socialNeeds": 4,
     "strangerFriendly": 3,
     "suppressedTail": false,
-    "temperament": "Active, Curious, Easy Going, Playful, Calm",
+    "temperament": ["Active", "Curious", "Easy Going", "Playful", "Calm"],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/american-shorthair",
     "vetstreet_url": "http://www.vetstreet.com/cats/american-shorthair",
     "vocalisation": 3,
     "weight": {
-      "imperial": "8 - 15",
+      "imperial": [8, 15],
       "metric": "4 - 7"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/American_Shorthair"
   },
   {
+    "CFAUrl": "http://cfa.org/Breeds/BreedsAB/AmericanWirehair.aspx",
     "adaptability": 5,
     "affectionLevel": 5,
     "alternativeNames": null,
-    "CFAUrl": "http://cfa.org/Breeds/BreedsAB/AmericanWirehair.aspx",
     "childFriendliness": 4,
     "countryCode": "US",
     "description": "The American Wirehair tends to be a calm and tolerant cat who takes life as it comes. His favorite hobby is bird-watching from a sunny windowsill, and his hunting ability will stand you in good stead if insects enter the house.",
@@ -226,11 +252,22 @@
     "socialNeeds": 3,
     "strangerFriendly": 3,
     "suppressedTail": false,
-    "temperament": "Affectionate, Curious, Gentle, Intelligent, Interactive, Lively, Loyal, Playful, Sensible, Social",
+    "temperament": [
+      "Affectionate",
+      "Curious",
+      "Gentle",
+      "Intelligent",
+      "Interactive",
+      "Lively",
+      "Loyal",
+      "Playful",
+      "Sensible",
+      "Social"
+    ],
     "vetstreet_url": "http://www.vetstreet.com/cats/american-wirehair",
     "vocalisation": 3,
     "weight": {
-      "imperial": "8 - 15",
+      "imperial": [8, 15],
       "metric": "4 - 7"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/American_Wirehair"
@@ -263,11 +300,18 @@
     "socialNeeds": 3,
     "strangerFriendly": 3,
     "suppressedTail": false,
-    "temperament": "Affectionate, Agile, Curious, Independent, Playful, Loyal",
+    "temperament": [
+      "Affectionate",
+      "Agile",
+      "Curious",
+      "Independent",
+      "Playful",
+      "Loyal"
+    ],
     "vcahospitals_url": "",
     "vocalisation": 1,
     "weight": {
-      "imperial": "8 - 16",
+      "imperial": [8, 16],
       "metric": "4 - 7"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/Arabian_Mau"
@@ -301,19 +345,25 @@
     "socialNeeds": 4,
     "strangerFriendly": 4,
     "suppressedTail": false,
-    "temperament": "Lively, Social, Fun-loving, Relaxed, Affectionate",
+    "temperament": [
+      "Lively",
+      "Social",
+      "Fun-loving",
+      "Relaxed",
+      "Affectionate"
+    ],
     "vocalisation": 3,
     "weight": {
-      "imperial": "7 - 15",
+      "imperial": [7, 15],
       "metric": "3 - 7"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/Australian_Mist"
   },
   {
+    "CFAUrl": "http://cfa.org/Breeds/BreedsAB/Balinese.aspx",
     "adaptability": 5,
     "affectionLevel": 5,
     "alternativeNames": ["Long-haired Siamese"],
-    "CFAUrl": "http://cfa.org/Breeds/BreedsAB/Balinese.aspx",
     "childFriendliness": 4,
     "countryCode": "US",
     "description": "Balinese are curious, outgoing, intelligent cats with excellent communication skills. They are known for their chatty personalities and are always eager to tell you their views on life, love, and what you’ve served them for dinner. ",
@@ -338,12 +388,12 @@
     "socialNeeds": 5,
     "strangerFriendly": 5,
     "suppressedTail": false,
-    "temperament": "Affectionate, Intelligent, Playful",
+    "temperament": ["Affectionate", "Intelligent", "Playful"],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/balinese",
     "vetstreet_url": "http://www.vetstreet.com/cats/balinese",
     "vocalisation": 5,
     "weight": {
-      "imperial": "4 - 10",
+      "imperial": [4, 10],
       "metric": "2 - 5"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/Balinese_(cat)"
@@ -377,20 +427,20 @@
     "socialNeeds": 3,
     "strangerFriendly": 3,
     "suppressedTail": false,
-    "temperament": "Affectionate, Lively, Friendly, Intelligent",
+    "temperament": ["Affectionate", "Lively", "Friendly", "Intelligent"],
     "vocalisation": 3,
     "weight": {
-      "imperial": "4 - 9",
+      "imperial": [4, 9],
       "metric": "2 - 4"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/Bambino_cat"
   },
   {
+    "CFAUrl": "http://cfa.org/Breeds/BreedsAB/Bengal.aspx",
     "adaptability": 5,
     "affectionLevel": 5,
     "bidability": 3,
     "cat_friendly": 4,
-    "CFAUrl": "http://cfa.org/Breeds/BreedsAB/Bengal.aspx",
     "childFriendliness": 4,
     "countryCode": "US",
     "description": "Bengals are a lot of fun to live with, but they're definitely not the cat for everyone, or for first-time cat owners. Extremely intelligent, curious and active, they demand a lot of interaction and woe betide the owner who doesn't provide it.",
@@ -416,21 +466,21 @@
     "socialNeeds": 5,
     "strangerFriendly": 3,
     "suppressedTail": false,
-    "temperament": "Alert, Agile, Energetic, Demanding, Intelligent",
+    "temperament": ["Alert", "Agile", "Energetic", "Demanding", "Intelligent"],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/bengal",
     "vetstreet_url": "http://www.vetstreet.com/cats/bengal",
     "vocalisation": 5,
     "weight": {
-      "imperial": "6 - 12",
+      "imperial": [6, 12],
       "metric": "3 - 7"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/Bengal_(cat)"
   },
   {
+    "CFAUrl": "http://cfa.org/Breeds/BreedsAB/Birman.aspx",
     "adaptability": 5,
     "affectionLevel": 5,
     "alternativeNames": ["Sacred Birman", "Sacred Cat Of Burma"],
-    "CFAUrl": "http://cfa.org/Breeds/BreedsAB/Birman.aspx",
     "childFriendliness": 4,
     "countryCode": "FR",
     "description": "The Birman is a docile, quiet cat who loves people and will follow them from room to room. Expect the Birman to want to be involved in what you’re doing. He communicates in a soft voice, mainly to remind you that perhaps it’s time for dinner or maybe for a nice cuddle on the sofa. He enjoys being held and will relax in your arms like a furry baby.",
@@ -456,21 +506,21 @@
     "socialNeeds": 4,
     "strangerFriendly": 3,
     "suppressedTail": false,
-    "temperament": "Affectionate, Active, Gentle, Social",
+    "temperament": ["Affectionate", "Active", "Gentle", "Social"],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/birman",
     "vetstreet_url": "http://www.vetstreet.com/cats/birman",
     "vocalisation": 1,
     "weight": {
-      "imperial": "6 - 15",
+      "imperial": [6, 15],
       "metric": "3 - 7"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/Birman"
   },
   {
+    "CFAUrl": "http://cfa.org/Breeds/BreedsAB/Bombay.aspx",
     "adaptability": 5,
     "affectionLevel": 5,
     "alternativeNames": ["Small black Panther"],
-    "CFAUrl": "http://cfa.org/Breeds/BreedsAB/Bombay.aspx",
     "childFriendliness": 4,
     "countryCode": "US",
     "description": "The the golden eyes and the shiny black coa of the Bopmbay is absolutely striking. Likely to bond most with one family member, the Bombay will follow you from room to room and will almost always have something to say about what you are doing, loving attention and to be carried around, often on his caregiver's shoulder.",
@@ -496,12 +546,18 @@
     "socialNeeds": 4,
     "strangerFriendly": 4,
     "suppressedTail": false,
-    "temperament": "Affectionate, Dependent, Gentle, Intelligent, Playful",
+    "temperament": [
+      "Affectionate",
+      "Dependent",
+      "Gentle",
+      "Intelligent",
+      "Playful"
+    ],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/bombay",
     "vetstreet_url": "http://www.vetstreet.com/cats/bombay",
     "vocalisation": 5,
     "weight": {
-      "imperial": "6 - 11",
+      "imperial": [6, 11],
       "metric": "3 - 5"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/Bombay_(cat)"
@@ -534,19 +590,26 @@
     "socialNeeds": 3,
     "strangerFriendly": 4,
     "suppressedTail": false,
-    "temperament": "Affectionate, Easy Going, Independent, Intelligent, Loyal, Social",
+    "temperament": [
+      "Affectionate",
+      "Easy Going",
+      "Independent",
+      "Intelligent",
+      "Loyal",
+      "Social"
+    ],
     "vocalisation": 1,
     "weight": {
-      "imperial": "8 - 18",
+      "imperial": [8, 18],
       "metric": "4 - 8"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/British_Longhair"
   },
   {
+    "CFAUrl": "http://cfa.org/Breeds/BreedsAB/BritishShorthair.aspx",
     "adaptability": 5,
     "affectionLevel": 4,
     "alternativeNames": ["Highlander", "Highland Straight", "Britannica"],
-    "CFAUrl": "http://cfa.org/Breeds/BreedsAB/BritishShorthair.aspx",
     "childFriendliness": 4,
     "countryCode": "GB",
     "description": "The British Shorthair is a very pleasant cat to have as a companion, ans is easy going and placid. The British is a fiercely loyal, loving cat and will attach herself to every one of her family members. While loving to play, she doesn't need hourly attention. If she is in the mood to play, she will find someone and bring a toy to that person. The British also plays well by herself, and thus is a good companion for single people.",
@@ -572,21 +635,28 @@
     "socialNeeds": 3,
     "strangerFriendly": 2,
     "suppressedTail": false,
-    "temperament": "Affectionate, Easy Going, Gentle, Loyal, Patient, calm",
+    "temperament": [
+      "Affectionate",
+      "Easy Going",
+      "Gentle",
+      "Loyal",
+      "Patient",
+      "Calm"
+    ],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/british-shorthair",
     "vetstreet_url": "http://www.vetstreet.com/cats/british-shorthair",
     "vocalisation": 1,
     "weight": {
-      "imperial": "12 - 20",
+      "imperial": [12, 20],
       "metric": "5 - 9"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/British_Shorthair"
   },
   {
+    "CFAUrl": "http://cfa.org/Breeds/BreedsAB/Burmese.aspx",
     "adaptability": 5,
     "affectionLevel": 5,
     "alternativeNames": null,
-    "CFAUrl": "http://cfa.org/Breeds/BreedsAB/Burmese.aspx",
     "childFriendliness": 4,
     "countryCode": "MM",
     "description": "Burmese love being with people, playing with them, and keeping them entertained. They crave close physical contact and abhor an empty lap. They will follow their humans from room to room, and sleep in bed with them, preferably under the covers, cuddled as close as possible. At play, they will turn around to see if their human is watching and being entertained by their crazy antics.",
@@ -612,21 +682,29 @@
     "socialNeeds": 5,
     "strangerFriendly": 5,
     "suppressedTail": false,
-    "temperament": "Curious, Intelligent, Gentle, Social, Interactive, Playful, Lively",
+    "temperament": [
+      "Curious",
+      "Intelligent",
+      "Gentle",
+      "Social",
+      "Interactive",
+      "Playful",
+      "Lively"
+    ],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/burmese",
     "vetstreet_url": "http://www.vetstreet.com/cats/burmese",
     "vocalisation": 5,
     "weight": {
-      "imperial": "6 - 12",
+      "imperial": [6, 12],
       "metric": "3 - 5"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/Burmese_(cat)"
   },
   {
+    "CFAUrl": "http://cfa.org/Breeds/BreedsAB/Burmilla.aspx",
     "adaptability": 5,
     "affectionLevel": 5,
     "alternativeNames": null,
-    "CFAUrl": "http://cfa.org/Breeds/BreedsAB/Burmilla.aspx",
     "childFriendliness": 4,
     "countryCode": "GB",
     "description": "The Burmilla is a fairly placid cat. She tends to be an easy cat to get along with, requiring minimal care. The Burmilla is affectionate and sweet and makes a good companion, the Burmilla is an ideal companion to while away a lonely evening. Loyal, devoted, and affectionate, this cat will stay by its owner, always keeping them company.",
@@ -652,11 +730,18 @@
     "socialNeeds": 4,
     "strangerFriendly": 3,
     "suppressedTail": false,
-    "temperament": "Easy Going, Friendly, Intelligent, Lively, Playful, Social",
+    "temperament": [
+      "Easy Going",
+      "Friendly",
+      "Intelligent",
+      "Lively",
+      "Playful",
+      "Social"
+    ],
     "vetstreet_url": "http://www.vetstreet.com/cats/burmilla",
     "vocalisation": 5,
     "weight": {
-      "imperial": "6 - 13",
+      "imperial": [6, 13],
       "metric": "3 - 6"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/Burmilla"
@@ -689,10 +774,16 @@
     "socialNeeds": 3,
     "strangerFriendly": 4,
     "suppressedTail": false,
-    "temperament": "Affectionate, Curious, Intelligent, Loyal, Social",
+    "temperament": [
+      "Affectionate",
+      "Curious",
+      "Intelligent",
+      "Loyal",
+      "Social"
+    ],
     "vocalisation": 1,
     "weight": {
-      "imperial": "10 - 15",
+      "imperial": [10, 15],
       "metric": "5 - 7"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/California_Spangled"
@@ -703,7 +794,7 @@
     "alternativeNames": ["Chantilly", "Foreign Longhair"],
     "childFriendliness": 4,
     "countryCode": "US",
-    "description": "The Chantilly is a devoted companion and prefers company to being left alone. While the Chantilly is not demanding, she will \"chirp\" and \"talk\" as if having a conversation. This breed is affectionate, with a sweet temperament. It can stay still for extended periods, happily lounging in the lap of its loved one. This quality makes the Tiffany an ideal traveling companion, and an ideal house companion for senior citizens and the physically handicapped.",
+    "description": "The Chantilly is a devoted companion and prefers company to being left alone. While the Chantilly is not demanding, she will \"chirp\" and \"talk\" as if having a conversation. This breed is affectionate, with a sweet temperament. I can stay still for extended periods, happily lounging in the lap of its loved one. This quality makes the Tiffany an ideal traveling companion, and an ideal house companion for senior citizens and the physically handicapped.",
     "dogFriendliness": 5,
     "energyLevel": 4,
     "experimental": false,
@@ -726,19 +817,19 @@
     "socialNeeds": 3,
     "strangerFriendly": 4,
     "suppressedTail": false,
-    "temperament": "Affectionate, Demanding, Interactive, Loyal",
+    "temperament": ["Affectionate", "Demanding", "Interactive", "Loyal"],
     "vocalisation": 5,
     "weight": {
-      "imperial": "7 - 12",
+      "imperial": [7, 12],
       "metric": "3 - 5"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/Chantilly-Tiffany"
   },
   {
+    "CFAUrl": "http://cfa.org/Breeds/BreedsCJ/Chartreux.aspx",
     "adaptability": 5,
     "affectionLevel": 5,
     "alternativeNames": null,
-    "CFAUrl": "http://cfa.org/Breeds/BreedsCJ/Chartreux.aspx",
     "childFriendliness": 4,
     "countryCode": "FR",
     "description": "The Chartreux is generally silent but communicative. Short play sessions, mixed with naps and meals are their perfect day. Whilst appreciating any attention you give them, they are not demanding, content instead to follow you around devotedly, sleep on your bed and snuggle with you if you’re not feeling well.",
@@ -764,12 +855,19 @@
     "socialNeeds": 5,
     "strangerFriendly": 5,
     "suppressedTail": false,
-    "temperament": "Affectionate, Loyal, Intelligent, Social, Lively, Playful",
+    "temperament": [
+      "Affectionate",
+      "Loyal",
+      "Intelligent",
+      "Social",
+      "Lively",
+      "Playful"
+    ],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/chartreux",
     "vetstreet_url": "http://www.vetstreet.com/cats/chartreux",
     "vocalisation": 1,
     "weight": {
-      "imperial": "6 - 15",
+      "imperial": [6, 15],
       "metric": "3 - 7"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/Chartreux"
@@ -802,10 +900,10 @@
     "socialNeeds": 3,
     "strangerFriendly": 4,
     "suppressedTail": false,
-    "temperament": "Affectionate, Intelligent, Playful, Social",
+    "temperament": ["Affectionate", "Intelligent", "Playful", "Social"],
     "vocalisation": 1,
     "weight": {
-      "imperial": "7 - 15",
+      "imperial": [7, 15],
       "metric": "3 - 7"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/Chausie"
@@ -838,21 +936,21 @@
     "socialNeeds": 3,
     "strangerFriendly": 4,
     "suppressedTail": false,
-    "temperament": "Affectionate, Gentle, Intelligent, Social",
+    "temperament": ["Affectionate", "Gentle", "Intelligent", "Social"],
     "vocalisation": 5,
     "weight": {
-      "imperial": "8 - 15",
+      "imperial": [8, 15],
       "metric": "4 - 7"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/Bengal_cat#Cheetoh"
   },
   {
+    "CFAUrl": "http://cfa.org/Breeds/BreedsCJ/ColorpointShorthair.aspx",
     "adaptability": 3,
     "affectionLevel": 4,
     "alternativeNames": null,
     "bidability": 4,
     "cat_friendly": 3,
-    "CFAUrl": "http://cfa.org/Breeds/BreedsCJ/ColorpointShorthair.aspx",
     "childFriendliness": 4,
     "countryCode": "US",
     "description": "Colorpoint Shorthairs are an affectionate breed, devoted and loyal to their people. Sensitive to their owner’s moods, Colorpoints are more than happy to sit at your side or on your lap and purr words of encouragement on a bad day. They will constantly seek out your lap whenever it is open and in the moments when your lap is preoccupied they will stretch out in sunny spots on the ground.",
@@ -878,21 +976,21 @@
     "socialNeeds": 4,
     "strangerFriendly": 2,
     "suppressedTail": false,
-    "temperament": "Affectionate, Intelligent, Playful, Social",
+    "temperament": ["Affectionate", "Intelligent", "Playful", "Social"],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/colorpoint-shorthair",
     "vocalisation": 5,
     "weight": {
-      "imperial": "4 - 10",
+      "imperial": [4, 10],
       "metric": "2 - 5"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/Colorpoint_Shorthair"
   },
   {
+    "CFAUrl": "http://cfa.org/Breeds/BreedsCJ/CornishRex.aspx",
     "adaptability": 5,
     "affectionLevel": 5,
     "alternativeNames": null,
     "cat_friendly": 2,
-    "CFAUrl": "http://cfa.org/Breeds/BreedsCJ/CornishRex.aspx",
     "childFriendliness": 4,
     "countryCode": "GB",
     "description": "This is a confident cat who loves people and will follow them around, waiting for any opportunity to sit in a lap or give a kiss. He enjoys being handled, making it easy to take him to the veterinarian or train him for therapy work. The Cornish Rex stay in kitten mode most of their lives and well into their senior years. ",
@@ -918,12 +1016,18 @@
     "socialNeeds": 5,
     "strangerFriendly": 3,
     "suppressedTail": false,
-    "temperament": "Affectionate, Intelligent, Active, Curious, Playful",
+    "temperament": [
+      "Affectionate",
+      "Intelligent",
+      "Active",
+      "Curious",
+      "Playful"
+    ],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/cornish-rex",
     "vetstreet_url": "http://www.vetstreet.com/cats/cornish-rex",
     "vocalisation": 1,
     "weight": {
-      "imperial": "5 - 9",
+      "imperial": [5, 9],
       "metric": "2 - 4"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/Cornish_Rex"
@@ -957,11 +1061,11 @@
     "socialNeeds": 5,
     "strangerFriendly": 3,
     "suppressedTail": true,
-    "temperament": "Gentle, Loyal, Intelligent, Playful",
+    "temperament": ["Gentle", "Loyal", "Intelligent", "Playful"],
     "vetstreet_url": "http://www.vetstreet.com/cats/cymric",
     "vocalisation": 3,
     "weight": {
-      "imperial": "8 - 13",
+      "imperial": [8, 13],
       "metric": "4 - 6"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/Cymric_(cat)"
@@ -995,19 +1099,19 @@
     "socialNeeds": 3,
     "strangerFriendly": 4,
     "suppressedTail": false,
-    "temperament": "Affectionate, Social",
+    "temperament": ["Affectionate", "Social"],
     "vocalisation": 3,
     "weight": {
-      "imperial": "8 - 16",
+      "imperial": [8, 16],
       "metric": "4 - 7"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/Cyprus_cat"
   },
   {
+    "CFAUrl": "http://cfa.org/Breeds/BreedsCJ/DevonRex.aspx",
     "adaptability": 5,
     "affectionLevel": 5,
     "alternativeNames": ["Pixie cat", "Alien cat", "Poodle cat"],
-    "CFAUrl": "http://cfa.org/Breeds/BreedsCJ/DevonRex.aspx",
     "childFriendliness": 4,
     "countryCode": "GB",
     "description": "The favourite perch of the Devon Rex is right at head level, on the shoulder of her favorite person. She takes a lively interest in everything that is going on and refuses to be left out of any activity. Count on her to stay as close to you as possible, occasionally communicating his opinions in a quiet voice. She loves people and welcomes the attentions of friends and family alike.",
@@ -1033,12 +1137,18 @@
     "socialNeeds": 5,
     "strangerFriendly": 5,
     "suppressedTail": false,
-    "temperament": "Highly interactive, Mischievous, Loyal, Social, Playful",
+    "temperament": [
+      "Highly interactive",
+      "Mischievous",
+      "Loyal",
+      "Social",
+      "Playful"
+    ],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/devon-rex",
     "vetstreet_url": "http://www.vetstreet.com/cats/devon-rex",
     "vocalisation": 1,
     "weight": {
-      "imperial": "5 - 10",
+      "imperial": [5, 10],
       "metric": "2 - 5"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/Devon_Rex"
@@ -1071,10 +1181,10 @@
     "socialNeeds": 5,
     "strangerFriendly": 5,
     "suppressedTail": false,
-    "temperament": "Playful, affectionate, loyal, social",
+    "temperament": ["Playful", "Affectionate", "Loyal", "Social"],
     "vocalisation": 2,
     "weight": {
-      "imperial": "10 - 12",
+      "imperial": [10, 12],
       "metric": "5 - 6"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/Donskoy_(cat)"
@@ -1108,20 +1218,20 @@
     "socialNeeds": 4,
     "strangerFriendly": 3,
     "suppressedTail": false,
-    "temperament": "Intelligent, Friendly, Gentle, Loving, Loyal",
+    "temperament": ["Intelligent", "Friendly", "Gentle", "Loving", "Loyal"],
     "vetstreet_url": "http://www.vetstreet.com/cats/li-hua",
     "vocalisation": 3,
     "weight": {
-      "imperial": "9 - 12",
+      "imperial": [9, 12],
       "metric": "4 - 6"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/Dragon_Li"
   },
   {
+    "CFAUrl": "http://cfa.org/Breeds/BreedsCJ/EgyptianMau.aspx",
     "adaptability": 2,
     "affectionLevel": 5,
     "alternativeNames": ["Pharaoh Cat"],
-    "CFAUrl": "http://cfa.org/Breeds/BreedsCJ/EgyptianMau.aspx",
     "childFriendliness": 3,
     "countryCode": "EG",
     "description": "The Egyptian Mau is gentle and reserved. She loves her people and desires attention and affection from them but is wary of others. Early, continuing socialization is essential with this sensitive and sometimes shy cat, especially if you plan to show or travel with her. Otherwise, she can be easily startled by unexpected noises or events.",
@@ -1147,22 +1257,30 @@
     "socialNeeds": 4,
     "strangerFriendly": 2,
     "suppressedTail": false,
-    "temperament": "Agile, Dependent, Gentle, Intelligent, Lively, Loyal, Playful",
+    "temperament": [
+      "Agile",
+      "Dependent",
+      "Gentle",
+      "Intelligent",
+      "Lively",
+      "Loyal",
+      "Playful"
+    ],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/egyptian-mau",
     "vetstreet_url": "http://www.vetstreet.com/cats/egyptian-mau",
     "vocalisation": 3,
     "weight": {
-      "imperial": "6 - 14",
+      "imperial": [6, 14],
       "metric": "3 - 6"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/Egyptian_Mau"
   },
   {
+    "CFAUrl": "http://cfa.org/Breeds/BreedsCJ/EuropeanBurmese.aspx",
     "adaptability": 5,
     "affectionLevel": 5,
     "alternativeNames": null,
     "cat_friendly": 4,
-    "CFAUrl": "http://cfa.org/Breeds/BreedsCJ/EuropeanBurmese.aspx",
     "childFriendliness": 4,
     "countryCode": "MM",
     "description": "The European Burmese is a very affectionate, intelligent, and loyal cat. They thrive on companionship and will want to be with you, participating in everything you do. While they might pick a favorite family member, chances are that they will interact with everyone in the home, as well as any visitors that come to call. They are inquisitive and playful, even as adults. ",
@@ -1188,18 +1306,18 @@
     "socialNeeds": 5,
     "strangerFriendly": 5,
     "suppressedTail": false,
-    "temperament": "Sweet, Affectionate, Loyal",
+    "temperament": ["Sweet", "Affectionate", "Loyal"],
     "vocalisation": 4,
     "weight": {
-      "imperial": "7 - 14",
+      "imperial": [7, 14],
       "metric": "3 - 6"
     }
   },
   {
+    "CFAUrl": "http://cfa.org/Breeds/BreedsCJ/Exotic.aspx",
     "adaptability": 5,
     "affectionLevel": 5,
     "alternativeNames": ["Exotic"],
-    "CFAUrl": "http://cfa.org/Breeds/BreedsCJ/Exotic.aspx",
     "childFriendliness": 3,
     "countryCode": "US",
     "description": "The Exotic Shorthair is a gentle friendly cat that has the same personality as the Persian. They love having fun, don’t mind the company of other cats and dogs, also love to curl up for a sleep in a safe place. Exotics love their own people, but around strangers they are cautious at first. Given time, they usually warm up to visitors.",
@@ -1225,21 +1343,21 @@
     "socialNeeds": 4,
     "strangerFriendly": 2,
     "suppressedTail": false,
-    "temperament": "Affectionate, Sweet, Loyal, Quiet, Peaceful",
+    "temperament": ["Affectionate", "Sweet", "Loyal", "Quiet", "Peaceful"],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/exotic-shorthair",
     "vetstreet_url": "http://www.vetstreet.com/cats/exotic-shorthair",
     "vocalisation": 1,
     "weight": {
-      "imperial": "7 - 14",
+      "imperial": [7, 14],
       "metric": "3 - 6"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/Exotic_Shorthair"
   },
   {
+    "CFAUrl": "http://cfa.org/Breeds/BreedsCJ/HavanaBrown.aspx",
     "adaptability": 5,
     "affectionLevel": 5,
     "alternativeNames": ["Havana", "HB"],
-    "CFAUrl": "http://cfa.org/Breeds/BreedsCJ/HavanaBrown.aspx",
     "childFriendliness": 4,
     "countryCode": "GB",
     "description": "The Havana Brown is human oriented, playful, and curious. She has a strong desire to spend time with her people and involve herself in everything they do. Being naturally inquisitive, the Havana Brown reaches out with a paw to touch and feel when investigating curiosities in its environment. They are truly sensitive by nature and frequently gently touch their human companions as if they are extending a paw of friendship.",
@@ -1265,12 +1383,19 @@
     "socialNeeds": 5,
     "strangerFriendly": 3,
     "suppressedTail": false,
-    "temperament": "Affectionate, Curious, Demanding, Friendly, Intelligent, Playful",
+    "temperament": [
+      "Affectionate",
+      "Curious",
+      "Demanding",
+      "Friendly",
+      "Intelligent",
+      "Playful"
+    ],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/havana-brown",
     "vetstreet_url": "http://www.vetstreet.com/cats/havana-brown",
     "vocalisation": 1,
     "weight": {
-      "imperial": "6 - 10",
+      "imperial": [6, 10],
       "metric": "3 - 5"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/Havana_Brown"
@@ -1309,21 +1434,21 @@
     "socialNeeds": 4,
     "strangerFriendly": 2,
     "suppressedTail": false,
-    "temperament": "Dependent, Gentle, Intelligent, Quiet, Social",
+    "temperament": ["Dependent", "Gentle", "Intelligent", "Quiet", "Social"],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/himalayan",
     "vetstreet_url": "http://www.vetstreet.com/cats/himalayan",
     "vocalisation": 1,
     "weight": {
-      "imperial": "7 - 14",
+      "imperial": [7, 14],
       "metric": "3 - 6"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/Himalayan_(cat)"
   },
   {
+    "CFAUrl": "http://cfa.org/Breeds/BreedsCJ/JapaneseBobtail.aspx",
     "adaptability": 5,
     "affectionLevel": 5,
     "alternativeNames": ["Japanese Truncated Cat"],
-    "CFAUrl": "http://cfa.org/Breeds/BreedsCJ/JapaneseBobtail.aspx",
     "childFriendliness": 4,
     "countryCode": "JP",
     "description": "The Japanese Bobtail is an active, sweet, loving and highly intelligent breed. They love to be with people and play seemingly endlessly. They learn their name and respond to it. They bring toys to people and play fetch with a favorite toy for hours. Bobtails are social and are at their best when in the company of people. They take over the house and are not intimidated. If a dog is in the house, Bobtails assume Bobtails are in charge.",
@@ -1349,12 +1474,22 @@
     "socialNeeds": 5,
     "strangerFriendly": 5,
     "suppressedTail": true,
-    "temperament": "Active, Agile, Clever, Easy Going, Intelligent, Lively, Loyal, Playful, Social",
+    "temperament": [
+      "Active",
+      "Agile",
+      "Clever",
+      "Easy Going",
+      "Intelligent",
+      "Lively",
+      "Loyal",
+      "Playful",
+      "Social"
+    ],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/japanese-bobtail",
     "vetstreet_url": "http://www.vetstreet.com/cats/japanese-bobtail",
     "vocalisation": 5,
     "weight": {
-      "imperial": "5 - 10",
+      "imperial": [5, 10],
       "metric": "2 - 5"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/Japanese_Bobtail"
@@ -1387,22 +1522,22 @@
     "socialNeeds": 5,
     "strangerFriendly": 3,
     "suppressedTail": false,
-    "temperament": "Active, Devoted, Intelligent, Playful",
+    "temperament": ["Active", "Devoted", "Intelligent", "Playful"],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/javanese",
     "vetstreet_url": "http://www.vetstreet.com/cats/javanese",
     "vocalisation": 5,
     "weight": {
-      "imperial": "5 - 10",
+      "imperial": [5, 10],
       "metric": "2 - 5"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/Javanese_cat"
   },
   {
+    "CFAUrl": "http://cfa.org/Breeds/BreedsKthruR/KhaoManee.aspx",
     "adaptability": 4,
     "affectionLevel": 4,
     "alternativeNames": ["Diamond Eye cat"],
     "cat_friendly": 3,
-    "CFAUrl": "http://cfa.org/Breeds/BreedsKthruR/KhaoManee.aspx",
     "childFriendliness": 3,
     "countryCode": "TH",
     "description": "The Khao Manee is highly intelligent, with an extrovert and inquisitive nature, however they are also very calm and relaxed, making them an idea lap cat.",
@@ -1428,18 +1563,18 @@
     "socialNeeds": 3,
     "strangerFriendly": 3,
     "suppressedTail": false,
-    "temperament": "Calm, Relaxed, Talkative, Playful, Warm",
+    "temperament": ["Calm", "Relaxed", "Talkative", "Playful", "Warm"],
     "vocalisation": 5,
     "weight": {
-      "imperial": "8 - 12",
+      "imperial": [8, 12],
       "metric": "4 - 6"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/Khao_Manee"
   },
   {
+    "CFAUrl": "http://cfa.org/Breeds/BreedsKthruR/Korat.aspx",
     "adaptability": 5,
     "affectionLevel": 5,
-    "CFAUrl": "http://cfa.org/Breeds/BreedsKthruR/Korat.aspx",
     "childFriendliness": 4,
     "countryCode": "TH",
     "description": "The Korat is a natural breed, and one of the oldest stable cat breeds. They are highly intelligent and confident cats that can be fearless, although they are startled by loud sounds and sudden movements. Korats form strong bonds with their people and like to cuddle and stay nearby.",
@@ -1464,12 +1599,18 @@
     "socialNeeds": 5,
     "strangerFriendly": 2,
     "suppressedTail": false,
-    "temperament": "Active, Loyal, highly intelligent, Expressive, Trainable",
+    "temperament": [
+      "Active",
+      "Loyal",
+      "Highly Intelligent",
+      "Expressive",
+      "Trainable"
+    ],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/korat",
     "vetstreet_url": "http://www.vetstreet.com/cats/korat",
     "vocalisation": 3,
     "weight": {
-      "imperial": "7 - 11",
+      "imperial": [7, 11],
       "metric": "3 - 5"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/Korat"
@@ -1501,20 +1642,28 @@
     "socialNeeds": 5,
     "strangerFriendly": 5,
     "suppressedTail": true,
-    "temperament": "Independent, highly intelligent, clever, inquisitive, sociable, playful, trainable",
+    "temperament": [
+      "Independent",
+      "Highly Intelligent",
+      "Clever",
+      "Inquisitive",
+      "Sociable",
+      "Playful",
+      "Trainable"
+    ],
     "vetstreet_url": "http://www.vetstreet.com/cats/kurilian-bobtail",
     "vocalisation": 3,
     "weight": {
-      "imperial": "8 - 15",
+      "imperial": [8, 15],
       "metric": "4 - 7"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/Kurilian_Bobtail"
   },
   {
+    "CFAUrl": "http://cfa.org/Breeds/BreedsKthruR/LaPerm.aspx",
     "adaptability": 5,
     "affectionLevel": 5,
     "alternativeNames": ["Si-Sawat"],
-    "CFAUrl": "http://cfa.org/Breeds/BreedsKthruR/LaPerm.aspx",
     "childFriendliness": 4,
     "countryCode": "TH",
     "description": "LaPerms are gentle and affectionate but also very active. Unlike many active breeds, the LaPerm is also quite content to be a lap cat. The LaPerm will often follow your lead; that is, if they are busy playing and you decide to sit and relax, simply pick up your LaPerm and sit down with it, and it will stay in your lap, devouring the attention you give it.",
@@ -1540,17 +1689,25 @@
     "socialNeeds": 4,
     "strangerFriendly": 4,
     "suppressedTail": false,
-    "temperament": "Affectionate, Friendly, Gentle, Intelligent, Playful, Quiet",
+    "temperament": [
+      "Affectionate",
+      "Friendly",
+      "Gentle",
+      "Intelligent",
+      "Playful",
+      "Quiet"
+    ],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/laperm",
     "vetstreet_url": "http://www.vetstreet.com/cats/laperm",
     "vocalisation": 3,
     "weight": {
-      "imperial": "6 - 10",
+      "imperial": [6, 10],
       "metric": "3 - 5"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/LaPerm"
   },
   {
+    "CFAUrl": "http://cfa.org/Breeds/BreedsKthruR/MaineCoon.aspx",
     "adaptability": 5,
     "affectionLevel": 5,
     "alternativeNames": [
@@ -1561,7 +1718,6 @@
       "American Longhair",
       "The Gentle Giants"
     ],
-    "CFAUrl": "http://cfa.org/Breeds/BreedsKthruR/MaineCoon.aspx",
     "childFriendliness": 4,
     "countryCode": "US",
     "description": "They are known for their size and luxurious long coat Maine Coons are considered a gentle giant. The good-natured and affable Maine Coon adapts well to many lifestyles and personalities. She likes being with people and has the habit of following them around, but isn’t needy. Most Maine Coons love water and they can be quite good swimmers.",
@@ -1587,12 +1743,18 @@
     "socialNeeds": 3,
     "strangerFriendly": 5,
     "suppressedTail": false,
-    "temperament": "Adaptable, Intelligent, Loving, Gentle, Independent",
+    "temperament": [
+      "Adaptable",
+      "Intelligent",
+      "Loving",
+      "Gentle",
+      "Independent"
+    ],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/maine-coon",
     "vetstreet_url": "http://www.vetstreet.com/cats/maine-coon",
     "vocalisation": 1,
     "weight": {
-      "imperial": "12 - 18",
+      "imperial": [12, 18],
       "metric": "5 - 8"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/Maine_Coon"
@@ -1625,19 +1787,19 @@
     "socialNeeds": 3,
     "strangerFriendly": 3,
     "suppressedTail": false,
-    "temperament": "Affectionate, Interactive, Playful, Social",
+    "temperament": ["Affectionate", "Interactive", "Playful", "Social"],
     "vocalisation": 5,
     "weight": {
-      "imperial": "6 - 13",
+      "imperial": [6, 13],
       "metric": "3 - 6"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/Asian_cat"
   },
   {
+    "CFAUrl": "http://cfa.org/Breeds/BreedsKthruR/Manx.aspx",
     "adaptability": 5,
     "affectionLevel": 5,
     "alternativeNames": ["Manks", "Stubbin", "Rumpy"],
-    "CFAUrl": "http://cfa.org/Breeds/BreedsKthruR/Manx.aspx",
     "childFriendliness": 4,
     "countryCode": "IM",
     "description": "The Manx is a placid, sweet cat that is gentle and playful. She never seems to get too upset about anything. She is a loving companion and adores being with people.",
@@ -1663,12 +1825,12 @@
     "socialNeeds": 5,
     "strangerFriendly": 3,
     "suppressedTail": true,
-    "temperament": "Easy Going, Intelligent, Loyal, Playful, Social",
+    "temperament": ["Easy Going", "Intelligent", "Loyal", "Playful", "Social"],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/manx",
     "vetstreet_url": "http://www.vetstreet.com/cats/manx",
     "vocalisation": 3,
     "weight": {
-      "imperial": "7 - 13",
+      "imperial": [7, 13],
       "metric": "3 - 6"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/Manx_(cat)"
@@ -1702,11 +1864,11 @@
     "socialNeeds": 5,
     "strangerFriendly": 5,
     "suppressedTail": false,
-    "temperament": "Agile, Easy Going, Intelligent, Playful",
+    "temperament": ["Agile", "Easy Going", "Intelligent", "Playful"],
     "vetstreet_url": "http://www.vetstreet.com/cats/munchkin",
     "vocalisation": 3,
     "weight": {
-      "imperial": "5 - 9",
+      "imperial": [5, 9],
       "metric": "2 - 4"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/Munchkin_(cat)"
@@ -1740,15 +1902,16 @@
     "socialNeeds": 3,
     "strangerFriendly": 3,
     "suppressedTail": false,
-    "temperament": "Gentle, Quiet, Shy, Playful",
+    "temperament": ["Gentle", "Quiet", "Shy", "Playful"],
     "vocalisation": 1,
     "weight": {
-      "imperial": "7 - 11",
+      "imperial": [7, 11],
       "metric": "3 - 5"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/Nebelung"
   },
   {
+    "CFAUrl": "http://cfa.org/Breeds/BreedsKthruR/NorwegianForestCat.aspx",
     "adaptability": 5,
     "affectionLevel": 5,
     "alternativeNames": [
@@ -1756,7 +1919,6 @@
       "Norsk Skogkatt / Norsk Skaukatt",
       "Weegie"
     ],
-    "CFAUrl": "http://cfa.org/Breeds/BreedsKthruR/NorwegianForestCat.aspx",
     "childFriendliness": 4,
     "countryCode": "NO",
     "description": "The Norwegian Forest Cat is a sweet, loving cat. She appreciates praise and loves to interact with her parent. She makes a loving companion and bonds with her parents once she accepts them for her own. She is still a hunter at heart. She loves to chase toys as if they are real. She is territorial and patrols several times each day to make certain that all is fine.",
@@ -1781,21 +1943,29 @@
     "socialNeeds": 5,
     "strangerFriendly": 5,
     "suppressedTail": false,
-    "temperament": "Sweet, Active, Intelligent, Social, Playful, Lively, Curious",
+    "temperament": [
+      "Sweet",
+      "Active",
+      "Intelligent",
+      "Social",
+      "Playful",
+      "Lively",
+      "Curious"
+    ],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/norwegian-forest-cat",
     "vetstreet_url": "http://www.vetstreet.com/cats/norwegian-forest-cat",
     "vocalisation": 1,
     "weight": {
-      "imperial": "8 - 16",
+      "imperial": [8, 16],
       "metric": "4 - 7"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/Norwegian_Forest_Cat"
   },
   {
+    "CFAUrl": "http://cfa.org/Breeds/BreedsKthruR/Ocicat.aspx",
     "adaptability": 5,
     "affectionLevel": 5,
     "alternativeNames": null,
-    "CFAUrl": "http://cfa.org/Breeds/BreedsKthruR/Ocicat.aspx",
     "childFriendliness": 4,
     "countryCode": "US",
     "description": "Loyal and devoted to their owners, the Ocicat is intelligent, confident, outgoing, and seems to have many dog traits. They can be trained to fetch toys, walk on a lead, taught to 'speak', come when called, and follow other commands. ",
@@ -1820,21 +1990,31 @@
     "socialNeeds": 5,
     "strangerFriendly": 5,
     "suppressedTail": false,
-    "temperament": "Active, Agile, Curious, Demanding, Friendly, Gentle, Lively, Playful, Social",
+    "temperament": [
+      "Active",
+      "Agile",
+      "Curious",
+      "Demanding",
+      "Friendly",
+      "Gentle",
+      "Lively",
+      "Playful",
+      "Social"
+    ],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/ocicat",
     "vetstreet_url": "http://www.vetstreet.com/cats/ocicat",
     "vocalisation": 3,
     "weight": {
-      "imperial": "7 - 15",
+      "imperial": [7, 15],
       "metric": "3 - 7"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ocicat"
   },
   {
+    "CFAUrl": "http://cfa.org/Breeds/BreedsKthruR/Oriental.aspx",
     "adaptability": 5,
     "affectionLevel": 5,
     "alternativeNames": ["Foreign Type"],
-    "CFAUrl": "http://cfa.org/Breeds/BreedsKthruR/Oriental.aspx",
     "childFriendliness": 4,
     "countryCode": "US",
     "description": "Orientals are passionate about the people in their lives. They become extremely attached to their humans, so be prepared for a lifetime commitment. When you are not available to entertain her, an Oriental will divert herself by jumping on top of the refrigerator, opening drawers, seeking out new hideaways.",
@@ -1860,21 +2040,28 @@
     "socialNeeds": 5,
     "strangerFriendly": 3,
     "suppressedTail": false,
-    "temperament": "Energetic, Affectionate, Intelligent, Social, Playful, Curious",
+    "temperament": [
+      "Energetic",
+      "Affectionate",
+      "Intelligent",
+      "Social",
+      "Playful",
+      "Curious"
+    ],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/oriental",
     "vetstreet_url": "http://www.vetstreet.com/cats/oriental",
     "vocalisation": 5,
     "weight": {
-      "imperial": "5 - 10",
+      "imperial": [5, 10],
       "metric": "2 - 5"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/Oriental_Shorthair"
   },
   {
+    "CFAUrl": "http://cfa.org/Breeds/BreedsKthruR/Persian.aspx",
     "adaptability": 5,
     "affectionLevel": 5,
     "alternativeNames": ["Longhair", "Persian Longhair", "Shiraz", "Shirazi"],
-    "CFAUrl": "http://cfa.org/Breeds/BreedsKthruR/Persian.aspx",
     "childFriendliness": 2,
     "countryCode": "IR",
     "description": "Persians are sweet, gentle cats that can be playful or quiet and laid-back. Great with families and children, they absolutely love to lounge around the house. While they don’t mind a full house or active kids, they’ll usually hide when they need some alone time.",
@@ -1900,12 +2087,12 @@
     "socialNeeds": 4,
     "strangerFriendly": 2,
     "suppressedTail": false,
-    "temperament": "Affectionate, loyal, Sedate, Quiet",
+    "temperament": ["Affectionate", "Loyal", "Sedate", "Quiet"],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/persian",
     "vetstreet_url": "http://www.vetstreet.com/cats/persian",
     "vocalisation": 1,
     "weight": {
-      "imperial": "9 - 14",
+      "imperial": [9, 14],
       "metric": "4 - 6"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/Persian_(cat)"
@@ -1939,20 +2126,20 @@
     "socialNeeds": 4,
     "strangerFriendly": 4,
     "suppressedTail": true,
-    "temperament": "Affectionate, Social, Intelligent, Loyal",
+    "temperament": ["Affectionate", "Social", "Intelligent", "Loyal"],
     "vetstreet_url": "http://www.vetstreet.com/cats/pixiebob",
     "vocalisation": 1,
     "weight": {
-      "imperial": "8 - 17",
+      "imperial": [8, 17],
       "metric": "4 - 8"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pixiebob"
   },
   {
+    "CFAUrl": "http://cfa.org/Breeds/BreedsKthruR/Ragamuffin.aspx",
     "adaptability": 5,
     "affectionLevel": 5,
     "alternativeNames": null,
-    "CFAUrl": "http://cfa.org/Breeds/BreedsKthruR/Ragamuffin.aspx",
     "childFriendliness": 4,
     "countryCode": "US",
     "description": "The Ragamuffin is calm, even tempered and gets along well with all family members. Changes in routine generally do not upset her. She is an ideal companion for those in apartments, and with children due to her patient nature.",
@@ -1978,21 +2165,21 @@
     "socialNeeds": 3,
     "strangerFriendly": 5,
     "suppressedTail": false,
-    "temperament": "Affectionate, Friendly, Gentle, Calm",
+    "temperament": ["Affectionate", "Friendly", "Gentle", "Calm"],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/ragamuffin",
     "vetstreet_url": "http://www.vetstreet.com/cats/ragamuffin",
     "vocalisation": 1,
     "weight": {
-      "imperial": "8 - 20",
+      "imperial": [8, 20],
       "metric": "4 - 9"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ragamuffin_cat"
   },
   {
+    "CFAUrl": "http://cfa.org/Breeds/BreedsKthruR/Ragdoll.aspx",
     "adaptability": 5,
     "affectionLevel": 5,
     "alternativeNames": ["Rag doll"],
-    "CFAUrl": "http://cfa.org/Breeds/BreedsKthruR/Ragdoll.aspx",
     "childFriendliness": 4,
     "countryCode": "US",
     "description": "Ragdolls love their people, greeting them at the door, following them around the house, and leaping into a lap or snuggling in bed whenever given the chance. They are the epitome of a lap cat, enjoy being carried and collapsing into the arms of anyone who holds them.",
@@ -2018,21 +2205,21 @@
     "socialNeeds": 5,
     "strangerFriendly": 3,
     "suppressedTail": false,
-    "temperament": "Affectionate, Friendly, Gentle, Quiet, Easygoing",
+    "temperament": ["Affectionate", "Friendly", "Gentle", "Quiet", "Easygoing"],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/ragdoll",
     "vetstreet_url": "http://www.vetstreet.com/cats/ragdoll",
     "vocalisation": 1,
     "weight": {
-      "imperial": "12 - 20",
+      "imperial": [12, 20],
       "metric": "5 - 9"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ragdoll"
   },
   {
+    "CFAUrl": "http://cfa.org/Breeds/BreedsKthruR/RussianBlue.aspx",
     "adaptability": 3,
     "affectionLevel": 3,
     "alternativeNames": ["Archangel Blue", "Archangel Cat"],
-    "CFAUrl": "http://cfa.org/Breeds/BreedsKthruR/RussianBlue.aspx",
     "childFriendliness": 3,
     "countryCode": "RU",
     "description": "Russian Blues are very loving and reserved. They do not like noisy households but they do like to play and can be quite active when outdoors. They bond very closely with their owner and are known to be compatible with other pets.",
@@ -2058,12 +2245,21 @@
     "socialNeeds": 3,
     "strangerFriendly": 1,
     "suppressedTail": false,
-    "temperament": "Active, Dependent, Easy Going, Gentle, Intelligent, Loyal, Playful, Quiet",
+    "temperament": [
+      "Active",
+      "Dependent",
+      "Easy Going",
+      "Gentle",
+      "Intelligent",
+      "Loyal",
+      "Playful",
+      "Quiet"
+    ],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/russian-blue",
     "vetstreet_url": "http://www.vetstreet.com/cats/russian-blue-nebelung",
     "vocalisation": 1,
     "weight": {
-      "imperial": "5 - 11",
+      "imperial": [5, 11],
       "metric": "2 - 5"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/Russian_Blue"
@@ -2096,20 +2292,28 @@
     "socialNeeds": 5,
     "strangerFriendly": 5,
     "suppressedTail": false,
-    "temperament": "Curious, Social, Intelligent, Loyal, Outgoing, Adventurous, Affectionate",
+    "temperament": [
+      "Curious",
+      "Social",
+      "Intelligent",
+      "Loyal",
+      "Outgoing",
+      "Adventurous",
+      "Affectionate"
+    ],
     "vetstreet_url": "http://www.vetstreet.com/cats/savannah",
     "vocalisation": 1,
     "weight": {
-      "imperial": "8 - 25",
+      "imperial": [8, 25],
       "metric": "4 - 11"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/Savannah_cat"
   },
   {
+    "CFAUrl": "http://cfa.org/Breeds/BreedsSthruT/ScottishFold.aspx",
     "adaptability": 5,
     "affectionLevel": 5,
     "alternativeNames": ["Scot Fold"],
-    "CFAUrl": "http://cfa.org/Breeds/BreedsSthruT/ScottishFold.aspx",
     "childFriendliness": 4,
     "countryCode": "GB",
     "description": "The Scottish Fold is a sweet, charming breed. She is an easy cat to live with and to care for. She is affectionate and is comfortable with all members of her family. Her tail should be handled gently. Folds are known for sleeping on their backs, and for sitting with their legs stretched out and their paws on their belly. This is called the \"Buddha Position\".",
@@ -2134,21 +2338,29 @@
     "socialNeeds": 3,
     "strangerFriendly": 3,
     "suppressedTail": false,
-    "temperament": "Affectionate, Intelligent, Loyal, Playful, Social, Sweet, Loving",
+    "temperament": [
+      "Affectionate",
+      "Intelligent",
+      "Loyal",
+      "Playful",
+      "Social",
+      "Sweet",
+      "Loving"
+    ],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/scottish-fold",
     "vetstreet_url": "http://www.vetstreet.com/cats/scottish-fold-highland-fold",
     "vocalisation": 1,
     "weight": {
-      "imperial": "5 - 11",
+      "imperial": [5, 11],
       "metric": "2 - 5"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/Scottish_Fold"
   },
   {
+    "CFAUrl": "http://cfa.org/Breeds/BreedsSthruT/SelkirkRex.aspx",
     "adaptability": 5,
     "affectionLevel": 5,
     "alternativeNames": ["Shepherd Cat"],
-    "CFAUrl": "http://cfa.org/Breeds/BreedsSthruT/SelkirkRex.aspx",
     "childFriendliness": 4,
     "countryCode": "US",
     "description": "The Selkirk Rex is an incredibly patient, loving, and tolerant breed. The Selkirk also has a silly side and is sometimes described as clownish. She loves being a lap cat and will be happy to chat with you in a quiet voice if you talk to her. ",
@@ -2174,21 +2386,30 @@
     "socialNeeds": 3,
     "strangerFriendly": 3,
     "suppressedTail": false,
-    "temperament": "Active, Affectionate, Dependent, Gentle, Patient, Playful, Quiet, Social",
+    "temperament": [
+      "Active",
+      "Affectionate",
+      "Dependent",
+      "Gentle",
+      "Patient",
+      "Playful",
+      "Quiet",
+      "Social"
+    ],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/selkirk-rex",
     "vetstreet_url": "http://www.vetstreet.com/cats/selkirk-rex",
     "vocalisation": 3,
     "weight": {
-      "imperial": "6 - 16",
+      "imperial": [6, 16],
       "metric": "3 - 7"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/Selkirk_Rex"
   },
   {
+    "CFAUrl": "http://cfa.org/Breeds/BreedsSthruT/Siamese.aspx",
     "adaptability": 5,
     "affectionLevel": 5,
     "alternativeNames": ["Siam", "Thai Cat"],
-    "CFAUrl": "http://cfa.org/Breeds/BreedsSthruT/Siamese.aspx",
     "childFriendliness": 4,
     "countryCode": "TH",
     "description": "While Siamese cats are extremely fond of their people, they will follow you around and supervise your every move, being talkative and opinionated. They are a demanding and social cat, that do not like being left alone for long periods.",
@@ -2214,24 +2435,31 @@
     "socialNeeds": 5,
     "strangerFriendly": 5,
     "suppressedTail": false,
-    "temperament": "Active, Agile, Clever, Sociable, Loving, Energetic",
+    "temperament": [
+      "Active",
+      "Agile",
+      "Clever",
+      "Sociable",
+      "Loving",
+      "Energetic"
+    ],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/siamese",
     "vetstreet_url": "http://www.vetstreet.com/cats/siamese",
     "vocalisation": 5,
     "weight": {
-      "imperial": "8 - 15",
+      "imperial": [8, 15],
       "metric": "4 - 7"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/Siamese_(cat)"
   },
   {
+    "CFAUrl": "http://cfa.org/Breeds/BreedsSthruT/Siberian.aspx",
     "adaptability": 5,
     "affectionLevel": 5,
     "alternativeNames": ["Moscow Semi-longhair", "HairSiberian Forest Cat"],
-    "CFAUrl": "http://cfa.org/Breeds/BreedsSthruT/Siberian.aspx",
     "childFriendliness": 4,
     "countryCode": "RU",
-    "description": "The Siberians dog like temperament and affection makes the ideal lap cat and will live quite happily indoors. Very agile and powerful, the Siberian cat can easily leap and reach high places, including the tops of refrigerators and even doors. ",
+    "description": "The Siberians dog like temperament an affection makes the ideal lap cat and will live quite happily indoors. Very agile and powerful, the Siberian cat can easily leap and reach high places, including the tops of refrigerators and even doors.",
     "dogFriendliness": 5,
     "energyLevel": 5,
     "experimental": false,
@@ -2254,21 +2482,29 @@
     "socialNeeds": 4,
     "strangerFriendly": 3,
     "suppressedTail": false,
-    "temperament": "Curious, Intelligent, Loyal, Sweet, Agile, Playful, Affectionate",
+    "temperament": [
+      "Curious",
+      "Intelligent",
+      "Loyal",
+      "Sweet",
+      "Agile",
+      "Playful",
+      "Affectionate"
+    ],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/siberian",
     "vetstreet_url": "http://www.vetstreet.com/cats/siberian",
     "vocalisation": 1,
     "weight": {
-      "imperial": "8 - 16",
+      "imperial": [8, 16],
       "metric": "4 - 7"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/Siberian_(cat)"
   },
   {
+    "CFAUrl": "http://cfa.org/Breeds/BreedsSthruT/Singapura.aspx",
     "adaptability": 5,
     "affectionLevel": 5,
     "alternativeNames": ["Drain Cat", "Kucinta", "Pura"],
-    "CFAUrl": "http://cfa.org/Breeds/BreedsSthruT/Singapura.aspx",
     "childFriendliness": 4,
     "countryCode": "SP",
     "description": "The Singapura is usually cautious when it comes to meeting new people, but loves attention from his family so much that she sometimes has the reputation of being a pest. This is a highly active, curious and affectionate cat. She may be small, but she knows she’s in charge",
@@ -2294,12 +2530,20 @@
     "socialNeeds": 5,
     "strangerFriendly": 5,
     "suppressedTail": false,
-    "temperament": "Affectionate, Curious, Easy Going, Intelligent, Interactive, Lively, Loyal",
+    "temperament": [
+      "Affectionate",
+      "Curious",
+      "Easy Going",
+      "Intelligent",
+      "Interactive",
+      "Lively",
+      "Loyal"
+    ],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/singapura",
     "vetstreet_url": "http://www.vetstreet.com/cats/singapura",
     "vocalisation": 1,
     "weight": {
-      "imperial": "5 - 8",
+      "imperial": [5, 8],
       "metric": "2 - 4"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/Singapura_(cat)"
@@ -2333,19 +2577,19 @@
     "socialNeeds": 4,
     "strangerFriendly": 4,
     "suppressedTail": false,
-    "temperament": "Affectionate, Social, Intelligent, Sweet-tempered",
+    "temperament": ["Affectionate", "Social", "Intelligent", "Sweet-tempered"],
     "vocalisation": 5,
     "weight": {
-      "imperial": "7 - 12",
+      "imperial": [7, 12],
       "metric": "3 - 5"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/Snowshoe_(cat)"
   },
   {
+    "CFAUrl": "http://cfa.org/Breeds/BreedsSthruT/Somali.aspx",
     "adaptability": 5,
     "affectionLevel": 5,
     "alternativeNames": ["Fox Cat", "Long-Haired Abyssinian"],
-    "CFAUrl": "http://cfa.org/Breeds/BreedsSthruT/Somali.aspx",
     "childFriendliness": 3,
     "countryCode": "SO",
     "description": "The Somali lives life to the fullest. He climbs higher, jumps farther, plays harder. Nothing escapes the notice of this highly intelligent and inquisitive cat. Somalis love the company of humans and other animals.",
@@ -2370,21 +2614,29 @@
     "socialNeeds": 5,
     "strangerFriendly": 5,
     "suppressedTail": false,
-    "temperament": "Mischievous, Tenacious, Intelligent, Affectionate, Gentle, Interactive, Loyal",
+    "temperament": [
+      "Mischievous",
+      "Tenacious",
+      "Intelligent",
+      "Affectionate",
+      "Gentle",
+      "Interactive",
+      "Loyal"
+    ],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/somali",
     "vetstreet_url": "http://www.vetstreet.com/cats/somali",
     "vocalisation": 1,
     "weight": {
-      "imperial": "6 - 12",
+      "imperial": [6, 12],
       "metric": "3 - 5"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/Somali_(cat)"
   },
   {
+    "CFAUrl": "http://cfa.org/Breeds/BreedsSthruT/Sphynx.aspx",
     "adaptability": 5,
     "affectionLevel": 5,
     "alternativeNames": ["Canadian Hairless", "Canadian Sphynx"],
-    "CFAUrl": "http://cfa.org/Breeds/BreedsSthruT/Sphynx.aspx",
     "childFriendliness": 4,
     "countryCode": "CA",
     "description": "The Sphynx is an intelligent, inquisitive, extremely friendly people-oriented breed. Sphynx commonly greet their owners  at the front door, with obvious excitement and happiness. She has an unexpected sense of humor that is often at odds with her dour expression.",
@@ -2410,21 +2662,21 @@
     "socialNeeds": 5,
     "strangerFriendly": 5,
     "suppressedTail": false,
-    "temperament": "Loyal, Inquisitive, Friendly, Quiet, Gentle",
+    "temperament": ["Loyal", "Inquisitive", "Friendly", "Quiet", "Gentle"],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/sphynx",
     "vetstreet_url": "http://www.vetstreet.com/cats/sphynx",
     "vocalisation": 5,
     "weight": {
-      "imperial": "6 - 12",
+      "imperial": [6, 12],
       "metric": "3 - 5"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sphynx_(cat)"
   },
   {
+    "CFAUrl": "http://cfa.org/Breeds/BreedsSthruT/Tonkinese.aspx",
     "adaptability": 5,
     "affectionLevel": 5,
     "alternativeNames": ["Tonk"],
-    "CFAUrl": "http://cfa.org/Breeds/BreedsSthruT/Tonkinese.aspx",
     "childFriendliness": 4,
     "countryCode": "CA",
     "description": "Intelligent and generous with their affection, a Tonkinese will supervise all activities with curiosity. Loving, social, active, playful, yet content to be a lap cat",
@@ -2450,12 +2702,20 @@
     "socialNeeds": 5,
     "strangerFriendly": 5,
     "suppressedTail": false,
-    "temperament": "Curious, Intelligent, Social, Lively, Outgoing, Playful, Affectionate",
+    "temperament": [
+      "Curious",
+      "Intelligent",
+      "Social",
+      "Lively",
+      "Outgoing",
+      "Playful",
+      "Affectionate"
+    ],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/tonkinese",
     "vetstreet_url": "http://www.vetstreet.com/cats/tonkinese",
     "vocalisation": 5,
     "weight": {
-      "imperial": "6 - 12",
+      "imperial": [6, 12],
       "metric": "3 - 5"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/Tonkinese_(cat)"
@@ -2489,20 +2749,20 @@
     "socialNeeds": 3,
     "strangerFriendly": 5,
     "suppressedTail": false,
-    "temperament": "Playful, Social, Intelligent",
+    "temperament": ["Playful", "Social", "Intelligent"],
     "vetstreet_url": "http://www.vetstreet.com/cats/toyger",
     "vocalisation": 5,
     "weight": {
-      "imperial": "7 - 15",
+      "imperial": [7, 15],
       "metric": "3 - 7"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/Toyger"
   },
   {
+    "CFAUrl": "http://cfa.org/Breeds/BreedsSthruT/TurkishAngora.aspx",
     "adaptability": 5,
     "affectionLevel": 5,
     "alternativeNames": ["Ankara"],
-    "CFAUrl": "http://cfa.org/Breeds/BreedsSthruT/TurkishAngora.aspx",
     "childFriendliness": 4,
     "countryCode": "TR",
     "description": "This is a smart and intelligent cat which bonds well with humans. With its affectionate and playful personality the Angora is a top choice for families. The Angora gets along great with other pets in the home, but it will make clear who is in charge, and who the house belongs to",
@@ -2527,21 +2787,29 @@
     "socialNeeds": 5,
     "strangerFriendly": 5,
     "suppressedTail": false,
-    "temperament": "Affectionate, Agile, Clever, Gentle, Intelligent, Playful, Social",
+    "temperament": [
+      "Affectionate",
+      "Agile",
+      "Clever",
+      "Gentle",
+      "Intelligent",
+      "Playful",
+      "Social"
+    ],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/turkish-angora",
     "vetstreet_url": "http://www.vetstreet.com/cats/turkish-angora",
     "vocalisation": 3,
     "weight": {
-      "imperial": "5 - 10",
+      "imperial": [5, 10],
       "metric": "2 - 5"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/Turkish_Angora"
   },
   {
+    "CFAUrl": "http://cfa.org/Breeds/BreedsSthruT/TurkishVan.aspx",
     "adaptability": 5,
     "affectionLevel": 5,
     "alternativeNames": ["Turkish Cat", "Swimming cat"],
-    "CFAUrl": "http://cfa.org/Breeds/BreedsSthruT/TurkishVan.aspx",
     "childFriendliness": 4,
     "countryCode": "TR",
     "description": "While the Turkish Van loves to jump and climb, play with toys, retrieve and play chase, she is is big and ungainly; this is one cat who doesn’t always land on his feet. While not much of a lap cat, the Van will be happy to cuddle next to you and sleep in your bed. ",
@@ -2566,12 +2834,12 @@
     "socialNeeds": 4,
     "strangerFriendly": 4,
     "suppressedTail": false,
-    "temperament": "Agile, Intelligent, Loyal, Playful, Energetic",
+    "temperament": ["Agile", "Intelligent", "Loyal", "Playful", "Energetic"],
     "vcahospitals_url": "https://vcahospitals.com/know-your-pet/cat-breeds/turkish-van",
     "vetstreet_url": "http://www.vetstreet.com/cats/turkish-van",
     "vocalisation": 5,
     "weight": {
-      "imperial": "7 - 20",
+      "imperial": [7, 20],
       "metric": "3 - 9"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/Turkish_Van"
@@ -2605,10 +2873,10 @@
     "socialNeeds": 4,
     "strangerFriendly": 4,
     "suppressedTail": false,
-    "temperament": "Playful, Social, Intelligent, Curious, Friendly",
+    "temperament": ["Playful", "Social", "Intelligent", "Curious", "Friendly"],
     "vocalisation": 5,
     "weight": {
-      "imperial": "12 - 18",
+      "imperial": [12, 18],
       "metric": "5 - 8"
     },
     "wikipedia_url": "https://en.wikipedia.org/wiki/York_Chocolate"
