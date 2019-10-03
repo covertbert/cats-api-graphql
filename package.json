@@ -1,0 +1,41 @@
+{
+  "author": "Bertie Blackman",
+  "description": "A GraphQL endpoint for the cats rest API",
+  "devDependencies": {
+    "apollo-server": "^2.9.4",
+    "graphql": "^14.5.8",
+    "husky": "^3.0.8",
+    "lint-staged": "^9.4.1",
+    "node": "^12.11.0",
+    "nodemon": "^1.19.3",
+    "prettier": "^1.18.2",
+    "ts-jest": "^24.1.0",
+    "tslint": "^5.20.0",
+    "tslint-config-airbnb": "^5.11.2",
+    "tslint-config-prettier": "^1.18.0",
+    "typescript": "^3.6.3"
+  },
+  "engines": {
+    "node": "10.x",
+    "npm": "6.x"
+  },
+  "keywords": [
+    "GraphQL",
+    "Cats",
+    "API"
+  ],
+  "license": "ISC",
+  "main": "dist/index.js",
+  "name": "cats-api-grapqhl",
+  "nodemonConfig": {
+    "exec": "npm run build && npm run start",
+    "ext": "ts",
+    "watch": "src"
+  },
+  "scripts": {
+    "build": "rm -rf dist && tsc",
+    "start": "node .",
+    "watch": "nodemon"
+  },
+  "version": "1.0.0"
+}
