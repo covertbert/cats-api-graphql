@@ -3,13 +3,13 @@ import { createTestClient } from 'apollo-server-testing'
 
 import server from '../apollo'
 
-describe('allCats', () => {
-  it('queries allCats with all possible fields', async () => {
+describe('cats', () => {
+  it('queries cats with all possible fields', async () => {
     const { query } = createTestClient(server)
 
-    const ALL_CATS = gql`
+    const CATS = gql`
       query {
-        allCats {
+        cats {
           name
           adaptability
           affectionLevel
@@ -49,7 +49,7 @@ describe('allCats', () => {
     `
 
     // run query against the server and snapshot the output
-    const res = await query({ query: ALL_CATS })
+    const res = await query({ query: CATS })
     expect(res).toMatchSnapshot()
   })
 })

@@ -170,7 +170,7 @@ const typeDefs = gql`
     """
     Retrieves all cats
     """
-    allCats: [Cat]
+    cats(name: String): [Cat]
   }
 
   type Weight {
