@@ -170,7 +170,14 @@ const typeDefs = gql`
     """
     Retrieves all cats
     """
-    cats(name: String): [Cat]
+    cats(filter: [CatsFilterInput]): [Cat]
+  }
+
+  scalar CatsFilterInputValue
+
+  input CatsFilterInput {
+    key: String
+    value: CatsFilterInputValue
   }
 
   type Weight {

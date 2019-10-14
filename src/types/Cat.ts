@@ -38,4 +38,9 @@ interface Cat {
   wikipediaURL: string
 }
 
-export { Cat }
+interface CatFilter {
+  key: keyof Cat
+  value: Cat[keyof Cat]
+}
+
+export { Cat, CatFilter }
