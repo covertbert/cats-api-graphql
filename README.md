@@ -1,4 +1,6 @@
-# ![CI](https://github.com/covertbert/cats-api-graphql/workflows/CI/badge.svg) 🐈 Cats GraphQL API
+![CI](https://github.com/covertbert/cats-api-graphql/workflows/CI/badge.svg)
+
+# 🐈 Cats GraphQL API
 
 The cats graphql API, which retrieves cat data. This is a Node service, written in TypeScript, which uses Apollo Server to expose a GraphQL endpoint.
 
