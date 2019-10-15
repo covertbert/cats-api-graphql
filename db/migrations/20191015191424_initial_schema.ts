@@ -8,11 +8,11 @@ const up = (knex: Knex) => {
     table.increments()
     table.integer('adaptability').notNullable()
     table.integer('affection_level').notNullable()
-    table.specificType('alternative_names', 'text ARRAY').notNullable()
-    table.string('cfa_url').notNullable()
+    table.specificType('alternative_names', 'text ARRAY').nullable()
+    table.string('cfa_url').nullable()
     table.integer('child_friendliness').notNullable()
     table.string('country_code').notNullable()
-    table.string('description').notNullable()
+    table.string('description', 1000).notNullable()
     table.integer('dog_friendliness').notNullable()
     table.integer('energy_level').notNullable()
     table.boolean('experimental').notNullable()
@@ -22,7 +22,7 @@ const up = (knex: Knex) => {
     table.boolean('hypoallergenic').notNullable()
     table.boolean('indoor').notNullable()
     table.integer('intelligence').notNullable()
-    table.boolean('lap').notNullable()
+    table.boolean('lap').nullable()
     table.specificType('life_span', 'integer ARRAY').notNullable()
     table
       .string('name')
@@ -40,10 +40,7 @@ const up = (knex: Knex) => {
     table.specificType('temperament', 'text ARRAY').notNullable()
     table.integer('vocalisation').notNullable()
     table.specificType('weight', 'integer ARRAY')
-    table
-      .string('wikipedia_url')
-      .notNullable()
-      .unique()
+    table.string('wikipedia_url').nullable()
   })
 }
 
