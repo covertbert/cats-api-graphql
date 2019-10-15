@@ -1,0 +1,42 @@
+[
+  {
+    "cfa_url": "http://cfa.org/Breeds/BreedsAB/Abyssinian.aspx",
+    "adaptability": 5,
+    "affection_level": 5,
+    "alternative_names": [],
+    "child_friendliness": 3,
+    "country_code": "EG",
+    "description": "The Abyssinian is easy to care for, and a joy to have in your home. They’re affectionate cats and love both people and other animals.",
+    "dog_friendliness": 4,
+    "energy_level": 5,
+    "experimental": false,
+    "grooming": 1,
+    "hairless": false,
+    "health_issues": 2,
+    "hypoallergenic": false,
+    "indoor": false,
+    "intelligence": 5,
+    "lap": true,
+    "life_span": [14, 15],
+    "name": "Abyssinian",
+    "natural": true,
+    "origin": "Egypt",
+    "rare": false,
+    "rex": false,
+    "shedding_level": 2,
+    "short_legs": false,
+    "social_needs": 5,
+    "stranger_friendly": 5,
+    "suppressed_tail": false,
+    "temperament": [
+      "Active",
+      "Energetic",
+      "Independent",
+      "Intelligent",
+      "Gentle"
+    ],
+    "vocalisation": 1,
+    "weight": [3, 5],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Abyssinian_(cat)"
+  }
+]
