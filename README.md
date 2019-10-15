@@ -2,4 +2,4 @@
   🐈 cats-api-graphql
 </h1>
 
-[![Actions Status](https://github.com/covertbert/cats-api-graphql/workflows/build-and-test.yml/badge.svg)](https://github.com/covertbert/cats-api-graphql/actions)
+![](https://github.com/covertbert/cats-api-graphql/workflows/.github/workflows/main.yml/badge.svg)
