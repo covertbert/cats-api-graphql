@@ -4,14 +4,15 @@ import { Service } from '../types/GraphQl'
 const filterCats = (cats: Cat[], filters: CatFilter[]) =>
   cats.filter(cat =>
     filters.some(filter => {
-      const catAttributeValue = cat[filter.key] as string[] & number[]
-      const filterValue = filter.value as string & number
+      const attributeValue = cat[filter.key]
+      const filterValue = filter.value
 
-      if (Array.isArray(catAttributeValue)) {
-        return catAttributeValue.includes(filterValue)
+      if (Array.isArray(attributeValue)) {
+        const attributeValueArray: Array<Cat[keyof Cat]> = attributeValue
+        return attributeValueArray.includes(filterValue)
       }
 
-      return filter.value === catAttributeValue
+      return filter.value === attributeValue
     })
   )
 

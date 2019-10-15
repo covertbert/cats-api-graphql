@@ -6,4 +6,4 @@ The cats graphql API, which retrieves cat data. This is a Node service, written 
 
 ## Running the service
 
-This project uses the TypeScript compiler `tsc`, which can be run with `npm run build`. To run in watch mode in development the service can then be run with `npm run watch`.
+This project uses the TypeScript compiler `tsc`, which can be run with `npm run build`. To run in watch mode in development use `npm run watch`.
