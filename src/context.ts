@@ -1,6 +1,5 @@
-import { Context } from './types/GraphQl'
-
 import CatService from './services/CatService'
+import { Context } from './types/GraphQl'
 
 import allCats from './data/cats.json'
 
