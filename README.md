@@ -13,6 +13,6 @@ However, this won't work on its own because the service relies on database which
 - To spin up Docker `cd docker` and run `./run.sh`.
 - You can then run `./ops/watch.sh` which will run the migrations, seeds and then run the project in watch mode.
 
-## Unit & Integration tests
+## Unit & integration tests
 
-Because the integrations tests rely on a database you need to first run docker with `cd docker` and run `./run.sh`. You can then run `./ops/watch.sh` from the root of the repo
+Because the integration tests rely on a database you need to first run docker with `cd docker` and run `./run.sh`. You can then run `./ops/watch.sh` from the root of the repo.

@@ -3,4 +3,4 @@
 docker-compose kill
 docker-compose rm -vf
 docker-compose build
-docker-compose up -d
+docker-compose up
