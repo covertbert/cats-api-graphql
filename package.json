@@ -46,7 +46,7 @@
     "lint": "tslint --project .",
     "lint:fix": "tslint --quiet --fix --project .",
     "prettier": "prettier --list-different \"src/**/*.ts\"",
-    "test": "DISABLE_LOGGING=true jest",
+    "test": "DISABLE_LOGGING=true jest --forceExit",
     "migrate:make": "knex migrate:make --knexfile knexfile.ts -x ts",
     "migrate:run": "knex migrate:latest --knexfile knexfile.ts",
     "seed:make": "knex seed:make --knexfile knexfile.ts -x ts",

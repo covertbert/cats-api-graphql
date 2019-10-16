@@ -45,7 +45,7 @@ describe('filterCats', () => {
       { key: 'adaptability', value: 2 },
     ]
 
-    const expectedResult = [cats.goose, cats.duck]
+    const expectedResult = [cats.duck, cats.goose]
 
     expect(filterCats(catsArray as Cat[], filters)).toEqual(expectedResult)
   })
@@ -61,7 +61,7 @@ describe('filterCats', () => {
   it('filters for cats with lifeSpans that match the given filter', () => {
     const filters: CatFilter[] = [{ key: 'lifeSpan', value: 14 }]
 
-    const expectedResult = [cats.goose, cats.duck]
+    const expectedResult = [cats.duck, cats.goose]
 
     expect(filterCats(catsArray as Cat[], filters)).toEqual(expectedResult)
   })
