@@ -1,4 +1,4 @@
-![CI](https://github.com/covertbert/cats-api-graphql/workflows/CI/badge.svg)
+![Cat Engine](https://github.com/covertbert/cats-api-graphql/workflows/CI/badge.svg)
 
 # 🐈 Cats GraphQL API
 
