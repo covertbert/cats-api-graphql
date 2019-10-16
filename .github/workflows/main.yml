@@ -9,8 +9,11 @@ jobs:
     steps:
       - uses: actions/checkout@v1
       - name: Install
-        run: npm install
+        run: npm ci
       - name: Docker
         run: cd docker; ./run-ci.sh
       - name: Test
-        run: export DB_HOST=db; ./ops/test.sh
+        run: |
+        export DB_HOST=localhost
+        echo $DB_HOST
+        ./ops/test.sh
