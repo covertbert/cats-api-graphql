@@ -21,11 +21,6 @@ const typeDefs = gql`
     alternativeNames: [String]
 
     """
-    URL of the Cat Fancier's Association page for this breed
-    """
-    CFAUrl: String
-
-    """
     Child friendliness score (1-5)
     """
     childFriendliness: Int
@@ -156,9 +151,9 @@ const typeDefs = gql`
     vocalisation: Int
 
     """
-    The average weight of the breed. First item in the array is the lower and and second item is the upper end of the range.
+    The average weight of the breed in kg. First item in the array is the lower and and second item is the upper end of the range.
     """
-    weight: Weight
+    weight: [Int]
 
     """
     The Wikipedia URL for the breed
@@ -178,18 +173,6 @@ const typeDefs = gql`
   input CatsFilterInput {
     key: String
     value: CatsFilterInputValue
-  }
-
-  type Weight {
-    """
-    The weight in pounds
-    """
-    lbs: [Int]
-
-    """
-    The weight in kilograms
-    """
-    kg: [Int]
   }
 `
 

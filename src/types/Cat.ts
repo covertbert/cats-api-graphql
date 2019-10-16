@@ -1,13 +1,7 @@
-interface Weight {
-  lbs: number[]
-  kg: number[]
-}
-
 interface Cat {
   adaptability: number
   affectionLevel: number
   alternativeNames: string[]
-  CFAUrl: string
   childFriendliness: number
   countryCode: string
   description: string
@@ -34,7 +28,7 @@ interface Cat {
   suppressedTail: boolean
   temperament: string[]
   vocalisation: number
-  weight: Weight
+  weight: number[]
   wikipediaURL: string
 }
 
