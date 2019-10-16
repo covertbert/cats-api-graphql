@@ -11,6 +11,6 @@ jobs:
       - name: Install
         run: npm install
       - name: Docker
-        run: cd docker; ./run.sh
+        run: cd docker; ./run-ci.sh
       - name: Test
         run: ./ops/test.sh
