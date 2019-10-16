@@ -13,4 +13,4 @@ jobs:
       - name: Docker
         run: cd docker; ./run-ci.sh
       - name: Test
-        run: ./ops/test.sh
+        run: export DB_HOST=db; ./ops/test.sh
