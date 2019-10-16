@@ -15,5 +15,4 @@ jobs:
       - name: Test
         run: |
         export DB_HOST=localhost
-        echo $DB_HOST
         ./ops/test.sh
