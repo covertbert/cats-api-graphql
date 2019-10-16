@@ -7,3 +7,8 @@ The cats graphql API, which retrieves cat data. This is a Node service, written 
 ## Running the service
 
 This project uses `ts-node` to for typescript which you can run using `npm run start`. To run in watch mode in development use `npm run watch`.
+
+However, this won't work on its own because the service relies on database which is set up as follows:
+
+- To spin up Docker `cd docker` and run `./run.sh`.
+- You can then run `ops/watch.sh` which will run the migrations, seeds and then run the project in watch mode.
