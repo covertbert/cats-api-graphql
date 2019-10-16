@@ -32,7 +32,6 @@
     "API"
   ],
   "license": "ISC",
-  "main": "dist/index.js",
   "name": "cats-api-grapqhl",
   "nodemonConfig": {
     "exec": "ts-node src/index.ts",
@@ -40,8 +39,6 @@
     "watch": "src"
   },
   "scripts": {
-    "build": "rm -rf dist && tsc",
-    "start": "node .",
     "watch": "nodemon",
     "lint": "tslint --project .",
     "lint:fix": "tslint --quiet --fix --project .",
