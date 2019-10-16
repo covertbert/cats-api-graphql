@@ -1,28 +1,31 @@
+import db from '../db'
 import { Cat, CatFilter } from '../types/Cat'
 import { Service } from '../types/GraphQl'
+import { filterCats } from './utils/filters'
 
-const filterCats = (cats: Cat[], filters: CatFilter[]) =>
-  cats.filter(cat =>
-    filters.some(filter => {
-      const attributeValue = cat[filter.key]
-      const filterValue = filter.value
+const TABLE_NAME = 'cats'
 
-      if (Array.isArray(attributeValue)) {
-        const attributeValueArray: Array<Cat[keyof Cat]> = attributeValue
-        return attributeValueArray.includes(filterValue)
-      }
-
-      return filter.value === attributeValue
-    })
-  )
+interface CatQuery {
+  [key: string]: Cat[keyof Cat]
+}
 
 class CatService extends Service {
   public async getAll(filters?: CatFilter[]) {
-    if (!filters || filters.length === 0) {
-      return this.context.cats
+    const query = db()
+      .select()
+      .table<Cat>(TABLE_NAME)
+      .orderBy([{ column: 'name', order: 'asc' }])
+
+    if (filters && filters.length > 0) {
+      filters.forEach(filter => {
+        const dbQuery: CatQuery = {}
+        dbQuery[filter.key] = filter.value
+
+        query.where(dbQuery)
+      })
     }
 
-    return filterCats(this.context.cats, filters)
+    return query
   }
 }
 

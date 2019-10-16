@@ -1,11 +1,10 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`cats queries cats with all possible fields 1`] = `
+exports[`Cats integration tests queries cats with all possible fields 1`] = `
 Object {
   "data": Object {
     "cats": Array [
       Object {
-        "CFAUrl": "http://cfa.org/Breeds/BreedsAB/Abyssinian.aspx",
         "adaptability": 5,
         "affectionLevel": 5,
         "alternativeNames": Array [],
@@ -19,7 +18,7 @@ Object {
         "hairless": false,
         "healthIssues": 2,
         "hypoallergenic": false,
-        "id": "abys",
+        "id": "1",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -44,19 +43,12 @@ Object {
           "Gentle",
         ],
         "vocalisation": 1,
-        "weight": Object {
-          "kg": Array [
-            3,
-            5,
-          ],
-          "lbs": Array [
-            7,
-            10,
-          ],
-        },
+        "weight": Array [
+          3,
+          5,
+        ],
       },
       Object {
-        "CFAUrl": null,
         "adaptability": 5,
         "affectionLevel": 4,
         "alternativeNames": Array [],
@@ -70,7 +62,7 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "aege",
+        "id": "2",
         "indoor": false,
         "intelligence": 3,
         "lifeSpan": Array [
@@ -95,19 +87,12 @@ Object {
           "Active",
         ],
         "vocalisation": 3,
-        "weight": Object {
-          "kg": Array [
-            3,
-            5,
-          ],
-          "lbs": Array [
-            7,
-            10,
-          ],
-        },
+        "weight": Array [
+          3,
+          5,
+        ],
       },
       Object {
-        "CFAUrl": "http://cfa.org/Breeds/BreedsAB/AmericanBobtail.aspx",
         "adaptability": 5,
         "affectionLevel": 5,
         "alternativeNames": Array [],
@@ -121,7 +106,7 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "abob",
+        "id": "3",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -146,19 +131,12 @@ Object {
           "Sensitive",
         ],
         "vocalisation": 3,
-        "weight": Object {
-          "kg": Array [
-            3,
-            7,
-          ],
-          "lbs": Array [
-            7,
-            16,
-          ],
-        },
+        "weight": Array [
+          3,
+          7,
+        ],
       },
       Object {
-        "CFAUrl": "http://cfa.org/Breeds/BreedsAB/AmericanCurl.aspx",
         "adaptability": 5,
         "affectionLevel": 5,
         "alternativeNames": Array [],
@@ -172,7 +150,7 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "acur",
+        "id": "4",
         "indoor": false,
         "intelligence": 3,
         "lifeSpan": Array [
@@ -199,19 +177,12 @@ Object {
           "Social",
         ],
         "vocalisation": 3,
-        "weight": Object {
-          "kg": Array [
-            2,
-            5,
-          ],
-          "lbs": Array [
-            5,
-            10,
-          ],
-        },
+        "weight": Array [
+          2,
+          5,
+        ],
       },
       Object {
-        "CFAUrl": "http://cfa.org/Breeds/BreedsAB/AmericanShorthair.aspx",
         "adaptability": 5,
         "affectionLevel": 5,
         "alternativeNames": Array [
@@ -227,7 +198,7 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": false,
-        "id": "asho",
+        "id": "5",
         "indoor": false,
         "intelligence": 3,
         "lifeSpan": Array [
@@ -252,19 +223,12 @@ Object {
           "Calm",
         ],
         "vocalisation": 3,
-        "weight": Object {
-          "kg": Array [
-            4,
-            7,
-          ],
-          "lbs": Array [
-            8,
-            15,
-          ],
-        },
+        "weight": Array [
+          4,
+          7,
+        ],
       },
       Object {
-        "CFAUrl": "http://cfa.org/Breeds/BreedsAB/AmericanWirehair.aspx",
         "adaptability": 5,
         "affectionLevel": 5,
         "alternativeNames": Array [],
@@ -278,7 +242,7 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": false,
-        "id": "awir",
+        "id": "6",
         "indoor": false,
         "intelligence": 3,
         "lifeSpan": Array [
@@ -308,19 +272,12 @@ Object {
           "Social",
         ],
         "vocalisation": 3,
-        "weight": Object {
-          "kg": Array [
-            4,
-            7,
-          ],
-          "lbs": Array [
-            8,
-            15,
-          ],
-        },
+        "weight": Array [
+          4,
+          7,
+        ],
       },
       Object {
-        "CFAUrl": null,
         "adaptability": 5,
         "affectionLevel": 5,
         "alternativeNames": Array [
@@ -336,7 +293,7 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "amau",
+        "id": "7",
         "indoor": false,
         "intelligence": 3,
         "lifeSpan": Array [
@@ -362,19 +319,12 @@ Object {
           "Loyal",
         ],
         "vocalisation": 1,
-        "weight": Object {
-          "kg": Array [
-            4,
-            7,
-          ],
-          "lbs": Array [
-            8,
-            16,
-          ],
-        },
+        "weight": Array [
+          4,
+          7,
+        ],
       },
       Object {
-        "CFAUrl": null,
         "adaptability": 5,
         "affectionLevel": 5,
         "alternativeNames": Array [
@@ -390,7 +340,7 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "amis",
+        "id": "8",
         "indoor": false,
         "intelligence": 4,
         "lifeSpan": Array [
@@ -415,19 +365,12 @@ Object {
           "Affectionate",
         ],
         "vocalisation": 3,
-        "weight": Object {
-          "kg": Array [
-            3,
-            7,
-          ],
-          "lbs": Array [
-            7,
-            15,
-          ],
-        },
+        "weight": Array [
+          3,
+          7,
+        ],
       },
       Object {
-        "CFAUrl": "http://cfa.org/Breeds/BreedsAB/Balinese.aspx",
         "adaptability": 5,
         "affectionLevel": 5,
         "alternativeNames": Array [
@@ -443,7 +386,7 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": true,
-        "id": "bali",
+        "id": "9",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -466,19 +409,12 @@ Object {
           "Playful",
         ],
         "vocalisation": 5,
-        "weight": Object {
-          "kg": Array [
-            2,
-            5,
-          ],
-          "lbs": Array [
-            4,
-            10,
-          ],
-        },
+        "weight": Array [
+          2,
+          5,
+        ],
       },
       Object {
-        "CFAUrl": null,
         "adaptability": 5,
         "affectionLevel": 5,
         "alternativeNames": Array [],
@@ -492,7 +428,7 @@ Object {
         "hairless": true,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "bamb",
+        "id": "10",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -516,19 +452,12 @@ Object {
           "Intelligent",
         ],
         "vocalisation": 3,
-        "weight": Object {
-          "kg": Array [
-            2,
-            4,
-          ],
-          "lbs": Array [
-            4,
-            9,
-          ],
-        },
+        "weight": Array [
+          2,
+          4,
+        ],
       },
       Object {
-        "CFAUrl": "http://cfa.org/Breeds/BreedsAB/Bengal.aspx",
         "adaptability": 5,
         "affectionLevel": 5,
         "alternativeNames": null,
@@ -542,7 +471,7 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": true,
-        "id": "beng",
+        "id": "11",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -567,19 +496,12 @@ Object {
           "Intelligent",
         ],
         "vocalisation": 5,
-        "weight": Object {
-          "kg": Array [
-            3,
-            7,
-          ],
-          "lbs": Array [
-            6,
-            12,
-          ],
-        },
+        "weight": Array [
+          3,
+          7,
+        ],
       },
       Object {
-        "CFAUrl": "http://cfa.org/Breeds/BreedsAB/Birman.aspx",
         "adaptability": 5,
         "affectionLevel": 5,
         "alternativeNames": Array [
@@ -596,7 +518,7 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "birm",
+        "id": "12",
         "indoor": false,
         "intelligence": 3,
         "lifeSpan": Array [
@@ -620,19 +542,12 @@ Object {
           "Social",
         ],
         "vocalisation": 1,
-        "weight": Object {
-          "kg": Array [
-            3,
-            7,
-          ],
-          "lbs": Array [
-            6,
-            15,
-          ],
-        },
+        "weight": Array [
+          3,
+          7,
+        ],
       },
       Object {
-        "CFAUrl": "http://cfa.org/Breeds/BreedsAB/Bombay.aspx",
         "adaptability": 5,
         "affectionLevel": 5,
         "alternativeNames": Array [
@@ -648,7 +563,7 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": false,
-        "id": "bomb",
+        "id": "13",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -673,19 +588,12 @@ Object {
           "Playful",
         ],
         "vocalisation": 5,
-        "weight": Object {
-          "kg": Array [
-            3,
-            5,
-          ],
-          "lbs": Array [
-            6,
-            11,
-          ],
-        },
+        "weight": Array [
+          3,
+          5,
+        ],
       },
       Object {
-        "CFAUrl": null,
         "adaptability": 5,
         "affectionLevel": 5,
         "alternativeNames": Array [],
@@ -699,7 +607,7 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "bslo",
+        "id": "14",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -725,19 +633,12 @@ Object {
           "Social",
         ],
         "vocalisation": 1,
-        "weight": Object {
-          "kg": Array [
-            4,
-            8,
-          ],
-          "lbs": Array [
-            8,
-            18,
-          ],
-        },
+        "weight": Array [
+          4,
+          8,
+        ],
       },
       Object {
-        "CFAUrl": "http://cfa.org/Breeds/BreedsAB/BritishShorthair.aspx",
         "adaptability": 5,
         "affectionLevel": 4,
         "alternativeNames": Array [
@@ -755,7 +656,7 @@ Object {
         "hairless": false,
         "healthIssues": 2,
         "hypoallergenic": false,
-        "id": "bsho",
+        "id": "15",
         "indoor": false,
         "intelligence": 3,
         "lifeSpan": Array [
@@ -781,19 +682,12 @@ Object {
           "Calm",
         ],
         "vocalisation": 1,
-        "weight": Object {
-          "kg": Array [
-            5,
-            9,
-          ],
-          "lbs": Array [
-            12,
-            20,
-          ],
-        },
+        "weight": Array [
+          5,
+          9,
+        ],
       },
       Object {
-        "CFAUrl": "http://cfa.org/Breeds/BreedsAB/Burmese.aspx",
         "adaptability": 5,
         "affectionLevel": 5,
         "alternativeNames": Array [],
@@ -807,7 +701,7 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": true,
-        "id": "bure",
+        "id": "16",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -834,19 +728,12 @@ Object {
           "Lively",
         ],
         "vocalisation": 5,
-        "weight": Object {
-          "kg": Array [
-            3,
-            5,
-          ],
-          "lbs": Array [
-            6,
-            12,
-          ],
-        },
+        "weight": Array [
+          3,
+          5,
+        ],
       },
       Object {
-        "CFAUrl": "http://cfa.org/Breeds/BreedsAB/Burmilla.aspx",
         "adaptability": 5,
         "affectionLevel": 5,
         "alternativeNames": Array [],
@@ -860,7 +747,7 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": false,
-        "id": "buri",
+        "id": "17",
         "indoor": false,
         "intelligence": 3,
         "lifeSpan": Array [
@@ -886,19 +773,12 @@ Object {
           "Social",
         ],
         "vocalisation": 5,
-        "weight": Object {
-          "kg": Array [
-            3,
-            6,
-          ],
-          "lbs": Array [
-            6,
-            13,
-          ],
-        },
+        "weight": Array [
+          3,
+          6,
+        ],
       },
       Object {
-        "CFAUrl": null,
         "adaptability": 5,
         "affectionLevel": 5,
         "alternativeNames": Array [
@@ -914,7 +794,7 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "cspa",
+        "id": "18",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -939,19 +819,12 @@ Object {
           "Social",
         ],
         "vocalisation": 1,
-        "weight": Object {
-          "kg": Array [
-            5,
-            7,
-          ],
-          "lbs": Array [
-            10,
-            15,
-          ],
-        },
+        "weight": Array [
+          5,
+          7,
+        ],
       },
       Object {
-        "CFAUrl": null,
         "adaptability": 5,
         "affectionLevel": 5,
         "alternativeNames": Array [
@@ -968,7 +841,7 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "ctif",
+        "id": "19",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -992,19 +865,12 @@ Object {
           "Loyal",
         ],
         "vocalisation": 5,
-        "weight": Object {
-          "kg": Array [
-            3,
-            5,
-          ],
-          "lbs": Array [
-            7,
-            12,
-          ],
-        },
+        "weight": Array [
+          3,
+          5,
+        ],
       },
       Object {
-        "CFAUrl": "http://cfa.org/Breeds/BreedsCJ/Chartreux.aspx",
         "adaptability": 5,
         "affectionLevel": 5,
         "alternativeNames": Array [],
@@ -1018,7 +884,7 @@ Object {
         "hairless": false,
         "healthIssues": 2,
         "hypoallergenic": true,
-        "id": "char",
+        "id": "20",
         "indoor": false,
         "intelligence": 4,
         "lifeSpan": Array [
@@ -1044,19 +910,12 @@ Object {
           "Playful",
         ],
         "vocalisation": 1,
-        "weight": Object {
-          "kg": Array [
-            3,
-            7,
-          ],
-          "lbs": Array [
-            6,
-            15,
-          ],
-        },
+        "weight": Array [
+          3,
+          7,
+        ],
       },
       Object {
-        "CFAUrl": null,
         "adaptability": 5,
         "affectionLevel": 5,
         "alternativeNames": Array [
@@ -1072,7 +931,7 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "chau",
+        "id": "21",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -1096,19 +955,12 @@ Object {
           "Social",
         ],
         "vocalisation": 1,
-        "weight": Object {
-          "kg": Array [
-            3,
-            7,
-          ],
-          "lbs": Array [
-            7,
-            15,
-          ],
-        },
+        "weight": Array [
+          3,
+          7,
+        ],
       },
       Object {
-        "CFAUrl": null,
         "adaptability": 5,
         "affectionLevel": 5,
         "alternativeNames": Array [],
@@ -1122,7 +974,7 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "chee",
+        "id": "22",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -1146,19 +998,57 @@ Object {
           "Social",
         ],
         "vocalisation": 5,
-        "weight": Object {
-          "kg": Array [
-            4,
-            7,
-          ],
-          "lbs": Array [
-            8,
-            15,
-          ],
-        },
+        "weight": Array [
+          4,
+          7,
+        ],
       },
       Object {
-        "CFAUrl": "http://cfa.org/Breeds/BreedsCJ/ColorpointShorthair.aspx",
+        "adaptability": 5,
+        "affectionLevel": 5,
+        "alternativeNames": Array [
+          "Longhaired Russian Blue",
+        ],
+        "childFriendliness": 4,
+        "countryCode": "US",
+        "description": "The Nebelung may have a reserved nature, but she loves to play (being especially fond of retrieving) and enjoys jumping or climbing to high places where she can study people and situations at her leisure before making up her mind about whether she wants to get involved.",
+        "dogFriendliness": 4,
+        "energyLevel": 3,
+        "experimental": false,
+        "grooming": 3,
+        "hairless": false,
+        "healthIssues": 2,
+        "hypoallergenic": false,
+        "id": "45",
+        "indoor": false,
+        "intelligence": 5,
+        "lifeSpan": Array [
+          11,
+          16,
+        ],
+        "name": "Nebelung",
+        "natural": false,
+        "origin": "United States",
+        "rare": true,
+        "rex": false,
+        "sheddingLevel": 3,
+        "shortLegs": false,
+        "socialNeeds": 3,
+        "strangerFriendly": 3,
+        "suppressedTail": false,
+        "temperament": Array [
+          "Gentle",
+          "Quiet",
+          "Shy",
+          "Playful",
+        ],
+        "vocalisation": 1,
+        "weight": Array [
+          3,
+          5,
+        ],
+      },
+      Object {
         "adaptability": 3,
         "affectionLevel": 4,
         "alternativeNames": Array [],
@@ -1172,7 +1062,7 @@ Object {
         "hairless": false,
         "healthIssues": 2,
         "hypoallergenic": false,
-        "id": "csho",
+        "id": "23",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -1196,19 +1086,12 @@ Object {
           "Social",
         ],
         "vocalisation": 5,
-        "weight": Object {
-          "kg": Array [
-            2,
-            5,
-          ],
-          "lbs": Array [
-            4,
-            10,
-          ],
-        },
+        "weight": Array [
+          2,
+          5,
+        ],
       },
       Object {
-        "CFAUrl": "http://cfa.org/Breeds/BreedsCJ/CornishRex.aspx",
         "adaptability": 5,
         "affectionLevel": 5,
         "alternativeNames": Array [],
@@ -1222,7 +1105,7 @@ Object {
         "hairless": false,
         "healthIssues": 2,
         "hypoallergenic": true,
-        "id": "crex",
+        "id": "24",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -1247,19 +1130,12 @@ Object {
           "Playful",
         ],
         "vocalisation": 1,
-        "weight": Object {
-          "kg": Array [
-            2,
-            4,
-          ],
-          "lbs": Array [
-            5,
-            9,
-          ],
-        },
+        "weight": Array [
+          2,
+          4,
+        ],
       },
       Object {
-        "CFAUrl": null,
         "adaptability": 5,
         "affectionLevel": 5,
         "alternativeNames": Array [
@@ -1275,7 +1151,7 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": false,
-        "id": "cymr",
+        "id": "25",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -1299,19 +1175,12 @@ Object {
           "Playful",
         ],
         "vocalisation": 3,
-        "weight": Object {
-          "kg": Array [
-            4,
-            6,
-          ],
-          "lbs": Array [
-            8,
-            13,
-          ],
-        },
+        "weight": Array [
+          4,
+          6,
+        ],
       },
       Object {
-        "CFAUrl": null,
         "adaptability": 5,
         "affectionLevel": 5,
         "alternativeNames": Array [
@@ -1327,7 +1196,7 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "cypr",
+        "id": "26",
         "indoor": false,
         "intelligence": 3,
         "lifeSpan": Array [
@@ -1349,19 +1218,12 @@ Object {
           "Social",
         ],
         "vocalisation": 3,
-        "weight": Object {
-          "kg": Array [
-            4,
-            7,
-          ],
-          "lbs": Array [
-            8,
-            16,
-          ],
-        },
+        "weight": Array [
+          4,
+          7,
+        ],
       },
       Object {
-        "CFAUrl": "http://cfa.org/Breeds/BreedsCJ/DevonRex.aspx",
         "adaptability": 5,
         "affectionLevel": 5,
         "alternativeNames": Array [
@@ -1379,7 +1241,7 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": true,
-        "id": "drex",
+        "id": "27",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -1404,19 +1266,12 @@ Object {
           "Playful",
         ],
         "vocalisation": 1,
-        "weight": Object {
-          "kg": Array [
-            2,
-            5,
-          ],
-          "lbs": Array [
-            5,
-            10,
-          ],
-        },
+        "weight": Array [
+          2,
+          5,
+        ],
       },
       Object {
-        "CFAUrl": null,
         "adaptability": 4,
         "affectionLevel": 4,
         "alternativeNames": null,
@@ -1430,7 +1285,7 @@ Object {
         "hairless": true,
         "healthIssues": 3,
         "hypoallergenic": false,
-        "id": "dons",
+        "id": "28",
         "indoor": false,
         "intelligence": 3,
         "lifeSpan": Array [
@@ -1454,19 +1309,12 @@ Object {
           "Social",
         ],
         "vocalisation": 2,
-        "weight": Object {
-          "kg": Array [
-            5,
-            6,
-          ],
-          "lbs": Array [
-            10,
-            12,
-          ],
-        },
+        "weight": Array [
+          5,
+          6,
+        ],
       },
       Object {
-        "CFAUrl": null,
         "adaptability": 3,
         "affectionLevel": 3,
         "alternativeNames": Array [
@@ -1484,7 +1332,7 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "lihu",
+        "id": "29",
         "indoor": true,
         "intelligence": 3,
         "lifeSpan": Array [
@@ -1509,19 +1357,12 @@ Object {
           "Loyal",
         ],
         "vocalisation": 3,
-        "weight": Object {
-          "kg": Array [
-            4,
-            6,
-          ],
-          "lbs": Array [
-            9,
-            12,
-          ],
-        },
+        "weight": Array [
+          4,
+          6,
+        ],
       },
       Object {
-        "CFAUrl": "http://cfa.org/Breeds/BreedsCJ/EgyptianMau.aspx",
         "adaptability": 2,
         "affectionLevel": 5,
         "alternativeNames": Array [
@@ -1537,7 +1378,7 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": false,
-        "id": "emau",
+        "id": "30",
         "indoor": false,
         "intelligence": 4,
         "lifeSpan": Array [
@@ -1564,19 +1405,12 @@ Object {
           "Playful",
         ],
         "vocalisation": 3,
-        "weight": Object {
-          "kg": Array [
-            3,
-            6,
-          ],
-          "lbs": Array [
-            6,
-            14,
-          ],
-        },
+        "weight": Array [
+          3,
+          6,
+        ],
       },
       Object {
-        "CFAUrl": "http://cfa.org/Breeds/BreedsCJ/EuropeanBurmese.aspx",
         "adaptability": 5,
         "affectionLevel": 5,
         "alternativeNames": Array [],
@@ -1590,7 +1424,7 @@ Object {
         "hairless": false,
         "healthIssues": 4,
         "hypoallergenic": false,
-        "id": "ebur",
+        "id": "31",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -1613,19 +1447,12 @@ Object {
           "Loyal",
         ],
         "vocalisation": 4,
-        "weight": Object {
-          "kg": Array [
-            3,
-            6,
-          ],
-          "lbs": Array [
-            7,
-            14,
-          ],
-        },
+        "weight": Array [
+          3,
+          6,
+        ],
       },
       Object {
-        "CFAUrl": "http://cfa.org/Breeds/BreedsCJ/Exotic.aspx",
         "adaptability": 5,
         "affectionLevel": 5,
         "alternativeNames": Array [
@@ -1641,7 +1468,7 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": false,
-        "id": "esho",
+        "id": "32",
         "indoor": false,
         "intelligence": 3,
         "lifeSpan": Array [
@@ -1666,19 +1493,12 @@ Object {
           "Peaceful",
         ],
         "vocalisation": 1,
-        "weight": Object {
-          "kg": Array [
-            3,
-            6,
-          ],
-          "lbs": Array [
-            7,
-            14,
-          ],
-        },
+        "weight": Array [
+          3,
+          6,
+        ],
       },
       Object {
-        "CFAUrl": "http://cfa.org/Breeds/BreedsCJ/HavanaBrown.aspx",
         "adaptability": 5,
         "affectionLevel": 5,
         "alternativeNames": Array [
@@ -1695,7 +1515,7 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "hbro",
+        "id": "33",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -1721,19 +1541,12 @@ Object {
           "Playful",
         ],
         "vocalisation": 1,
-        "weight": Object {
-          "kg": Array [
-            3,
-            5,
-          ],
-          "lbs": Array [
-            6,
-            10,
-          ],
-        },
+        "weight": Array [
+          3,
+          5,
+        ],
       },
       Object {
-        "CFAUrl": null,
         "adaptability": 5,
         "affectionLevel": 5,
         "alternativeNames": Array [
@@ -1752,7 +1565,7 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": false,
-        "id": "hima",
+        "id": "34",
         "indoor": false,
         "intelligence": 3,
         "lifeSpan": Array [
@@ -1777,19 +1590,12 @@ Object {
           "Social",
         ],
         "vocalisation": 1,
-        "weight": Object {
-          "kg": Array [
-            3,
-            6,
-          ],
-          "lbs": Array [
-            7,
-            14,
-          ],
-        },
+        "weight": Array [
+          3,
+          6,
+        ],
       },
       Object {
-        "CFAUrl": "http://cfa.org/Breeds/BreedsCJ/JapaneseBobtail.aspx",
         "adaptability": 5,
         "affectionLevel": 5,
         "alternativeNames": Array [
@@ -1805,7 +1611,7 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "jbob",
+        "id": "35",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -1834,19 +1640,12 @@ Object {
           "Social",
         ],
         "vocalisation": 5,
-        "weight": Object {
-          "kg": Array [
-            2,
-            5,
-          ],
-          "lbs": Array [
-            5,
-            10,
-          ],
-        },
+        "weight": Array [
+          2,
+          5,
+        ],
       },
       Object {
-        "CFAUrl": null,
         "adaptability": 4,
         "affectionLevel": 5,
         "alternativeNames": Array [],
@@ -1860,7 +1659,7 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": true,
-        "id": "java",
+        "id": "36",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -1884,19 +1683,12 @@ Object {
           "Playful",
         ],
         "vocalisation": 5,
-        "weight": Object {
-          "kg": Array [
-            2,
-            5,
-          ],
-          "lbs": Array [
-            5,
-            10,
-          ],
-        },
+        "weight": Array [
+          2,
+          5,
+        ],
       },
       Object {
-        "CFAUrl": "http://cfa.org/Breeds/BreedsKthruR/KhaoManee.aspx",
         "adaptability": 4,
         "affectionLevel": 4,
         "alternativeNames": Array [
@@ -1912,7 +1704,7 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "khao",
+        "id": "37",
         "indoor": false,
         "intelligence": 4,
         "lifeSpan": Array [
@@ -1937,19 +1729,12 @@ Object {
           "Warm",
         ],
         "vocalisation": 5,
-        "weight": Object {
-          "kg": Array [
-            4,
-            6,
-          ],
-          "lbs": Array [
-            8,
-            12,
-          ],
-        },
+        "weight": Array [
+          4,
+          6,
+        ],
       },
       Object {
-        "CFAUrl": "http://cfa.org/Breeds/BreedsKthruR/Korat.aspx",
         "adaptability": 5,
         "affectionLevel": 5,
         "alternativeNames": null,
@@ -1963,7 +1748,7 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "kora",
+        "id": "38",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -1988,19 +1773,12 @@ Object {
           "Trainable",
         ],
         "vocalisation": 3,
-        "weight": Object {
-          "kg": Array [
-            3,
-            5,
-          ],
-          "lbs": Array [
-            7,
-            11,
-          ],
-        },
+        "weight": Array [
+          3,
+          5,
+        ],
       },
       Object {
-        "CFAUrl": null,
         "adaptability": 5,
         "affectionLevel": 5,
         "alternativeNames": null,
@@ -2014,7 +1792,7 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "kuri",
+        "id": "39",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -2041,19 +1819,12 @@ Object {
           "Trainable",
         ],
         "vocalisation": 3,
-        "weight": Object {
-          "kg": Array [
-            4,
-            7,
-          ],
-          "lbs": Array [
-            8,
-            15,
-          ],
-        },
+        "weight": Array [
+          4,
+          7,
+        ],
       },
       Object {
-        "CFAUrl": "http://cfa.org/Breeds/BreedsKthruR/LaPerm.aspx",
         "adaptability": 5,
         "affectionLevel": 5,
         "alternativeNames": Array [
@@ -2069,7 +1840,7 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": true,
-        "id": "lape",
+        "id": "40",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -2095,19 +1866,12 @@ Object {
           "Quiet",
         ],
         "vocalisation": 3,
-        "weight": Object {
-          "kg": Array [
-            3,
-            5,
-          ],
-          "lbs": Array [
-            6,
-            10,
-          ],
-        },
+        "weight": Array [
+          3,
+          5,
+        ],
       },
       Object {
-        "CFAUrl": "http://cfa.org/Breeds/BreedsKthruR/MaineCoon.aspx",
         "adaptability": 5,
         "affectionLevel": 5,
         "alternativeNames": Array [
@@ -2128,7 +1892,7 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": false,
-        "id": "mcoo",
+        "id": "41",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -2153,19 +1917,12 @@ Object {
           "Independent",
         ],
         "vocalisation": 1,
-        "weight": Object {
-          "kg": Array [
-            5,
-            8,
-          ],
-          "lbs": Array [
-            12,
-            18,
-          ],
-        },
+        "weight": Array [
+          5,
+          8,
+        ],
       },
       Object {
-        "CFAUrl": null,
         "adaptability": 5,
         "affectionLevel": 5,
         "alternativeNames": Array [
@@ -2181,7 +1938,7 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "mala",
+        "id": "42",
         "indoor": false,
         "intelligence": 3,
         "lifeSpan": Array [
@@ -2205,19 +1962,12 @@ Object {
           "Social",
         ],
         "vocalisation": 5,
-        "weight": Object {
-          "kg": Array [
-            3,
-            6,
-          ],
-          "lbs": Array [
-            6,
-            13,
-          ],
-        },
+        "weight": Array [
+          3,
+          6,
+        ],
       },
       Object {
-        "CFAUrl": "http://cfa.org/Breeds/BreedsKthruR/Manx.aspx",
         "adaptability": 5,
         "affectionLevel": 5,
         "alternativeNames": Array [
@@ -2235,7 +1985,7 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": false,
-        "id": "manx",
+        "id": "43",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -2260,19 +2010,12 @@ Object {
           "Social",
         ],
         "vocalisation": 3,
-        "weight": Object {
-          "kg": Array [
-            3,
-            6,
-          ],
-          "lbs": Array [
-            7,
-            13,
-          ],
-        },
+        "weight": Array [
+          3,
+          6,
+        ],
       },
       Object {
-        "CFAUrl": null,
         "adaptability": 5,
         "affectionLevel": 5,
         "alternativeNames": Array [],
@@ -2286,7 +2029,7 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": false,
-        "id": "munc",
+        "id": "44",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -2310,71 +2053,12 @@ Object {
           "Playful",
         ],
         "vocalisation": 3,
-        "weight": Object {
-          "kg": Array [
-            2,
-            4,
-          ],
-          "lbs": Array [
-            5,
-            9,
-          ],
-        },
+        "weight": Array [
+          2,
+          4,
+        ],
       },
       Object {
-        "CFAUrl": null,
-        "adaptability": 5,
-        "affectionLevel": 5,
-        "alternativeNames": Array [
-          "Longhaired Russian Blue",
-        ],
-        "childFriendliness": 4,
-        "countryCode": "US",
-        "description": "The Nebelung may have a reserved nature, but she loves to play (being especially fond of retrieving) and enjoys jumping or climbing to high places where she can study people and situations at her leisure before making up her mind about whether she wants to get involved.",
-        "dogFriendliness": 4,
-        "energyLevel": 3,
-        "experimental": false,
-        "grooming": 3,
-        "hairless": false,
-        "healthIssues": 2,
-        "hypoallergenic": false,
-        "id": "nebe",
-        "indoor": false,
-        "intelligence": 5,
-        "lifeSpan": Array [
-          11,
-          16,
-        ],
-        "name": "Nebelung",
-        "natural": false,
-        "origin": "United States",
-        "rare": true,
-        "rex": false,
-        "sheddingLevel": 3,
-        "shortLegs": false,
-        "socialNeeds": 3,
-        "strangerFriendly": 3,
-        "suppressedTail": false,
-        "temperament": Array [
-          "Gentle",
-          "Quiet",
-          "Shy",
-          "Playful",
-        ],
-        "vocalisation": 1,
-        "weight": Object {
-          "kg": Array [
-            3,
-            5,
-          ],
-          "lbs": Array [
-            7,
-            11,
-          ],
-        },
-      },
-      Object {
-        "CFAUrl": "http://cfa.org/Breeds/BreedsKthruR/NorwegianForestCat.aspx",
         "adaptability": 5,
         "affectionLevel": 5,
         "alternativeNames": Array [
@@ -2392,7 +2076,7 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": false,
-        "id": "norw",
+        "id": "46",
         "indoor": false,
         "intelligence": 4,
         "lifeSpan": Array [
@@ -2419,19 +2103,12 @@ Object {
           "Curious",
         ],
         "vocalisation": 1,
-        "weight": Object {
-          "kg": Array [
-            4,
-            7,
-          ],
-          "lbs": Array [
-            8,
-            16,
-          ],
-        },
+        "weight": Array [
+          4,
+          7,
+        ],
       },
       Object {
-        "CFAUrl": "http://cfa.org/Breeds/BreedsKthruR/Ocicat.aspx",
         "adaptability": 5,
         "affectionLevel": 5,
         "alternativeNames": Array [],
@@ -2445,7 +2122,7 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": true,
-        "id": "ocic",
+        "id": "47",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -2474,19 +2151,12 @@ Object {
           "Social",
         ],
         "vocalisation": 3,
-        "weight": Object {
-          "kg": Array [
-            3,
-            7,
-          ],
-          "lbs": Array [
-            7,
-            15,
-          ],
-        },
+        "weight": Array [
+          3,
+          7,
+        ],
       },
       Object {
-        "CFAUrl": "http://cfa.org/Breeds/BreedsKthruR/Oriental.aspx",
         "adaptability": 5,
         "affectionLevel": 5,
         "alternativeNames": Array [
@@ -2502,7 +2172,7 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": true,
-        "id": "orie",
+        "id": "48",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -2528,19 +2198,12 @@ Object {
           "Curious",
         ],
         "vocalisation": 5,
-        "weight": Object {
-          "kg": Array [
-            2,
-            5,
-          ],
-          "lbs": Array [
-            5,
-            10,
-          ],
-        },
+        "weight": Array [
+          2,
+          5,
+        ],
       },
       Object {
-        "CFAUrl": "http://cfa.org/Breeds/BreedsKthruR/Persian.aspx",
         "adaptability": 5,
         "affectionLevel": 5,
         "alternativeNames": Array [
@@ -2559,7 +2222,7 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": false,
-        "id": "pers",
+        "id": "49",
         "indoor": false,
         "intelligence": 3,
         "lifeSpan": Array [
@@ -2583,19 +2246,12 @@ Object {
           "Quiet",
         ],
         "vocalisation": 1,
-        "weight": Object {
-          "kg": Array [
-            4,
-            6,
-          ],
-          "lbs": Array [
-            9,
-            14,
-          ],
-        },
+        "weight": Array [
+          4,
+          6,
+        ],
       },
       Object {
-        "CFAUrl": null,
         "adaptability": 5,
         "affectionLevel": 5,
         "alternativeNames": Array [],
@@ -2609,7 +2265,7 @@ Object {
         "hairless": false,
         "healthIssues": 2,
         "hypoallergenic": false,
-        "id": "pixi",
+        "id": "50",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -2633,19 +2289,12 @@ Object {
           "Loyal",
         ],
         "vocalisation": 1,
-        "weight": Object {
-          "kg": Array [
-            4,
-            8,
-          ],
-          "lbs": Array [
-            8,
-            17,
-          ],
-        },
+        "weight": Array [
+          4,
+          8,
+        ],
       },
       Object {
-        "CFAUrl": "http://cfa.org/Breeds/BreedsKthruR/Ragamuffin.aspx",
         "adaptability": 5,
         "affectionLevel": 5,
         "alternativeNames": Array [],
@@ -2659,7 +2308,7 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": false,
-        "id": "raga",
+        "id": "51",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -2683,19 +2332,12 @@ Object {
           "Calm",
         ],
         "vocalisation": 1,
-        "weight": Object {
-          "kg": Array [
-            4,
-            9,
-          ],
-          "lbs": Array [
-            8,
-            20,
-          ],
-        },
+        "weight": Array [
+          4,
+          9,
+        ],
       },
       Object {
-        "CFAUrl": "http://cfa.org/Breeds/BreedsKthruR/Ragdoll.aspx",
         "adaptability": 5,
         "affectionLevel": 5,
         "alternativeNames": Array [
@@ -2711,7 +2353,7 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": false,
-        "id": "ragd",
+        "id": "52",
         "indoor": false,
         "intelligence": 3,
         "lifeSpan": Array [
@@ -2736,19 +2378,12 @@ Object {
           "Easygoing",
         ],
         "vocalisation": 1,
-        "weight": Object {
-          "kg": Array [
-            5,
-            9,
-          ],
-          "lbs": Array [
-            12,
-            20,
-          ],
-        },
+        "weight": Array [
+          5,
+          9,
+        ],
       },
       Object {
-        "CFAUrl": "http://cfa.org/Breeds/BreedsKthruR/RussianBlue.aspx",
         "adaptability": 3,
         "affectionLevel": 3,
         "alternativeNames": Array [
@@ -2765,7 +2400,7 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": true,
-        "id": "rblu",
+        "id": "53",
         "indoor": false,
         "intelligence": 3,
         "lifeSpan": Array [
@@ -2793,19 +2428,12 @@ Object {
           "Quiet",
         ],
         "vocalisation": 1,
-        "weight": Object {
-          "kg": Array [
-            2,
-            5,
-          ],
-          "lbs": Array [
-            5,
-            11,
-          ],
-        },
+        "weight": Array [
+          2,
+          5,
+        ],
       },
       Object {
-        "CFAUrl": null,
         "adaptability": 5,
         "affectionLevel": 5,
         "alternativeNames": Array [],
@@ -2819,7 +2447,7 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "sava",
+        "id": "54",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -2846,19 +2474,12 @@ Object {
           "Affectionate",
         ],
         "vocalisation": 1,
-        "weight": Object {
-          "kg": Array [
-            4,
-            11,
-          ],
-          "lbs": Array [
-            8,
-            25,
-          ],
-        },
+        "weight": Array [
+          4,
+          11,
+        ],
       },
       Object {
-        "CFAUrl": "http://cfa.org/Breeds/BreedsSthruT/ScottishFold.aspx",
         "adaptability": 5,
         "affectionLevel": 5,
         "alternativeNames": Array [
@@ -2874,7 +2495,7 @@ Object {
         "hairless": false,
         "healthIssues": 4,
         "hypoallergenic": false,
-        "id": "sfol",
+        "id": "55",
         "indoor": false,
         "intelligence": 3,
         "lifeSpan": Array [
@@ -2901,19 +2522,12 @@ Object {
           "Loving",
         ],
         "vocalisation": 1,
-        "weight": Object {
-          "kg": Array [
-            2,
-            5,
-          ],
-          "lbs": Array [
-            5,
-            11,
-          ],
-        },
+        "weight": Array [
+          2,
+          5,
+        ],
       },
       Object {
-        "CFAUrl": "http://cfa.org/Breeds/BreedsSthruT/SelkirkRex.aspx",
         "adaptability": 5,
         "affectionLevel": 5,
         "alternativeNames": Array [
@@ -2929,7 +2543,7 @@ Object {
         "hairless": false,
         "healthIssues": 4,
         "hypoallergenic": true,
-        "id": "srex",
+        "id": "56",
         "indoor": false,
         "intelligence": 3,
         "lifeSpan": Array [
@@ -2957,19 +2571,12 @@ Object {
           "Social",
         ],
         "vocalisation": 3,
-        "weight": Object {
-          "kg": Array [
-            3,
-            7,
-          ],
-          "lbs": Array [
-            6,
-            16,
-          ],
-        },
+        "weight": Array [
+          3,
+          7,
+        ],
       },
       Object {
-        "CFAUrl": "http://cfa.org/Breeds/BreedsSthruT/Siamese.aspx",
         "adaptability": 5,
         "affectionLevel": 5,
         "alternativeNames": Array [
@@ -2986,7 +2593,7 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": true,
-        "id": "siam",
+        "id": "57",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -3012,19 +2619,12 @@ Object {
           "Energetic",
         ],
         "vocalisation": 5,
-        "weight": Object {
-          "kg": Array [
-            4,
-            7,
-          ],
-          "lbs": Array [
-            8,
-            15,
-          ],
-        },
+        "weight": Array [
+          4,
+          7,
+        ],
       },
       Object {
-        "CFAUrl": "http://cfa.org/Breeds/BreedsSthruT/Siberian.aspx",
         "adaptability": 5,
         "affectionLevel": 5,
         "alternativeNames": Array [
@@ -3041,7 +2641,7 @@ Object {
         "hairless": false,
         "healthIssues": 2,
         "hypoallergenic": true,
-        "id": "sibe",
+        "id": "58",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -3068,19 +2668,12 @@ Object {
           "Affectionate",
         ],
         "vocalisation": 1,
-        "weight": Object {
-          "kg": Array [
-            4,
-            7,
-          ],
-          "lbs": Array [
-            8,
-            16,
-          ],
-        },
+        "weight": Array [
+          4,
+          7,
+        ],
       },
       Object {
-        "CFAUrl": "http://cfa.org/Breeds/BreedsSthruT/Singapura.aspx",
         "adaptability": 5,
         "affectionLevel": 5,
         "alternativeNames": Array [
@@ -3098,7 +2691,7 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "sing",
+        "id": "59",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -3125,19 +2718,12 @@ Object {
           "Loyal",
         ],
         "vocalisation": 1,
-        "weight": Object {
-          "kg": Array [
-            2,
-            4,
-          ],
-          "lbs": Array [
-            5,
-            8,
-          ],
-        },
+        "weight": Array [
+          2,
+          4,
+        ],
       },
       Object {
-        "CFAUrl": null,
         "adaptability": 5,
         "affectionLevel": 5,
         "alternativeNames": Array [],
@@ -3151,7 +2737,7 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "snow",
+        "id": "60",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -3175,19 +2761,12 @@ Object {
           "Sweet-tempered",
         ],
         "vocalisation": 5,
-        "weight": Object {
-          "kg": Array [
-            3,
-            5,
-          ],
-          "lbs": Array [
-            7,
-            12,
-          ],
-        },
+        "weight": Array [
+          3,
+          5,
+        ],
       },
       Object {
-        "CFAUrl": "http://cfa.org/Breeds/BreedsSthruT/Somali.aspx",
         "adaptability": 5,
         "affectionLevel": 5,
         "alternativeNames": Array [
@@ -3204,7 +2783,7 @@ Object {
         "hairless": false,
         "healthIssues": 2,
         "hypoallergenic": false,
-        "id": "soma",
+        "id": "61",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -3231,19 +2810,12 @@ Object {
           "Loyal",
         ],
         "vocalisation": 1,
-        "weight": Object {
-          "kg": Array [
-            3,
-            5,
-          ],
-          "lbs": Array [
-            6,
-            12,
-          ],
-        },
+        "weight": Array [
+          3,
+          5,
+        ],
       },
       Object {
-        "CFAUrl": "http://cfa.org/Breeds/BreedsSthruT/Sphynx.aspx",
         "adaptability": 5,
         "affectionLevel": 5,
         "alternativeNames": Array [
@@ -3260,7 +2832,7 @@ Object {
         "hairless": true,
         "healthIssues": 4,
         "hypoallergenic": true,
-        "id": "sphy",
+        "id": "62",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -3285,19 +2857,12 @@ Object {
           "Gentle",
         ],
         "vocalisation": 5,
-        "weight": Object {
-          "kg": Array [
-            3,
-            5,
-          ],
-          "lbs": Array [
-            6,
-            12,
-          ],
-        },
+        "weight": Array [
+          3,
+          5,
+        ],
       },
       Object {
-        "CFAUrl": "http://cfa.org/Breeds/BreedsSthruT/Tonkinese.aspx",
         "adaptability": 5,
         "affectionLevel": 5,
         "alternativeNames": Array [
@@ -3313,7 +2878,7 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "tonk",
+        "id": "63",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -3340,19 +2905,12 @@ Object {
           "Affectionate",
         ],
         "vocalisation": 5,
-        "weight": Object {
-          "kg": Array [
-            3,
-            5,
-          ],
-          "lbs": Array [
-            6,
-            12,
-          ],
-        },
+        "weight": Array [
+          3,
+          5,
+        ],
       },
       Object {
-        "CFAUrl": null,
         "adaptability": 5,
         "affectionLevel": 5,
         "alternativeNames": Array [],
@@ -3366,7 +2924,7 @@ Object {
         "hairless": false,
         "healthIssues": 2,
         "hypoallergenic": false,
-        "id": "toyg",
+        "id": "64",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -3389,19 +2947,12 @@ Object {
           "Intelligent",
         ],
         "vocalisation": 5,
-        "weight": Object {
-          "kg": Array [
-            3,
-            7,
-          ],
-          "lbs": Array [
-            7,
-            15,
-          ],
-        },
+        "weight": Array [
+          3,
+          7,
+        ],
       },
       Object {
-        "CFAUrl": "http://cfa.org/Breeds/BreedsSthruT/TurkishAngora.aspx",
         "adaptability": 5,
         "affectionLevel": 5,
         "alternativeNames": Array [
@@ -3417,7 +2968,7 @@ Object {
         "hairless": false,
         "healthIssues": 2,
         "hypoallergenic": false,
-        "id": "tang",
+        "id": "65",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -3444,19 +2995,12 @@ Object {
           "Social",
         ],
         "vocalisation": 3,
-        "weight": Object {
-          "kg": Array [
-            2,
-            5,
-          ],
-          "lbs": Array [
-            5,
-            10,
-          ],
-        },
+        "weight": Array [
+          2,
+          5,
+        ],
       },
       Object {
-        "CFAUrl": "http://cfa.org/Breeds/BreedsSthruT/TurkishVan.aspx",
         "adaptability": 5,
         "affectionLevel": 5,
         "alternativeNames": Array [
@@ -3473,7 +3017,7 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "tvan",
+        "id": "66",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -3498,19 +3042,12 @@ Object {
           "Energetic",
         ],
         "vocalisation": 5,
-        "weight": Object {
-          "kg": Array [
-            3,
-            9,
-          ],
-          "lbs": Array [
-            7,
-            20,
-          ],
-        },
+        "weight": Array [
+          3,
+          9,
+        ],
       },
       Object {
-        "CFAUrl": null,
         "adaptability": 5,
         "affectionLevel": 5,
         "alternativeNames": Array [
@@ -3526,7 +3063,7 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "ycho",
+        "id": "67",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -3551,16 +3088,10 @@ Object {
           "Friendly",
         ],
         "vocalisation": 5,
-        "weight": Object {
-          "kg": Array [
-            5,
-            8,
-          ],
-          "lbs": Array [
-            12,
-            18,
-          ],
-        },
+        "weight": Array [
+          5,
+          8,
+        ],
       },
     ],
   },
