@@ -13,6 +13,4 @@ jobs:
       - name: Docker
         run: cd docker; ./run-ci.sh
       - name: Test
-        run: ./ops/test.sh
-        env:
-          DB_HOST: localhost
+        run: export DB_HOST=localhost; ./ops/test.sh
