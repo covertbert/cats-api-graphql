@@ -34,11 +34,12 @@
   "license": "ISC",
   "name": "cats-api-grapqhl",
   "nodemonConfig": {
-    "exec": "ts-node src/index.ts",
+    "exec": "npm run start",
     "ext": "ts, json",
     "watch": "src"
   },
   "scripts": {
+    "start": "ts-node src/index.ts",
     "watch": "nodemon",
     "lint": "tslint --project .",
     "lint:fix": "tslint --quiet --fix --project .",
