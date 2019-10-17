@@ -1,6 +1,6 @@
 {
   "hooks": {
-    "pre-commit": "lint-staged",
+    "pre-commit": "git-branch-is -r \"^((?!master).)*$\" && lint-staged",
     "post-merge": "npm install"
   }
 }
