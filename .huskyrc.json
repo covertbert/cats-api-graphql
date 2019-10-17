@@ -1,6 +1,6 @@
 {
   "hooks": {
-    "pre-commit": "if [[ $(git rev-parse --abbrev-ref HEAD) = protect-master-from-commits ]]; then echo 0; else lint-staged; fi ",
+    "pre-commit": "if [[ $(git rev-parse --abbrev-ref HEAD) = master ]]; then echo \"You can't commit directly to master branch\" && exit 1; else lint-staged; fi ",
     "post-merge": "npm install"
   }
 }
