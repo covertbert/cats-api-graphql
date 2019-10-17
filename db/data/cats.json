@@ -1,9 +1,7 @@
 [
   {
-    "cfa_url": "http://cfa.org/Breeds/BreedsAB/Abyssinian.aspx",
     "adaptability": 5,
     "affection_level": 5,
-    "alternative_names": [],
     "child_friendliness": 3,
     "country_code": "EG",
     "description": "The Abyssinian is easy to care for, and a joy to have in your home. They’re affectionate cats and love both people and other animals.",
@@ -42,7 +40,6 @@
   {
     "adaptability": 5,
     "affection_level": 4,
-    "alternative_names": [],
     "child_friendliness": 4,
     "country_code": "GR",
     "description": "Native to the Greek islands known as the Cyclades in the Aegean Sea, these are natural cats, meaning they developed without humans getting involved in their breeding. As a breed, Aegean Cats are rare, although they are numerous on their home islands. They are generally friendly toward people and can be excellent cats for families with children.",
@@ -78,10 +75,8 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aegean_cat"
   },
   {
-    "cfa_url": "http://cfa.org/Breeds/BreedsAB/AmericanBobtail.aspx",
     "adaptability": 5,
     "affection_level": 5,
-    "alternative_names": [],
     "child_friendliness": 4,
     "country_code": "US",
     "description": "American Bobtails are loving and incredibly intelligent cats possessing a distinctive wild appearance. They are extremely interactive cats that bond with their human family with great devotion.",
@@ -118,10 +113,8 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/American_Bobtail"
   },
   {
-    "cfa_url": "http://cfa.org/Breeds/BreedsAB/AmericanCurl.aspx",
     "adaptability": 5,
     "affection_level": 5,
-    "alternative_names": [],
     "child_friendliness": 4,
     "country_code": "US",
     "description": "Distinguished by truly unique ears that curl back in a graceful arc, offering an alert, perky, happily surprised expression, they cause people to break out into a big smile when viewing their first Curl. Curls are very people-oriented, faithful, affectionate soulmates, adjusting remarkably fast to other pets, children, and new situations.",
@@ -160,7 +153,6 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/American_Curl"
   },
   {
-    "cfa_url": "http://cfa.org/Breeds/BreedsAB/AmericanShorthair.aspx",
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": ["Domestic Shorthair"],
@@ -194,10 +186,8 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/American_Shorthair"
   },
   {
-    "cfa_url": "http://cfa.org/Breeds/BreedsAB/AmericanWirehair.aspx",
     "adaptability": 5,
     "affection_level": 5,
-    "alternative_names": [],
     "child_friendliness": 4,
     "country_code": "US",
     "description": "The American Wirehair tends to be a calm and tolerant cat who takes life as it comes. His favorite hobby is bird-watching from a sunny windowsill, and his hunting ability will stand you in good stead if insects enter the house.",
@@ -317,7 +307,6 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Australian_Mist"
   },
   {
-    "cfa_url": "http://cfa.org/Breeds/BreedsAB/Balinese.aspx",
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": ["Long-haired Siamese"],
@@ -352,7 +341,6 @@
   {
     "adaptability": 5,
     "affection_level": 5,
-    "alternative_names": [],
     "child_friendliness": 4,
     "country_code": "US",
     "description": "The Bambino is a breed of cat that was created as a cross between the Sphynx and the Munchkin breeds. The Bambino cat has short legs, large upright ears, and is usually hairless. They love to be handled and cuddled up on the laps of their family members.",
@@ -383,7 +371,6 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Bambino_cat"
   },
   {
-    "cfa_url": "http://cfa.org/Breeds/BreedsAB/Bengal.aspx",
     "adaptability": 5,
     "affection_level": 5,
     "child_friendliness": 4,
@@ -416,7 +403,6 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Bengal_(cat)"
   },
   {
-    "cfa_url": "http://cfa.org/Breeds/BreedsAB/Birman.aspx",
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": ["Sacred Birman", "Sacred Cat Of Burma"],
@@ -450,7 +436,6 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Birman"
   },
   {
-    "cfa_url": "http://cfa.org/Breeds/BreedsAB/Bombay.aspx",
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": ["Small black Panther"],
@@ -492,7 +477,6 @@
   {
     "adaptability": 5,
     "affection_level": 5,
-    "alternative_names": [],
     "child_friendliness": 4,
     "country_code": "GB",
     "description": "The British Longhair is a very laid-back relaxed cat, often perceived to be very independent although they will enjoy the company of an equally relaxed and likeminded cat. They are an affectionate breed, but very much on their own terms and tend to prefer to choose to come and sit with their owners rather than being picked up.",
@@ -529,7 +513,6 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/British_Longhair"
   },
   {
-    "cfa_url": "http://cfa.org/Breeds/BreedsAB/BritishShorthair.aspx",
     "adaptability": 5,
     "affection_level": 4,
     "alternative_names": ["Highlander", "Highland Straight", "Britannica"],
@@ -570,10 +553,8 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/British_Shorthair"
   },
   {
-    "cfa_url": "http://cfa.org/Breeds/BreedsAB/Burmese.aspx",
     "adaptability": 5,
     "affection_level": 5,
-    "alternative_names": [],
     "child_friendliness": 4,
     "country_code": "MM",
     "description": "Burmese love being with people, playing with them, and keeping them entertained. They crave close physical contact and abhor an empty lap. They will follow their humans from room to room, and sleep in bed with them, preferably under the covers, cuddled as close as possible. At play, they will turn around to see if their human is watching and being entertained by their crazy antics.",
@@ -612,10 +593,8 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Burmese_(cat)"
   },
   {
-    "cfa_url": "http://cfa.org/Breeds/BreedsAB/Burmilla.aspx",
     "adaptability": 5,
     "affection_level": 5,
-    "alternative_names": [],
     "child_friendliness": 4,
     "country_code": "GB",
     "description": "The Burmilla is a fairly placid cat. She tends to be an easy cat to get along with, requiring minimal care. The Burmilla is affectionate and sweet and makes a good companion, the Burmilla is an ideal companion to while away a lonely evening. Loyal, devoted, and affectionate, this cat will stay by its owner, always keeping them company.",
@@ -724,10 +703,8 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Chantilly-Tiffany"
   },
   {
-    "cfa_url": "http://cfa.org/Breeds/BreedsCJ/Chartreux.aspx",
     "adaptability": 5,
     "affection_level": 5,
-    "alternative_names": [],
     "child_friendliness": 4,
     "country_code": "FR",
     "description": "The Chartreux is generally silent but communicative. Short play sessions, mixed with naps and meals are their perfect day. Whilst appreciating any attention you give them, they are not demanding, content instead to follow you around devotedly, sleep on your bed and snuggle with you if you’re not feeling well.",
@@ -799,7 +776,6 @@
   {
     "adaptability": 5,
     "affection_level": 5,
-    "alternative_names": [],
     "child_friendliness": 4,
     "country_code": "US",
     "description": "The Cheetoh has a super affectionate nature and real love for their human companions; they are intelligent with the ability to learn quickly. You can expect that a Cheetoh will be a fun-loving kitty who enjoys playing, running, and jumping through every room in your house.",
@@ -829,10 +805,8 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Bengal_cat#Cheetoh"
   },
   {
-    "cfa_url": "http://cfa.org/Breeds/BreedsCJ/ColorpointShorthair.aspx",
     "adaptability": 3,
     "affection_level": 4,
-    "alternative_names": [],
     "child_friendliness": 4,
     "country_code": "US",
     "description": "Colorpoint Shorthairs are an affectionate breed, devoted and loyal to their people. Sensitive to their owner’s moods, Colorpoints are more than happy to sit at your side or on your lap and purr words of encouragement on a bad day. They will constantly seek out your lap whenever it is open and in the moments when your lap is preoccupied they will stretch out in sunny spots on the ground.",
@@ -863,10 +837,8 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Colorpoint_Shorthair"
   },
   {
-    "cfa_url": "http://cfa.org/Breeds/BreedsCJ/CornishRex.aspx",
     "adaptability": 5,
     "affection_level": 5,
-    "alternative_names": [],
     "child_friendliness": 4,
     "country_code": "GB",
     "description": "This is a confident cat who loves people and will follow them around, waiting for any opportunity to sit in a lap or give a kiss. He enjoys being handled, making it easy to take him to the veterinarian or train him for therapy work. The Cornish Rex stay in kitten mode most of their lives and well into their senior years. ",
@@ -969,7 +941,6 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Cyprus_cat"
   },
   {
-    "cfa_url": "http://cfa.org/Breeds/BreedsCJ/DevonRex.aspx",
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": ["Pixie cat", "Alien cat", "Poodle cat"],
@@ -1072,7 +1043,6 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Dragon_Li"
   },
   {
-    "cfa_url": "http://cfa.org/Breeds/BreedsCJ/EgyptianMau.aspx",
     "adaptability": 2,
     "affection_level": 5,
     "alternative_names": ["Pharaoh Cat"],
@@ -1114,10 +1084,8 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Egyptian_Mau"
   },
   {
-    "cfa_url": "http://cfa.org/Breeds/BreedsCJ/EuropeanBurmese.aspx",
     "adaptability": 5,
     "affection_level": 5,
-    "alternative_names": [],
     "child_friendliness": 4,
     "country_code": "MM",
     "description": "The European Burmese is a very affectionate, intelligent, and loyal cat. They thrive on companionship and will want to be with you, participating in everything you do. While they might pick a favorite family member, chances are that they will interact with everyone in the home, as well as any visitors that come to call. They are inquisitive and playful, even as adults. ",
@@ -1147,7 +1115,6 @@
     "weight": [3, 6]
   },
   {
-    "cfa_url": "http://cfa.org/Breeds/BreedsCJ/Exotic.aspx",
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": ["Exotic"],
@@ -1181,7 +1148,6 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Exotic_Shorthair"
   },
   {
-    "cfa_url": "http://cfa.org/Breeds/BreedsCJ/HavanaBrown.aspx",
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": ["Havana", "HB"],
@@ -1260,7 +1226,6 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Himalayan_(cat)"
   },
   {
-    "cfa_url": "http://cfa.org/Breeds/BreedsCJ/JapaneseBobtail.aspx",
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": ["Japanese Truncated Cat"],
@@ -1306,7 +1271,6 @@
   {
     "adaptability": 4,
     "affection_level": 5,
-    "alternative_names": [],
     "child_friendliness": 4,
     "country_code": "US",
     "description": "Javanese are endlessly interested, intelligent and active. They tend to enjoy jumping to great heights, playing with fishing pole-type or other interactive toys and just generally investigating their surroundings. He will attempt to copy things you do, such as opening doors or drawers.",
@@ -1336,7 +1300,6 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Javanese_cat"
   },
   {
-    "cfa_url": "http://cfa.org/Breeds/BreedsKthruR/KhaoManee.aspx",
     "adaptability": 4,
     "affection_level": 4,
     "alternative_names": ["Diamond Eye cat"],
@@ -1370,7 +1333,6 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Khao_Manee"
   },
   {
-    "cfa_url": "http://cfa.org/Breeds/BreedsKthruR/Korat.aspx",
     "adaptability": 5,
     "affection_level": 5,
     "child_friendliness": 4,
@@ -1447,7 +1409,6 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Kurilian_Bobtail"
   },
   {
-    "cfa_url": "http://cfa.org/Breeds/BreedsKthruR/LaPerm.aspx",
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": ["Si-Sawat"],
@@ -1488,7 +1449,6 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/LaPerm"
   },
   {
-    "cfa_url": "http://cfa.org/Breeds/BreedsKthruR/MaineCoon.aspx",
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": [
@@ -1567,7 +1527,6 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Asian_cat"
   },
   {
-    "cfa_url": "http://cfa.org/Breeds/BreedsKthruR/Manx.aspx",
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": ["Manks", "Stubbin", "Rumpy"],
@@ -1603,7 +1562,6 @@
   {
     "adaptability": 5,
     "affection_level": 5,
-    "alternative_names": [],
     "child_friendliness": 4,
     "country_code": "US",
     "description": "The Munchkin is an outgoing cat who enjoys being handled. She has lots of energy and is faster and more agile than she looks. The shortness of their legs does not seem to interfere with their running and leaping abilities.",
@@ -1667,7 +1625,6 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Nebelung"
   },
   {
-    "cfa_url": "http://cfa.org/Breeds/BreedsKthruR/NorwegianForestCat.aspx",
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": [
@@ -1712,10 +1669,8 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Norwegian_Forest_Cat"
   },
   {
-    "cfa_url": "http://cfa.org/Breeds/BreedsKthruR/Ocicat.aspx",
     "adaptability": 5,
     "affection_level": 5,
-    "alternative_names": [],
     "child_friendliness": 4,
     "country_code": "US",
     "description": "Loyal and devoted to their owners, the Ocicat is intelligent, confident, outgoing, and seems to have many dog traits. They can be trained to fetch toys, walk on a lead, taught to 'speak', come when called, and follow other commands. ",
@@ -1755,7 +1710,6 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ocicat"
   },
   {
-    "cfa_url": "http://cfa.org/Breeds/BreedsKthruR/Oriental.aspx",
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": ["Foreign Type"],
@@ -1796,7 +1750,6 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Oriental_Shorthair"
   },
   {
-    "cfa_url": "http://cfa.org/Breeds/BreedsKthruR/Persian.aspx",
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": ["Longhair", "Persian Longhair", "Shiraz", "Shirazi"],
@@ -1832,7 +1785,6 @@
   {
     "adaptability": 5,
     "affection_level": 5,
-    "alternative_names": [],
     "child_friendliness": 4,
     "country_code": "US",
     "description": "Companionable and affectionate, the Pixie-bob wants to be an integral part of the family. The Pixie-Bob’s ability to bond with their humans along with their patient personas make them excellent companions for children.",
@@ -1863,10 +1815,8 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pixiebob"
   },
   {
-    "cfa_url": "http://cfa.org/Breeds/BreedsKthruR/Ragamuffin.aspx",
     "adaptability": 5,
     "affection_level": 5,
-    "alternative_names": [],
     "child_friendliness": 4,
     "country_code": "US",
     "description": "The Ragamuffin is calm, even tempered and gets along well with all family members. Changes in routine generally do not upset her. She is an ideal companion for those in apartments, and with children due to her patient nature.",
@@ -1897,7 +1847,6 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ragamuffin_cat"
   },
   {
-    "cfa_url": "http://cfa.org/Breeds/BreedsKthruR/Ragdoll.aspx",
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": ["Rag doll"],
@@ -1931,7 +1880,6 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ragdoll"
   },
   {
-    "cfa_url": "http://cfa.org/Breeds/BreedsKthruR/RussianBlue.aspx",
     "adaptability": 3,
     "affection_level": 3,
     "alternative_names": ["Archangel Blue", "Archangel Cat"],
@@ -1976,7 +1924,6 @@
   {
     "adaptability": 5,
     "affection_level": 5,
-    "alternative_names": [],
     "child_friendliness": 4,
     "country_code": "US",
     "description": "Savannah is the feline version of a dog. Actively seeking social interaction, they are given to pouting if left out. Remaining kitten-like through life. Profoundly loyal to immediate family members whilst questioning the presence of strangers. Making excellent companions that are loyal, intelligent and eager to be involved.",
@@ -2014,7 +1961,6 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Savannah_cat"
   },
   {
-    "cfa_url": "http://cfa.org/Breeds/BreedsSthruT/ScottishFold.aspx",
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": ["Scot Fold"],
@@ -2055,7 +2001,6 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Scottish_Fold"
   },
   {
-    "cfa_url": "http://cfa.org/Breeds/BreedsSthruT/SelkirkRex.aspx",
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": ["Shepherd Cat"],
@@ -2098,7 +2043,6 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Selkirk_Rex"
   },
   {
-    "cfa_url": "http://cfa.org/Breeds/BreedsSthruT/Siamese.aspx",
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": ["Siam", "Thai Cat"],
@@ -2139,7 +2083,6 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Siamese_(cat)"
   },
   {
-    "cfa_url": "http://cfa.org/Breeds/BreedsSthruT/Siberian.aspx",
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": ["Moscow Semi-longhair", "HairSiberian Forest Cat"],
@@ -2181,7 +2124,6 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Siberian_(cat)"
   },
   {
-    "cfa_url": "http://cfa.org/Breeds/BreedsSthruT/Singapura.aspx",
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": ["Drain Cat", "Kucinta", "Pura"],
@@ -2225,7 +2167,6 @@
   {
     "adaptability": 5,
     "affection_level": 5,
-    "alternative_names": [],
     "child_friendliness": 4,
     "country_code": "US",
     "description": "The Snowshoe is a vibrant, energetic, affectionate and intelligent cat. They love being around people which makes them ideal for families, and becomes unhappy when left alone for long periods of time. Usually attaching themselves to one person, they do whatever they can to get your attention.",
@@ -2256,7 +2197,6 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Snowshoe_(cat)"
   },
   {
-    "cfa_url": "http://cfa.org/Breeds/BreedsSthruT/Somali.aspx",
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": ["Fox Cat", "Long-Haired Abyssinian"],
@@ -2297,7 +2237,6 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Somali_(cat)"
   },
   {
-    "cfa_url": "http://cfa.org/Breeds/BreedsSthruT/Sphynx.aspx",
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": ["Canadian Hairless", "Canadian Sphynx"],
@@ -2331,7 +2270,6 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sphynx_(cat)"
   },
   {
-    "cfa_url": "http://cfa.org/Breeds/BreedsSthruT/Tonkinese.aspx",
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": ["Tonk"],
@@ -2375,7 +2313,6 @@
   {
     "adaptability": 5,
     "affection_level": 5,
-    "alternative_names": [],
     "child_friendliness": 4,
     "country_code": "US",
     "description": "The Toyger has a sweet, calm personality and is generally friendly. He's outgoing enough to walk on a leash, energetic enough to play fetch and other interactive games, and confident enough to get along with other cats and friendly dogs.",
@@ -2406,7 +2343,6 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Toyger"
   },
   {
-    "cfa_url": "http://cfa.org/Breeds/BreedsSthruT/TurkishAngora.aspx",
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": ["Ankara"],
@@ -2447,7 +2383,6 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Turkish_Angora"
   },
   {
-    "cfa_url": "http://cfa.org/Breeds/BreedsSthruT/TurkishVan.aspx",
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": ["Turkish Cat", "Swimming cat"],

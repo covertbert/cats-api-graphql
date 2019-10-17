@@ -24,7 +24,6 @@ describe('Cats integration tests', () => {
           hairless
           healthIssues
           hypoallergenic
-          id
           indoor
           intelligence
           lifeSpan
@@ -68,7 +67,6 @@ describe('Cats integration tests', () => {
           hairless
           healthIssues
           hypoallergenic
-          id
           indoor
           intelligence
           lifeSpan
