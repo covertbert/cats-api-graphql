@@ -1,6 +1,6 @@
 {
   "hooks": {
-    "pre-commit": "git-branch-is -r \"^((?!master).)*$\" && lint-staged",
+    "pre-commit": "if [[ $(git rev-parse --abbrev-ref HEAD) = master ]]; then echo 0; else lint-staged; fi ",
     "post-merge": "npm install"
   }
 }
