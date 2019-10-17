@@ -16,7 +16,7 @@ To get the service up and running quickly in a local environment you need to:
 To run in watch mode for development you'll need to:
 
 - Spin up just the Postgres container in Docker with `cd docker` and `./run.sh db`.
-- Then hit `./ops/watch.sh` from another tab which will first run the migrations/seeds and then run the project in watch mode and serve it on `http://localhost:4000`
+- Then hit `./ops/watch.sh` from another tab in the root of the repo which will first run the migrations/seeds and then run the project in watch mode and serve it on `http://localhost:4000`
 
 ## Unit & integration tests
 
