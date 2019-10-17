@@ -5,11 +5,10 @@ exports.down = (knex: Knex) => down(knex)
 
 const up = (knex: Knex) => {
   return knex.schema.createTable('cats', table => {
-    table.increments()
+    table.increments('id')
     table.integer('adaptability').notNullable()
     table.integer('affection_level').notNullable()
     table.specificType('alternative_names', 'text ARRAY').nullable()
-    table.string('cfa_url').nullable()
     table.integer('child_friendliness').notNullable()
     table.string('country_code').notNullable()
     table.string('description', 1000).notNullable()

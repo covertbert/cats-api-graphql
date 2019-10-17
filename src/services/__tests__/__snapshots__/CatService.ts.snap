@@ -7,7 +7,7 @@ Object {
       Object {
         "adaptability": 5,
         "affectionLevel": 5,
-        "alternativeNames": Array [],
+        "alternativeNames": null,
         "childFriendliness": 3,
         "countryCode": "EG",
         "description": "The Abyssinian is easy to care for, and a joy to have in your home. They’re affectionate cats and love both people and other animals.",
@@ -18,7 +18,6 @@ Object {
         "hairless": false,
         "healthIssues": 2,
         "hypoallergenic": false,
-        "id": "1",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -51,7 +50,7 @@ Object {
       Object {
         "adaptability": 5,
         "affectionLevel": 4,
-        "alternativeNames": Array [],
+        "alternativeNames": null,
         "childFriendliness": 4,
         "countryCode": "GR",
         "description": "Native to the Greek islands known as the Cyclades in the Aegean Sea, these are natural cats, meaning they developed without humans getting involved in their breeding. As a breed, Aegean Cats are rare, although they are numerous on their home islands. They are generally friendly toward people and can be excellent cats for families with children.",
@@ -62,7 +61,6 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "2",
         "indoor": false,
         "intelligence": 3,
         "lifeSpan": Array [
@@ -95,7 +93,7 @@ Object {
       Object {
         "adaptability": 5,
         "affectionLevel": 5,
-        "alternativeNames": Array [],
+        "alternativeNames": null,
         "childFriendliness": 4,
         "countryCode": "US",
         "description": "American Bobtails are loving and incredibly intelligent cats possessing a distinctive wild appearance. They are extremely interactive cats that bond with their human family with great devotion.",
@@ -106,7 +104,6 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "3",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -139,7 +136,7 @@ Object {
       Object {
         "adaptability": 5,
         "affectionLevel": 5,
-        "alternativeNames": Array [],
+        "alternativeNames": null,
         "childFriendliness": 4,
         "countryCode": "US",
         "description": "Distinguished by truly unique ears that curl back in a graceful arc, offering an alert, perky, happily surprised expression, they cause people to break out into a big smile when viewing their first Curl. Curls are very people-oriented, faithful, affectionate soulmates, adjusting remarkably fast to other pets, children, and new situations.",
@@ -150,7 +147,6 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "4",
         "indoor": false,
         "intelligence": 3,
         "lifeSpan": Array [
@@ -198,7 +194,6 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": false,
-        "id": "5",
         "indoor": false,
         "intelligence": 3,
         "lifeSpan": Array [
@@ -231,7 +226,7 @@ Object {
       Object {
         "adaptability": 5,
         "affectionLevel": 5,
-        "alternativeNames": Array [],
+        "alternativeNames": null,
         "childFriendliness": 4,
         "countryCode": "US",
         "description": "The American Wirehair tends to be a calm and tolerant cat who takes life as it comes. His favorite hobby is bird-watching from a sunny windowsill, and his hunting ability will stand you in good stead if insects enter the house.",
@@ -242,7 +237,6 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": false,
-        "id": "6",
         "indoor": false,
         "intelligence": 3,
         "lifeSpan": Array [
@@ -293,7 +287,6 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "7",
         "indoor": false,
         "intelligence": 3,
         "lifeSpan": Array [
@@ -340,7 +333,6 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "8",
         "indoor": false,
         "intelligence": 4,
         "lifeSpan": Array [
@@ -386,7 +378,6 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": true,
-        "id": "9",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -417,7 +408,7 @@ Object {
       Object {
         "adaptability": 5,
         "affectionLevel": 5,
-        "alternativeNames": Array [],
+        "alternativeNames": null,
         "childFriendliness": 4,
         "countryCode": "US",
         "description": "The Bambino is a breed of cat that was created as a cross between the Sphynx and the Munchkin breeds. The Bambino cat has short legs, large upright ears, and is usually hairless. They love to be handled and cuddled up on the laps of their family members.",
@@ -428,7 +419,6 @@ Object {
         "hairless": true,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "10",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -471,7 +461,6 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": true,
-        "id": "11",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -518,7 +507,6 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "12",
         "indoor": false,
         "intelligence": 3,
         "lifeSpan": Array [
@@ -563,7 +551,6 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": false,
-        "id": "13",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -596,7 +583,7 @@ Object {
       Object {
         "adaptability": 5,
         "affectionLevel": 5,
-        "alternativeNames": Array [],
+        "alternativeNames": null,
         "childFriendliness": 4,
         "countryCode": "GB",
         "description": "The British Longhair is a very laid-back relaxed cat, often perceived to be very independent although they will enjoy the company of an equally relaxed and likeminded cat. They are an affectionate breed, but very much on their own terms and tend to prefer to choose to come and sit with their owners rather than being picked up.",
@@ -607,7 +594,6 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "14",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -656,7 +642,6 @@ Object {
         "hairless": false,
         "healthIssues": 2,
         "hypoallergenic": false,
-        "id": "15",
         "indoor": false,
         "intelligence": 3,
         "lifeSpan": Array [
@@ -690,7 +675,7 @@ Object {
       Object {
         "adaptability": 5,
         "affectionLevel": 5,
-        "alternativeNames": Array [],
+        "alternativeNames": null,
         "childFriendliness": 4,
         "countryCode": "MM",
         "description": "Burmese love being with people, playing with them, and keeping them entertained. They crave close physical contact and abhor an empty lap. They will follow their humans from room to room, and sleep in bed with them, preferably under the covers, cuddled as close as possible. At play, they will turn around to see if their human is watching and being entertained by their crazy antics.",
@@ -701,7 +686,6 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": true,
-        "id": "16",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -736,7 +720,7 @@ Object {
       Object {
         "adaptability": 5,
         "affectionLevel": 5,
-        "alternativeNames": Array [],
+        "alternativeNames": null,
         "childFriendliness": 4,
         "countryCode": "GB",
         "description": "The Burmilla is a fairly placid cat. She tends to be an easy cat to get along with, requiring minimal care. The Burmilla is affectionate and sweet and makes a good companion, the Burmilla is an ideal companion to while away a lonely evening. Loyal, devoted, and affectionate, this cat will stay by its owner, always keeping them company.",
@@ -747,7 +731,6 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": false,
-        "id": "17",
         "indoor": false,
         "intelligence": 3,
         "lifeSpan": Array [
@@ -794,7 +777,6 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "18",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -841,7 +823,6 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "19",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -873,7 +854,7 @@ Object {
       Object {
         "adaptability": 5,
         "affectionLevel": 5,
-        "alternativeNames": Array [],
+        "alternativeNames": null,
         "childFriendliness": 4,
         "countryCode": "FR",
         "description": "The Chartreux is generally silent but communicative. Short play sessions, mixed with naps and meals are their perfect day. Whilst appreciating any attention you give them, they are not demanding, content instead to follow you around devotedly, sleep on your bed and snuggle with you if you’re not feeling well.",
@@ -884,7 +865,6 @@ Object {
         "hairless": false,
         "healthIssues": 2,
         "hypoallergenic": true,
-        "id": "20",
         "indoor": false,
         "intelligence": 4,
         "lifeSpan": Array [
@@ -931,7 +911,6 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "21",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -963,7 +942,7 @@ Object {
       Object {
         "adaptability": 5,
         "affectionLevel": 5,
-        "alternativeNames": Array [],
+        "alternativeNames": null,
         "childFriendliness": 4,
         "countryCode": "US",
         "description": "The Cheetoh has a super affectionate nature and real love for their human companions; they are intelligent with the ability to learn quickly. You can expect that a Cheetoh will be a fun-loving kitty who enjoys playing, running, and jumping through every room in your house.",
@@ -974,7 +953,6 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "22",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -1006,7 +984,7 @@ Object {
       Object {
         "adaptability": 5,
         "affectionLevel": 5,
-        "alternativeNames": Array [],
+        "alternativeNames": null,
         "childFriendliness": 4,
         "countryCode": "GB",
         "description": "This is a confident cat who loves people and will follow them around, waiting for any opportunity to sit in a lap or give a kiss. He enjoys being handled, making it easy to take him to the veterinarian or train him for therapy work. The Cornish Rex stay in kitten mode most of their lives and well into their senior years. ",
@@ -1017,7 +995,6 @@ Object {
         "hairless": false,
         "healthIssues": 2,
         "hypoallergenic": true,
-        "id": "24",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -1063,7 +1040,6 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": false,
-        "id": "25",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -1108,7 +1084,6 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "26",
         "indoor": false,
         "intelligence": 3,
         "lifeSpan": Array [
@@ -1153,7 +1128,6 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": true,
-        "id": "27",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -1186,7 +1160,7 @@ Object {
       Object {
         "adaptability": 5,
         "affectionLevel": 5,
-        "alternativeNames": Array [],
+        "alternativeNames": null,
         "childFriendliness": 4,
         "countryCode": "MM",
         "description": "The European Burmese is a very affectionate, intelligent, and loyal cat. They thrive on companionship and will want to be with you, participating in everything you do. While they might pick a favorite family member, chances are that they will interact with everyone in the home, as well as any visitors that come to call. They are inquisitive and playful, even as adults. ",
@@ -1197,7 +1171,6 @@ Object {
         "hairless": false,
         "healthIssues": 4,
         "hypoallergenic": false,
-        "id": "31",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -1241,7 +1214,6 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": false,
-        "id": "32",
         "indoor": false,
         "intelligence": 3,
         "lifeSpan": Array [
@@ -1288,7 +1260,6 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "33",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -1338,7 +1309,6 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": false,
-        "id": "34",
         "indoor": false,
         "intelligence": 3,
         "lifeSpan": Array [
@@ -1384,7 +1354,6 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "35",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -1432,7 +1401,6 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "38",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -1476,7 +1444,6 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "39",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -1524,7 +1491,6 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": true,
-        "id": "40",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -1576,7 +1542,6 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": false,
-        "id": "41",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -1622,7 +1587,6 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "42",
         "indoor": false,
         "intelligence": 3,
         "lifeSpan": Array [
@@ -1669,7 +1633,6 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": false,
-        "id": "43",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -1702,7 +1665,7 @@ Object {
       Object {
         "adaptability": 5,
         "affectionLevel": 5,
-        "alternativeNames": Array [],
+        "alternativeNames": null,
         "childFriendliness": 4,
         "countryCode": "US",
         "description": "The Munchkin is an outgoing cat who enjoys being handled. She has lots of energy and is faster and more agile than she looks. The shortness of their legs does not seem to interfere with their running and leaping abilities.",
@@ -1713,7 +1676,6 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": false,
-        "id": "44",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -1758,7 +1720,6 @@ Object {
         "hairless": false,
         "healthIssues": 2,
         "hypoallergenic": false,
-        "id": "45",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -1805,7 +1766,6 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": false,
-        "id": "46",
         "indoor": false,
         "intelligence": 4,
         "lifeSpan": Array [
@@ -1840,7 +1800,7 @@ Object {
       Object {
         "adaptability": 5,
         "affectionLevel": 5,
-        "alternativeNames": Array [],
+        "alternativeNames": null,
         "childFriendliness": 4,
         "countryCode": "US",
         "description": "Loyal and devoted to their owners, the Ocicat is intelligent, confident, outgoing, and seems to have many dog traits. They can be trained to fetch toys, walk on a lead, taught to 'speak', come when called, and follow other commands. ",
@@ -1851,7 +1811,6 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": true,
-        "id": "47",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -1901,7 +1860,6 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": true,
-        "id": "48",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -1951,7 +1909,6 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": false,
-        "id": "49",
         "indoor": false,
         "intelligence": 3,
         "lifeSpan": Array [
@@ -1983,7 +1940,7 @@ Object {
       Object {
         "adaptability": 5,
         "affectionLevel": 5,
-        "alternativeNames": Array [],
+        "alternativeNames": null,
         "childFriendliness": 4,
         "countryCode": "US",
         "description": "Companionable and affectionate, the Pixie-bob wants to be an integral part of the family. The Pixie-Bob’s ability to bond with their humans along with their patient personas make them excellent companions for children.",
@@ -1994,7 +1951,6 @@ Object {
         "hairless": false,
         "healthIssues": 2,
         "hypoallergenic": false,
-        "id": "50",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -2026,7 +1982,7 @@ Object {
       Object {
         "adaptability": 5,
         "affectionLevel": 5,
-        "alternativeNames": Array [],
+        "alternativeNames": null,
         "childFriendliness": 4,
         "countryCode": "US",
         "description": "The Ragamuffin is calm, even tempered and gets along well with all family members. Changes in routine generally do not upset her. She is an ideal companion for those in apartments, and with children due to her patient nature.",
@@ -2037,7 +1993,6 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": false,
-        "id": "51",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -2082,7 +2037,6 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": false,
-        "id": "52",
         "indoor": false,
         "intelligence": 3,
         "lifeSpan": Array [
@@ -2115,7 +2069,7 @@ Object {
       Object {
         "adaptability": 5,
         "affectionLevel": 5,
-        "alternativeNames": Array [],
+        "alternativeNames": null,
         "childFriendliness": 4,
         "countryCode": "US",
         "description": "Savannah is the feline version of a dog. Actively seeking social interaction, they are given to pouting if left out. Remaining kitten-like through life. Profoundly loyal to immediate family members whilst questioning the presence of strangers. Making excellent companions that are loyal, intelligent and eager to be involved.",
@@ -2126,7 +2080,6 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "54",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -2174,7 +2127,6 @@ Object {
         "hairless": false,
         "healthIssues": 4,
         "hypoallergenic": false,
-        "id": "55",
         "indoor": false,
         "intelligence": 3,
         "lifeSpan": Array [
@@ -2222,7 +2174,6 @@ Object {
         "hairless": false,
         "healthIssues": 4,
         "hypoallergenic": true,
-        "id": "56",
         "indoor": false,
         "intelligence": 3,
         "lifeSpan": Array [
@@ -2272,7 +2223,6 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": true,
-        "id": "57",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -2320,7 +2270,6 @@ Object {
         "hairless": false,
         "healthIssues": 2,
         "hypoallergenic": true,
-        "id": "58",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -2370,7 +2319,6 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "59",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -2405,7 +2353,7 @@ Object {
       Object {
         "adaptability": 5,
         "affectionLevel": 5,
-        "alternativeNames": Array [],
+        "alternativeNames": null,
         "childFriendliness": 4,
         "countryCode": "US",
         "description": "The Snowshoe is a vibrant, energetic, affectionate and intelligent cat. They love being around people which makes them ideal for families, and becomes unhappy when left alone for long periods of time. Usually attaching themselves to one person, they do whatever they can to get your attention.",
@@ -2416,7 +2364,6 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "60",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -2462,7 +2409,6 @@ Object {
         "hairless": false,
         "healthIssues": 2,
         "hypoallergenic": false,
-        "id": "61",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -2511,7 +2457,6 @@ Object {
         "hairless": true,
         "healthIssues": 4,
         "hypoallergenic": true,
-        "id": "62",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -2557,7 +2502,6 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "63",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -2592,7 +2536,7 @@ Object {
       Object {
         "adaptability": 5,
         "affectionLevel": 5,
-        "alternativeNames": Array [],
+        "alternativeNames": null,
         "childFriendliness": 4,
         "countryCode": "US",
         "description": "The Toyger has a sweet, calm personality and is generally friendly. He's outgoing enough to walk on a leash, energetic enough to play fetch and other interactive games, and confident enough to get along with other cats and friendly dogs.",
@@ -2603,7 +2547,6 @@ Object {
         "hairless": false,
         "healthIssues": 2,
         "hypoallergenic": false,
-        "id": "64",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -2647,7 +2590,6 @@ Object {
         "hairless": false,
         "healthIssues": 2,
         "hypoallergenic": false,
-        "id": "65",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -2696,7 +2638,6 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "66",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -2742,7 +2683,6 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "67",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -2791,7 +2731,7 @@ Object {
       Object {
         "adaptability": 5,
         "affectionLevel": 5,
-        "alternativeNames": Array [],
+        "alternativeNames": null,
         "childFriendliness": 3,
         "countryCode": "EG",
         "description": "The Abyssinian is easy to care for, and a joy to have in your home. They’re affectionate cats and love both people and other animals.",
@@ -2802,7 +2742,6 @@ Object {
         "hairless": false,
         "healthIssues": 2,
         "hypoallergenic": false,
-        "id": "1",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -2835,7 +2774,7 @@ Object {
       Object {
         "adaptability": 5,
         "affectionLevel": 4,
-        "alternativeNames": Array [],
+        "alternativeNames": null,
         "childFriendliness": 4,
         "countryCode": "GR",
         "description": "Native to the Greek islands known as the Cyclades in the Aegean Sea, these are natural cats, meaning they developed without humans getting involved in their breeding. As a breed, Aegean Cats are rare, although they are numerous on their home islands. They are generally friendly toward people and can be excellent cats for families with children.",
@@ -2846,7 +2785,6 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "2",
         "indoor": false,
         "intelligence": 3,
         "lifeSpan": Array [
@@ -2879,7 +2817,7 @@ Object {
       Object {
         "adaptability": 5,
         "affectionLevel": 5,
-        "alternativeNames": Array [],
+        "alternativeNames": null,
         "childFriendliness": 4,
         "countryCode": "US",
         "description": "American Bobtails are loving and incredibly intelligent cats possessing a distinctive wild appearance. They are extremely interactive cats that bond with their human family with great devotion.",
@@ -2890,7 +2828,6 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "3",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -2923,7 +2860,7 @@ Object {
       Object {
         "adaptability": 5,
         "affectionLevel": 5,
-        "alternativeNames": Array [],
+        "alternativeNames": null,
         "childFriendliness": 4,
         "countryCode": "US",
         "description": "Distinguished by truly unique ears that curl back in a graceful arc, offering an alert, perky, happily surprised expression, they cause people to break out into a big smile when viewing their first Curl. Curls are very people-oriented, faithful, affectionate soulmates, adjusting remarkably fast to other pets, children, and new situations.",
@@ -2934,7 +2871,6 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "4",
         "indoor": false,
         "intelligence": 3,
         "lifeSpan": Array [
@@ -2982,7 +2918,6 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": false,
-        "id": "5",
         "indoor": false,
         "intelligence": 3,
         "lifeSpan": Array [
@@ -3015,7 +2950,7 @@ Object {
       Object {
         "adaptability": 5,
         "affectionLevel": 5,
-        "alternativeNames": Array [],
+        "alternativeNames": null,
         "childFriendliness": 4,
         "countryCode": "US",
         "description": "The American Wirehair tends to be a calm and tolerant cat who takes life as it comes. His favorite hobby is bird-watching from a sunny windowsill, and his hunting ability will stand you in good stead if insects enter the house.",
@@ -3026,7 +2961,6 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": false,
-        "id": "6",
         "indoor": false,
         "intelligence": 3,
         "lifeSpan": Array [
@@ -3077,7 +3011,6 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "7",
         "indoor": false,
         "intelligence": 3,
         "lifeSpan": Array [
@@ -3124,7 +3057,6 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "8",
         "indoor": false,
         "intelligence": 4,
         "lifeSpan": Array [
@@ -3170,7 +3102,6 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": true,
-        "id": "9",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -3201,7 +3132,7 @@ Object {
       Object {
         "adaptability": 5,
         "affectionLevel": 5,
-        "alternativeNames": Array [],
+        "alternativeNames": null,
         "childFriendliness": 4,
         "countryCode": "US",
         "description": "The Bambino is a breed of cat that was created as a cross between the Sphynx and the Munchkin breeds. The Bambino cat has short legs, large upright ears, and is usually hairless. They love to be handled and cuddled up on the laps of their family members.",
@@ -3212,7 +3143,6 @@ Object {
         "hairless": true,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "10",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -3255,7 +3185,6 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": true,
-        "id": "11",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -3302,7 +3231,6 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "12",
         "indoor": false,
         "intelligence": 3,
         "lifeSpan": Array [
@@ -3347,7 +3275,6 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": false,
-        "id": "13",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -3380,7 +3307,7 @@ Object {
       Object {
         "adaptability": 5,
         "affectionLevel": 5,
-        "alternativeNames": Array [],
+        "alternativeNames": null,
         "childFriendliness": 4,
         "countryCode": "GB",
         "description": "The British Longhair is a very laid-back relaxed cat, often perceived to be very independent although they will enjoy the company of an equally relaxed and likeminded cat. They are an affectionate breed, but very much on their own terms and tend to prefer to choose to come and sit with their owners rather than being picked up.",
@@ -3391,7 +3318,6 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "14",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -3440,7 +3366,6 @@ Object {
         "hairless": false,
         "healthIssues": 2,
         "hypoallergenic": false,
-        "id": "15",
         "indoor": false,
         "intelligence": 3,
         "lifeSpan": Array [
@@ -3474,7 +3399,7 @@ Object {
       Object {
         "adaptability": 5,
         "affectionLevel": 5,
-        "alternativeNames": Array [],
+        "alternativeNames": null,
         "childFriendliness": 4,
         "countryCode": "MM",
         "description": "Burmese love being with people, playing with them, and keeping them entertained. They crave close physical contact and abhor an empty lap. They will follow their humans from room to room, and sleep in bed with them, preferably under the covers, cuddled as close as possible. At play, they will turn around to see if their human is watching and being entertained by their crazy antics.",
@@ -3485,7 +3410,6 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": true,
-        "id": "16",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -3520,7 +3444,7 @@ Object {
       Object {
         "adaptability": 5,
         "affectionLevel": 5,
-        "alternativeNames": Array [],
+        "alternativeNames": null,
         "childFriendliness": 4,
         "countryCode": "GB",
         "description": "The Burmilla is a fairly placid cat. She tends to be an easy cat to get along with, requiring minimal care. The Burmilla is affectionate and sweet and makes a good companion, the Burmilla is an ideal companion to while away a lonely evening. Loyal, devoted, and affectionate, this cat will stay by its owner, always keeping them company.",
@@ -3531,7 +3455,6 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": false,
-        "id": "17",
         "indoor": false,
         "intelligence": 3,
         "lifeSpan": Array [
@@ -3578,7 +3501,6 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "18",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -3625,7 +3547,6 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "19",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -3657,7 +3578,7 @@ Object {
       Object {
         "adaptability": 5,
         "affectionLevel": 5,
-        "alternativeNames": Array [],
+        "alternativeNames": null,
         "childFriendliness": 4,
         "countryCode": "FR",
         "description": "The Chartreux is generally silent but communicative. Short play sessions, mixed with naps and meals are their perfect day. Whilst appreciating any attention you give them, they are not demanding, content instead to follow you around devotedly, sleep on your bed and snuggle with you if you’re not feeling well.",
@@ -3668,7 +3589,6 @@ Object {
         "hairless": false,
         "healthIssues": 2,
         "hypoallergenic": true,
-        "id": "20",
         "indoor": false,
         "intelligence": 4,
         "lifeSpan": Array [
@@ -3715,7 +3635,6 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "21",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -3747,7 +3666,7 @@ Object {
       Object {
         "adaptability": 5,
         "affectionLevel": 5,
-        "alternativeNames": Array [],
+        "alternativeNames": null,
         "childFriendliness": 4,
         "countryCode": "US",
         "description": "The Cheetoh has a super affectionate nature and real love for their human companions; they are intelligent with the ability to learn quickly. You can expect that a Cheetoh will be a fun-loving kitty who enjoys playing, running, and jumping through every room in your house.",
@@ -3758,7 +3677,6 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "22",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -3790,7 +3708,7 @@ Object {
       Object {
         "adaptability": 3,
         "affectionLevel": 4,
-        "alternativeNames": Array [],
+        "alternativeNames": null,
         "childFriendliness": 4,
         "countryCode": "US",
         "description": "Colorpoint Shorthairs are an affectionate breed, devoted and loyal to their people. Sensitive to their owner’s moods, Colorpoints are more than happy to sit at your side or on your lap and purr words of encouragement on a bad day. They will constantly seek out your lap whenever it is open and in the moments when your lap is preoccupied they will stretch out in sunny spots on the ground.",
@@ -3801,7 +3719,6 @@ Object {
         "hairless": false,
         "healthIssues": 2,
         "hypoallergenic": false,
-        "id": "23",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -3833,7 +3750,7 @@ Object {
       Object {
         "adaptability": 5,
         "affectionLevel": 5,
-        "alternativeNames": Array [],
+        "alternativeNames": null,
         "childFriendliness": 4,
         "countryCode": "GB",
         "description": "This is a confident cat who loves people and will follow them around, waiting for any opportunity to sit in a lap or give a kiss. He enjoys being handled, making it easy to take him to the veterinarian or train him for therapy work. The Cornish Rex stay in kitten mode most of their lives and well into their senior years. ",
@@ -3844,7 +3761,6 @@ Object {
         "hairless": false,
         "healthIssues": 2,
         "hypoallergenic": true,
-        "id": "24",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -3890,7 +3806,6 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": false,
-        "id": "25",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -3935,7 +3850,6 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "26",
         "indoor": false,
         "intelligence": 3,
         "lifeSpan": Array [
@@ -3980,7 +3894,6 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": true,
-        "id": "27",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -4024,7 +3937,6 @@ Object {
         "hairless": true,
         "healthIssues": 3,
         "hypoallergenic": false,
-        "id": "28",
         "indoor": false,
         "intelligence": 3,
         "lifeSpan": Array [
@@ -4071,7 +3983,6 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "29",
         "indoor": true,
         "intelligence": 3,
         "lifeSpan": Array [
@@ -4117,7 +4028,6 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": false,
-        "id": "30",
         "indoor": false,
         "intelligence": 4,
         "lifeSpan": Array [
@@ -4152,7 +4062,7 @@ Object {
       Object {
         "adaptability": 5,
         "affectionLevel": 5,
-        "alternativeNames": Array [],
+        "alternativeNames": null,
         "childFriendliness": 4,
         "countryCode": "MM",
         "description": "The European Burmese is a very affectionate, intelligent, and loyal cat. They thrive on companionship and will want to be with you, participating in everything you do. While they might pick a favorite family member, chances are that they will interact with everyone in the home, as well as any visitors that come to call. They are inquisitive and playful, even as adults. ",
@@ -4163,7 +4073,6 @@ Object {
         "hairless": false,
         "healthIssues": 4,
         "hypoallergenic": false,
-        "id": "31",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -4207,7 +4116,6 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": false,
-        "id": "32",
         "indoor": false,
         "intelligence": 3,
         "lifeSpan": Array [
@@ -4254,7 +4162,6 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "33",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -4304,7 +4211,6 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": false,
-        "id": "34",
         "indoor": false,
         "intelligence": 3,
         "lifeSpan": Array [
@@ -4350,7 +4256,6 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "35",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -4387,7 +4292,7 @@ Object {
       Object {
         "adaptability": 4,
         "affectionLevel": 5,
-        "alternativeNames": Array [],
+        "alternativeNames": null,
         "childFriendliness": 4,
         "countryCode": "US",
         "description": "Javanese are endlessly interested, intelligent and active. They tend to enjoy jumping to great heights, playing with fishing pole-type or other interactive toys and just generally investigating their surroundings. He will attempt to copy things you do, such as opening doors or drawers.",
@@ -4398,7 +4303,6 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": true,
-        "id": "36",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -4443,7 +4347,6 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "37",
         "indoor": false,
         "intelligence": 4,
         "lifeSpan": Array [
@@ -4487,7 +4390,6 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "38",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -4531,7 +4433,6 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "39",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -4579,7 +4480,6 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": true,
-        "id": "40",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -4631,7 +4531,6 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": false,
-        "id": "41",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -4677,7 +4576,6 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "42",
         "indoor": false,
         "intelligence": 3,
         "lifeSpan": Array [
@@ -4724,7 +4622,6 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": false,
-        "id": "43",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -4757,7 +4654,7 @@ Object {
       Object {
         "adaptability": 5,
         "affectionLevel": 5,
-        "alternativeNames": Array [],
+        "alternativeNames": null,
         "childFriendliness": 4,
         "countryCode": "US",
         "description": "The Munchkin is an outgoing cat who enjoys being handled. She has lots of energy and is faster and more agile than she looks. The shortness of their legs does not seem to interfere with their running and leaping abilities.",
@@ -4768,7 +4665,6 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": false,
-        "id": "44",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -4813,7 +4709,6 @@ Object {
         "hairless": false,
         "healthIssues": 2,
         "hypoallergenic": false,
-        "id": "45",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -4860,7 +4755,6 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": false,
-        "id": "46",
         "indoor": false,
         "intelligence": 4,
         "lifeSpan": Array [
@@ -4895,7 +4789,7 @@ Object {
       Object {
         "adaptability": 5,
         "affectionLevel": 5,
-        "alternativeNames": Array [],
+        "alternativeNames": null,
         "childFriendliness": 4,
         "countryCode": "US",
         "description": "Loyal and devoted to their owners, the Ocicat is intelligent, confident, outgoing, and seems to have many dog traits. They can be trained to fetch toys, walk on a lead, taught to 'speak', come when called, and follow other commands. ",
@@ -4906,7 +4800,6 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": true,
-        "id": "47",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -4956,7 +4849,6 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": true,
-        "id": "48",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -5006,7 +4898,6 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": false,
-        "id": "49",
         "indoor": false,
         "intelligence": 3,
         "lifeSpan": Array [
@@ -5038,7 +4929,7 @@ Object {
       Object {
         "adaptability": 5,
         "affectionLevel": 5,
-        "alternativeNames": Array [],
+        "alternativeNames": null,
         "childFriendliness": 4,
         "countryCode": "US",
         "description": "Companionable and affectionate, the Pixie-bob wants to be an integral part of the family. The Pixie-Bob’s ability to bond with their humans along with their patient personas make them excellent companions for children.",
@@ -5049,7 +4940,6 @@ Object {
         "hairless": false,
         "healthIssues": 2,
         "hypoallergenic": false,
-        "id": "50",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -5081,7 +4971,7 @@ Object {
       Object {
         "adaptability": 5,
         "affectionLevel": 5,
-        "alternativeNames": Array [],
+        "alternativeNames": null,
         "childFriendliness": 4,
         "countryCode": "US",
         "description": "The Ragamuffin is calm, even tempered and gets along well with all family members. Changes in routine generally do not upset her. She is an ideal companion for those in apartments, and with children due to her patient nature.",
@@ -5092,7 +4982,6 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": false,
-        "id": "51",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -5137,7 +5026,6 @@ Object {
         "hairless": false,
         "healthIssues": 3,
         "hypoallergenic": false,
-        "id": "52",
         "indoor": false,
         "intelligence": 3,
         "lifeSpan": Array [
@@ -5184,7 +5072,6 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": true,
-        "id": "53",
         "indoor": false,
         "intelligence": 3,
         "lifeSpan": Array [
@@ -5220,7 +5107,7 @@ Object {
       Object {
         "adaptability": 5,
         "affectionLevel": 5,
-        "alternativeNames": Array [],
+        "alternativeNames": null,
         "childFriendliness": 4,
         "countryCode": "US",
         "description": "Savannah is the feline version of a dog. Actively seeking social interaction, they are given to pouting if left out. Remaining kitten-like through life. Profoundly loyal to immediate family members whilst questioning the presence of strangers. Making excellent companions that are loyal, intelligent and eager to be involved.",
@@ -5231,7 +5118,6 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "54",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -5279,7 +5165,6 @@ Object {
         "hairless": false,
         "healthIssues": 4,
         "hypoallergenic": false,
-        "id": "55",
         "indoor": false,
         "intelligence": 3,
         "lifeSpan": Array [
@@ -5327,7 +5212,6 @@ Object {
         "hairless": false,
         "healthIssues": 4,
         "hypoallergenic": true,
-        "id": "56",
         "indoor": false,
         "intelligence": 3,
         "lifeSpan": Array [
@@ -5377,7 +5261,6 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": true,
-        "id": "57",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -5425,7 +5308,6 @@ Object {
         "hairless": false,
         "healthIssues": 2,
         "hypoallergenic": true,
-        "id": "58",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -5475,7 +5357,6 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "59",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -5510,7 +5391,7 @@ Object {
       Object {
         "adaptability": 5,
         "affectionLevel": 5,
-        "alternativeNames": Array [],
+        "alternativeNames": null,
         "childFriendliness": 4,
         "countryCode": "US",
         "description": "The Snowshoe is a vibrant, energetic, affectionate and intelligent cat. They love being around people which makes them ideal for families, and becomes unhappy when left alone for long periods of time. Usually attaching themselves to one person, they do whatever they can to get your attention.",
@@ -5521,7 +5402,6 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "60",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -5567,7 +5447,6 @@ Object {
         "hairless": false,
         "healthIssues": 2,
         "hypoallergenic": false,
-        "id": "61",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -5616,7 +5495,6 @@ Object {
         "hairless": true,
         "healthIssues": 4,
         "hypoallergenic": true,
-        "id": "62",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -5662,7 +5540,6 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "63",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -5697,7 +5574,7 @@ Object {
       Object {
         "adaptability": 5,
         "affectionLevel": 5,
-        "alternativeNames": Array [],
+        "alternativeNames": null,
         "childFriendliness": 4,
         "countryCode": "US",
         "description": "The Toyger has a sweet, calm personality and is generally friendly. He's outgoing enough to walk on a leash, energetic enough to play fetch and other interactive games, and confident enough to get along with other cats and friendly dogs.",
@@ -5708,7 +5585,6 @@ Object {
         "hairless": false,
         "healthIssues": 2,
         "hypoallergenic": false,
-        "id": "64",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -5752,7 +5628,6 @@ Object {
         "hairless": false,
         "healthIssues": 2,
         "hypoallergenic": false,
-        "id": "65",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -5801,7 +5676,6 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "66",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
@@ -5847,7 +5721,6 @@ Object {
         "hairless": false,
         "healthIssues": 1,
         "hypoallergenic": false,
-        "id": "67",
         "indoor": false,
         "intelligence": 5,
         "lifeSpan": Array [
