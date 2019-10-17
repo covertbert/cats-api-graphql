@@ -5,7 +5,7 @@
     "apollo-server": "^2.9.4",
     "apollo-server-testing": "^2.9.4",
     "graphql": "^14.5.8",
-    "husky": "^3.0.8",
+    "husky": "^3.0.9",
     "jest": "^24.9.0",
     "knex": "^0.19.5",
     "lint-staged": "^9.4.1",
