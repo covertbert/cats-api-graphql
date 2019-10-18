@@ -25,7 +25,15 @@ class CatService extends Service {
       })
     }
 
-    return query
+    return await query
+  }
+
+  public async getById(id: number) {
+    const query = db()
+      .from<Cat>(TABLE_NAME)
+      .where({ id })
+
+    return await query
   }
 }
 

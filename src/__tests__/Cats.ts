@@ -1,7 +1,7 @@
 import { gql } from 'apollo-server'
 import { createTestClient } from 'apollo-server-testing'
 
-import server from '../../apollo'
+import server from '../apollo'
 
 describe('Cats integration tests', () => {
   it('queries cats with all possible fields', async () => {

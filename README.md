@@ -20,4 +20,4 @@ To run in watch mode for development you'll need to:
 
 ## Unit & integration tests
 
-Because the integration tests rely on a database you need to first run Docker with `cd docker` and `./run.sh db`. You can then run `./ops/test.sh` from the root of the repo.
+Because the integration tests rely on a database you need to first run Docker with `cd docker` and `./run.sh db`. You can then run `export DB_HOST=localhost; ./ops/test.sh` from the root of the repo.

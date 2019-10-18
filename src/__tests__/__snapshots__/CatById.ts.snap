@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CatsById integration tests queries a cat by its ID 1`] = `
+Object {
+  "data": Object {
+    "getCatById": null,
+  },
+  "errors": Array [
+    [GraphQLError: Cannot return null for non-nullable field Cat.name.],
+  ],
+  "extensions": undefined,
+  "http": Object {
+    "headers": Headers {
+      Symbol(map): Object {},
+    },
+  },
+}
+`;
