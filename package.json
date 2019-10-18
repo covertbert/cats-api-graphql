@@ -40,7 +40,7 @@
   },
   "scripts": {
     "start": "ts-node src/index.ts",
-    "production": "cd ops/docker; ./run.sh",
+    "all": "cd ops/docker; ./run.sh",
     "db": "cd ops/docker; ./run.sh db",
     "watch": "./ops/watch.sh",
     "lint": "tslint --project .",
