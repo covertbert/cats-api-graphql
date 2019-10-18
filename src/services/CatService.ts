@@ -11,7 +11,7 @@ interface CatQuery {
 
 class CatService extends Service {
   public async getAll(filters?: CatFilter[]) {
-    const query = db()
+    const cats = db()
       .select()
       .table<Cat>(TABLE_NAME)
       .orderBy([{ column: 'name', order: 'asc' }])
@@ -21,19 +21,24 @@ class CatService extends Service {
         const dbQuery: CatQuery = {}
         dbQuery[filter.key] = filter.value
 
-        query.where(dbQuery)
+        cats.where(dbQuery)
       })
     }
 
-    return await query
+    return await cats
   }
 
   public async getById(id: number) {
-    const query = db()
-      .from<Cat>(TABLE_NAME)
+    const cat = await db()
+      .table<Cat>(TABLE_NAME)
       .where({ id })
+      .first()
 
-    return await query
+    if (!cat) {
+      throw Error(`No cat found with this ID`)
+    }
+
+    return cat
   }
 }
 
