@@ -11,6 +11,6 @@ jobs:
       - name: Install
         run: npm ci
       - name: Docker
-        run: cd docker; ./run-ci.sh
+        run: cd ops/docker; ./run-ci.sh
       - name: Test
-        run: export DB_HOST=localhost; ./ops/test.sh
+        run: ./ops/test.sh
