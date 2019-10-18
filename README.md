@@ -21,3 +21,10 @@ To run in watch mode for development you'll need to:
 ## Unit & integration tests
 
 Because the integration tests rely on a database you need to first run Docker with `cd ops/docker` and `./run.sh db`. You can then run `./ops/test.sh` from the root of the repo.
+
+## CI Pipeline
+
+There are multiple CI pipelines that run in GitHub Actions:
+
+- Branch pipeline: Runs unit and integration tests, preventing PRs being merged without passing checks
+- Master pipeline: Runs unit and integration tests again but then deploys if they are successful
