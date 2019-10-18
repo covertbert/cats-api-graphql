@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 
+cd ops/docker || exit
+./run-ci.sh
 npm run migrate:run
 npm run seed:run
 
-npm run test
+DISABLE_LOGGING=true jest --forceExit
