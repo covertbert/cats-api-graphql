@@ -171,6 +171,11 @@ const typeDefs = gql`
     Retrieves all cats
     """
     cats(filter: [CatsFilterInput]): [Cat]
+
+    """
+    Retrieves all cats
+    """
+    getCatById(id: Int!): Cat
   }
 
   scalar CatsFilterInputValue

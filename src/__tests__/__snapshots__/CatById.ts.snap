@@ -1,0 +1,58 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CatsById integration tests queries a cat by its ID 1`] = `
+Object {
+  "data": Object {
+    "getCatById": Object {
+      "adaptability": 5,
+      "affectionLevel": 4,
+      "alternativeNames": null,
+      "childFriendliness": 4,
+      "countryCode": "GR",
+      "description": "Native to the Greek islands known as the Cyclades in the Aegean Sea, these are natural cats, meaning they developed without humans getting involved in their breeding. As a breed, Aegean Cats are rare, although they are numerous on their home islands. They are generally friendly toward people and can be excellent cats for families with children.",
+      "dogFriendliness": 4,
+      "energyLevel": 3,
+      "experimental": false,
+      "grooming": 3,
+      "hairless": false,
+      "healthIssues": 1,
+      "hypoallergenic": false,
+      "indoor": false,
+      "intelligence": 3,
+      "lifeSpan": Array [
+        9,
+        12,
+      ],
+      "name": "Aegean",
+      "natural": false,
+      "origin": "Greece",
+      "rare": false,
+      "rex": false,
+      "sheddingLevel": 3,
+      "shortLegs": false,
+      "socialNeeds": 4,
+      "strangerFriendly": 4,
+      "suppressedTail": false,
+      "temperament": Array [
+        "Affectionate",
+        "Social",
+        "Intelligent",
+        "Playful",
+        "Active",
+      ],
+      "vocalisation": 3,
+      "weight": Array [
+        3,
+        5,
+      ],
+    },
+  },
+  "errors": undefined,
+  "extensions": undefined,
+  "http": Object {
+    "headers": Headers {
+      Symbol(map): Object {},
+    },
+  },
+}
+`;

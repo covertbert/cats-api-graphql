@@ -1,5 +1,6 @@
 [
   {
+    "id": 0,
     "adaptability": 5,
     "affection_level": 5,
     "child_friendliness": 3,
@@ -38,6 +39,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Abyssinian_(cat)"
   },
   {
+    "id": 1,
     "adaptability": 5,
     "affection_level": 4,
     "child_friendliness": 4,
@@ -75,6 +77,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Aegean_cat"
   },
   {
+    "id": 2,
     "adaptability": 5,
     "affection_level": 5,
     "child_friendliness": 4,
@@ -113,6 +116,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/American_Bobtail"
   },
   {
+    "id": 3,
     "adaptability": 5,
     "affection_level": 5,
     "child_friendliness": 4,
@@ -153,6 +157,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/American_Curl"
   },
   {
+    "id": 4,
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": ["Domestic Shorthair"],
@@ -186,6 +191,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/American_Shorthair"
   },
   {
+    "id": 5,
     "adaptability": 5,
     "affection_level": 5,
     "child_friendliness": 4,
@@ -229,6 +235,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/American_Wirehair"
   },
   {
+    "id": 6,
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": ["Alley cat"],
@@ -268,6 +275,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Arabian_Mau"
   },
   {
+    "id": 7,
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": ["Spotted Mist"],
@@ -307,6 +315,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Australian_Mist"
   },
   {
+    "id": 8,
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": ["Long-haired Siamese"],
@@ -339,6 +348,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Balinese_(cat)"
   },
   {
+    "id": 9,
     "adaptability": 5,
     "affection_level": 5,
     "child_friendliness": 4,
@@ -371,6 +381,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Bambino_cat"
   },
   {
+    "id": 10,
     "adaptability": 5,
     "affection_level": 5,
     "child_friendliness": 4,
@@ -403,6 +414,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Bengal_(cat)"
   },
   {
+    "id": 11,
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": ["Sacred Birman", "Sacred Cat Of Burma"],
@@ -436,6 +448,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Birman"
   },
   {
+    "id": 12,
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": ["Small black Panther"],
@@ -475,6 +488,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Bombay_(cat)"
   },
   {
+    "id": 13,
     "adaptability": 5,
     "affection_level": 5,
     "child_friendliness": 4,
@@ -513,6 +527,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/British_Longhair"
   },
   {
+    "id": 14,
     "adaptability": 5,
     "affection_level": 4,
     "alternative_names": ["Highlander", "Highland Straight", "Britannica"],
@@ -553,6 +568,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/British_Shorthair"
   },
   {
+    "id": 15,
     "adaptability": 5,
     "affection_level": 5,
     "child_friendliness": 4,
@@ -593,6 +609,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Burmese_(cat)"
   },
   {
+    "id": 16,
     "adaptability": 5,
     "affection_level": 5,
     "child_friendliness": 4,
@@ -632,6 +649,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Burmilla"
   },
   {
+    "id": 17,
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": ["Spangle"],
@@ -670,6 +688,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/California_Spangled"
   },
   {
+    "id": 18,
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": ["Chantilly", "Foreign Longhair"],
@@ -703,6 +722,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Chantilly-Tiffany"
   },
   {
+    "id": 19,
     "adaptability": 5,
     "affection_level": 5,
     "child_friendliness": 4,
@@ -742,6 +762,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Chartreux"
   },
   {
+    "id": 20,
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": ["Nile Cat"],
@@ -774,6 +795,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Chausie"
   },
   {
+    "id": 21,
     "adaptability": 5,
     "affection_level": 5,
     "child_friendliness": 4,
@@ -805,6 +827,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Bengal_cat#Cheetoh"
   },
   {
+    "id": 22,
     "adaptability": 3,
     "affection_level": 4,
     "child_friendliness": 4,
@@ -837,6 +860,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Colorpoint_Shorthair"
   },
   {
+    "id": 23,
     "adaptability": 5,
     "affection_level": 5,
     "child_friendliness": 4,
@@ -875,6 +899,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Cornish_Rex"
   },
   {
+    "id": 24,
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": ["Spangle"],
@@ -908,6 +933,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Cymric_(cat)"
   },
   {
+    "id": 25,
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": ["Cypriot cat"],
@@ -941,6 +967,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Cyprus_cat"
   },
   {
+    "id": 26,
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": ["Pixie cat", "Alien cat", "Poodle cat"],
@@ -980,6 +1007,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Devon_Rex"
   },
   {
+    "id": 27,
     "adaptability": 4,
     "affection_level": 4,
     "child_friendliness": 3,
@@ -1011,6 +1039,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Donskoy_(cat)"
   },
   {
+    "id": 28,
     "adaptability": 3,
     "affection_level": 3,
     "alternative_names": ["Chinese Lia Hua", "Lí hua māo (貍花貓)", "Li Hua"],
@@ -1043,6 +1072,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Dragon_Li"
   },
   {
+    "id": 29,
     "adaptability": 2,
     "affection_level": 5,
     "alternative_names": ["Pharaoh Cat"],
@@ -1084,6 +1114,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Egyptian_Mau"
   },
   {
+    "id": 30,
     "adaptability": 5,
     "affection_level": 5,
     "child_friendliness": 4,
@@ -1115,6 +1146,7 @@
     "weight": [3, 6]
   },
   {
+    "id": 31,
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": ["Exotic"],
@@ -1148,6 +1180,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Exotic_Shorthair"
   },
   {
+    "id": 32,
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": ["Havana", "HB"],
@@ -1188,6 +1221,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Havana_Brown"
   },
   {
+    "id": 33,
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": [
@@ -1226,6 +1260,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Himalayan_(cat)"
   },
   {
+    "id": 34,
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": ["Japanese Truncated Cat"],
@@ -1269,6 +1304,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Japanese_Bobtail"
   },
   {
+    "id": 35,
     "adaptability": 4,
     "affection_level": 5,
     "child_friendliness": 4,
@@ -1300,6 +1336,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Javanese_cat"
   },
   {
+    "id": 36,
     "adaptability": 4,
     "affection_level": 4,
     "alternative_names": ["Diamond Eye cat"],
@@ -1333,6 +1370,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Khao_Manee"
   },
   {
+    "id": 37,
     "adaptability": 5,
     "affection_level": 5,
     "child_friendliness": 4,
@@ -1370,6 +1408,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Korat"
   },
   {
+    "id": 38,
     "adaptability": 5,
     "affection_level": 5,
     "child_friendliness": 5,
@@ -1409,6 +1448,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Kurilian_Bobtail"
   },
   {
+    "id": 39,
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": ["Si-Sawat"],
@@ -1449,6 +1489,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/LaPerm"
   },
   {
+    "id": 40,
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": [
@@ -1495,6 +1536,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Maine_Coon"
   },
   {
+    "id": 41,
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": ["Asian"],
@@ -1527,6 +1569,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Asian_cat"
   },
   {
+    "id": 42,
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": ["Manks", "Stubbin", "Rumpy"],
@@ -1560,6 +1603,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Manx_(cat)"
   },
   {
+    "id": 43,
     "adaptability": 5,
     "affection_level": 5,
     "child_friendliness": 4,
@@ -1592,6 +1636,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Munchkin_(cat)"
   },
   {
+    "id": 44,
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": ["Longhaired Russian Blue"],
@@ -1625,6 +1670,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Nebelung"
   },
   {
+    "id": 45,
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": [
@@ -1669,6 +1715,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Norwegian_Forest_Cat"
   },
   {
+    "id": 46,
     "adaptability": 5,
     "affection_level": 5,
     "child_friendliness": 4,
@@ -1710,6 +1757,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ocicat"
   },
   {
+    "id": 47,
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": ["Foreign Type"],
@@ -1750,6 +1798,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Oriental_Shorthair"
   },
   {
+    "id": 48,
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": ["Longhair", "Persian Longhair", "Shiraz", "Shirazi"],
@@ -1783,6 +1832,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Persian_(cat)"
   },
   {
+    "id": 49,
     "adaptability": 5,
     "affection_level": 5,
     "child_friendliness": 4,
@@ -1815,6 +1865,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pixiebob"
   },
   {
+    "id": 50,
     "adaptability": 5,
     "affection_level": 5,
     "child_friendliness": 4,
@@ -1847,6 +1898,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ragamuffin_cat"
   },
   {
+    "id": 51,
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": ["Rag doll"],
@@ -1880,6 +1932,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Ragdoll"
   },
   {
+    "id": 52,
     "adaptability": 3,
     "affection_level": 3,
     "alternative_names": ["Archangel Blue", "Archangel Cat"],
@@ -1922,6 +1975,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Russian_Blue"
   },
   {
+    "id": 53,
     "adaptability": 5,
     "affection_level": 5,
     "child_friendliness": 4,
@@ -1961,6 +2015,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Savannah_cat"
   },
   {
+    "id": 54,
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": ["Scot Fold"],
@@ -2001,6 +2056,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Scottish_Fold"
   },
   {
+    "id": 55,
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": ["Shepherd Cat"],
@@ -2043,6 +2099,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Selkirk_Rex"
   },
   {
+    "id": 56,
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": ["Siam", "Thai Cat"],
@@ -2083,6 +2140,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Siamese_(cat)"
   },
   {
+    "id": 57,
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": ["Moscow Semi-longhair", "HairSiberian Forest Cat"],
@@ -2124,6 +2182,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Siberian_(cat)"
   },
   {
+    "id": 58,
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": ["Drain Cat", "Kucinta", "Pura"],
@@ -2165,6 +2224,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Singapura_(cat)"
   },
   {
+    "id": 59,
     "adaptability": 5,
     "affection_level": 5,
     "child_friendliness": 4,
@@ -2197,6 +2257,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Snowshoe_(cat)"
   },
   {
+    "id": 60,
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": ["Fox Cat", "Long-Haired Abyssinian"],
@@ -2237,6 +2298,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Somali_(cat)"
   },
   {
+    "id": 61,
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": ["Canadian Hairless", "Canadian Sphynx"],
@@ -2270,6 +2332,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Sphynx_(cat)"
   },
   {
+    "id": 62,
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": ["Tonk"],
@@ -2311,6 +2374,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Tonkinese_(cat)"
   },
   {
+    "id": 63,
     "adaptability": 5,
     "affection_level": 5,
     "child_friendliness": 4,
@@ -2343,6 +2407,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Toyger"
   },
   {
+    "id": 64,
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": ["Ankara"],
@@ -2383,6 +2448,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Turkish_Angora"
   },
   {
+    "id": 65,
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": ["Turkish Cat", "Swimming cat"],
@@ -2415,6 +2481,7 @@
     "wikipedia_url": "https://en.wikipedia.org/wiki/Turkish_Van"
   },
   {
+    "id": 66,
     "adaptability": 5,
     "affection_level": 5,
     "alternative_names": ["York"],
