@@ -2,7 +2,7 @@ name: Master Pipeline
 
 on:
   push:
-    branches: saner-scripts
+    branches: master
 
 jobs:
   build:

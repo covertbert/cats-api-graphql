@@ -2,9 +2,7 @@ name: Branch Pipeline
 
 on:
   push:
-    branches:
-      - "*"
-      - "!master"
+    branches-ignore: saner-scripts
 
 jobs:
   build:
