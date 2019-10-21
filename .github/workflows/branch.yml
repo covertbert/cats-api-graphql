@@ -5,9 +5,18 @@ on:
     branches-ignore: master
 
 jobs:
-  build:
+  lint:
     runs-on: ubuntu-latest
-
+    steps:
+      - uses: actions/checkout@v1
+      - name: Install
+        run: npm ci
+      - name: Prettier
+        run: npm run lint
+      - name: Lint
+        run: npm run prettier
+  test:
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
       - name: Install
