@@ -3,4 +3,4 @@
 npm run migrate:run
 npm run seed:run
 
-npm run test
+DISABLE_LOGGING=true npx jest --forceExit

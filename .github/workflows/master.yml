@@ -1,6 +1,8 @@
-name: CI
+name: Master Pipeline
 
-on: [push]
+on:
+  push:
+    branches: master
 
 jobs:
   build:
@@ -11,6 +13,6 @@ jobs:
       - name: Install
         run: npm ci
       - name: Docker
-        run: cd docker; ./run-ci.sh
+        run: cd ops/docker; ./run-ci.sh
       - name: Test
         run: ./ops/test.sh

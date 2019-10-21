@@ -1,7 +1,7 @@
 import { createLogger, format, transports } from 'winston'
 
 const logger = createLogger({
-  level: 'info',
+  defaultMeta: { service: 'cats-api-graphql' },
   format: format.combine(
     format.timestamp({
       format: 'YYYY-MM-DD HH:mm:ss',
@@ -10,7 +10,7 @@ const logger = createLogger({
     format.splat(),
     format.json()
   ),
-  defaultMeta: { service: 'cats-api-graphql' },
+  level: 'info',
   transports: [
     new transports.File({ filename: 'quick-start-error.log', level: 'error' }),
     new transports.File({ filename: 'quick-start-combined.log' }),
