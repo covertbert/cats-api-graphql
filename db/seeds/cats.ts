@@ -6,5 +6,5 @@ exports.seed = (knex: Knex) => seed(knex)
 
 const seed = (knex: Knex) =>
   knex('cats')
-    .del()
+    .truncate()
     .then(() => knex('cats').insert(allCats))
