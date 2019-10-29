@@ -73,7 +73,7 @@ const typeDefs = gql`
     """
     The API meta ID for the breed
     """
-    id: String!
+    id: Int!
 
     """
     Is the breed solely to be kept indoors
@@ -178,11 +178,57 @@ const typeDefs = gql`
     getCatById(id: Int!): Cat
   }
 
+  type Mutation {
+    """
+    Creates a new cat
+    """
+    createCat(cat: CreateCatInput): CreateCatMutationResult
+  }
+
   scalar CatsFilterInputValue
 
   input CatsFilterInput {
     key: String
     value: CatsFilterInputValue
+  }
+
+  input CreateCatInput {
+    adaptability: Int!
+    affectionLevel: Int!
+    alternativeNames: [String]
+    childFriendliness: Int!
+    countryCode: String!
+    description: String!
+    dogFriendliness: Int!
+    energyLevel: Int!
+    experimental: Boolean!
+    grooming: Int!
+    hairless: Boolean!
+    healthIssues: Int!
+    hypoallergenic: Boolean!
+    indoor: Boolean!
+    intelligence: Int!
+    lap: Boolean
+    lifeSpan: [Int]!
+    name: String!
+    natural: Boolean!
+    origin: String!
+    rare: Boolean!
+    rex: Boolean!
+    sheddingLevel: Int!
+    shortLegs: Boolean!
+    socialNeeds: Int!
+    strangerFriendly: Int!
+    suppressedTail: Boolean!
+    temperament: [String]!
+    vocalisation: Int!
+    weight: [Int]!
+    wikipediaURL: String
+  }
+
+  type CreateCatMutationResult {
+    id: Int
+    name: String
   }
 `
 

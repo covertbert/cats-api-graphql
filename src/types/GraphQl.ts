@@ -5,7 +5,7 @@ import { Cat } from './Cat'
 
 interface Context {
   services: {
-    Cat: CatService
+    CatService: CatService
   }
   cats: Cat[]
 }

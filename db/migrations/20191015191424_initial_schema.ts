@@ -5,10 +5,7 @@ exports.down = (knex: Knex) => down(knex)
 
 const up = (knex: Knex) => {
   return knex.schema.createTable('cats', table => {
-    table
-      .integer('id')
-      .unique()
-      .notNullable()
+    table.increments()
     table.integer('adaptability').notNullable()
     table.integer('affection_level').notNullable()
     table.specificType('alternative_names', 'text ARRAY').nullable()
