@@ -11,7 +11,7 @@ describe('creatCat mutation', () => {
   })
 
   const getContext = (): Context => {
-    const mock: any = {
+    const mock = {
       cats: [],
       services: {
         CatService: {
