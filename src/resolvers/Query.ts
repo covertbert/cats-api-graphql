@@ -5,6 +5,8 @@ const Query: Record<string, Resolver> = {
     context.services.CatService.getAll(filter),
   getCatById: (_parent, { id }, context) =>
     context.services.CatService.getById(id),
+  getCatByName: (_parent, { name }, context) =>
+    context.services.CatService.getByName(name),
 }
 
 export default Query

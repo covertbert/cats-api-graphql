@@ -173,9 +173,14 @@ const typeDefs = gql`
     cats(filter: [CatsFilterInput]): [Cat]
 
     """
-    Retrieves all cats
+    Returns a cat for the given ID
     """
     getCatById(id: Int!): Cat
+
+    """
+    Returns a cat for the given name
+    """
+    getCatByName(name: String!): Cat
   }
 
   type Mutation {
