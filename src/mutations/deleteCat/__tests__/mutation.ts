@@ -1,6 +1,5 @@
-import { Cat } from '../../../types/Cat'
 import { Context } from '../../../types/GraphQl'
-import createCat from '../mutation'
+import deleteCat from '../mutation'
 
 describe('creatCat mutation', () => {
   let context: Context
@@ -16,7 +15,7 @@ describe('creatCat mutation', () => {
       cats: [],
       services: {
         CatService: {
-          create: jest.fn(() => 1),
+          delete: jest.fn(() => 1),
           getAll: jest.fn(),
           getById: jest.fn(),
           getByName: jest.fn(),
@@ -27,68 +26,31 @@ describe('creatCat mutation', () => {
     return (mock as unknown) as Context
   }
 
-  const cat: Omit<Cat, 'id'> = {
-    adaptability: 5,
-    affectionLevel: 5,
-    alternativeNames: ['Henry'],
-    childFriendliness: 3,
-    countryCode: 'EG',
-    description: '',
-    dogFriendliness: 4,
-    energyLevel: 5,
-    experimental: false,
-    grooming: 1,
-    hairless: false,
-    healthIssues: 2,
-    hypoallergenic: false,
-    indoor: false,
-    intelligence: 5,
-    lifeSpan: [14, 15],
-    name: 'Bill',
-    natural: true,
-    origin: 'Egypt',
-    rare: false,
-    rex: false,
-    sheddingLevel: 2,
-    shortLegs: false,
-    socialNeeds: 5,
-    strangerFriendly: 5,
-    suppressedTail: false,
-    temperament: [
-      'Active',
-      'Energetic',
-      'Independent',
-      'Intelligent',
-      'Gentle',
-    ],
-    vocalisation: 1,
-    weight: [3, 5],
-    wikipediaURL: 'https://en.wikipedia.org/wiki/Abyssinian_(cat)',
-  }
+  const id = 1
 
-  it('returns a name and id when given correct input', async () => {
-    const args = { cat }
-    const result = await createCat(undefined, args, context, undefined as any)
+  it('returns an id when given correct input', async () => {
+    const args = { id }
+    const result = await deleteCat(undefined, args, context, undefined as any)
 
-    expect(result).toEqual({ name: 'Bill', id: 1 })
+    expect(result).toEqual({ id })
   })
 
   it('calls the CatService with props', async () => {
-    const args = { cat }
-    await createCat(undefined, args, context, undefined as any)
+    const args = { id }
+    await deleteCat(undefined, args, context, undefined as any)
 
-    expect(context.services.CatService.create).toHaveBeenCalledWith(cat)
+    expect(context.services.CatService.delete).toHaveBeenCalledWith(id)
   })
 
   describe('error handling', () => {
-    it('throws an error if creating vehicle check fails', async () => {
-      const args = { cat }
-      mockContext.services.CatService.create.mockImplementation(() =>
+    it('throws an error if deleting a cat fails', async () => {
+      const args = { id }
+      mockContext.services.CatService.delete.mockImplementation(() =>
         Promise.reject()
       )
 
       try {
-        await createCat(undefined, args, context, undefined as any)
+        await deleteCat(undefined, args, context, undefined as any)
       } catch (e) {
         expect(e).toEqual(new Error('Failed to add cat to database'))
       }
