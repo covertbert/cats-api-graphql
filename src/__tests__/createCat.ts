@@ -12,8 +12,10 @@ const createCat: {
 } = {
   mutation: gql`
     mutation CreateCat_Mutation($cat: CreateCatInput!) {
-      id
-      name
+      createCat(cat: $cat) {
+        id
+        name
+      }
     }
   `,
   variables: {
@@ -58,7 +60,7 @@ const createCat: {
   },
 }
 
-describe('Cats integration tests', () => {
+describe('CreateCat integration tests', () => {
   it('creates a new cat', async () => {
     const { mutate } = createTestClient(server)
     const mutationResponse = await mutate(createCat as any)
