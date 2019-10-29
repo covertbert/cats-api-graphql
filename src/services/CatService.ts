@@ -1,4 +1,7 @@
+import { Transaction } from 'knex'
+
 import db from '../db'
+import logger from '../logger'
 import { Cat, CatFilter } from '../types/Cat'
 import { Service } from '../types/GraphQl'
 import { filterCats } from './utils/filters'
@@ -39,6 +42,30 @@ class CatService extends Service {
     }
 
     return cat
+  }
+
+  public async getByName(name: string) {
+    const cat = await db()
+      .table<Cat>(TABLE_NAME)
+      .where({ name })
+      .first()
+
+    if (!cat) {
+      throw Error(`No cat found with this name`)
+    }
+
+    return cat
+  }
+
+  public async create(cat: Omit<Cat, 'id'>, trx?: Transaction) {
+    const connection = trx || db()
+    const [{ id }] = await connection
+      .insert(cat)
+      .returning(['id', 'name'])
+      .into(TABLE_NAME)
+
+    logger.log({ level: 'info', message: 'Created a new cat' })
+    return id
   }
 }
 

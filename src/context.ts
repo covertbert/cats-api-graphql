@@ -5,7 +5,7 @@ const generateContext = async (): Promise<Context> => {
   const context = {} as Context
 
   context.services = {
-    Cat: new CatService(context),
+    CatService: new CatService(context),
   }
 
   return context

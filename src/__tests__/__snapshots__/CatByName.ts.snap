@@ -1,0 +1,63 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CatsByName integration tests queries a cat by its ID 1`] = `
+Object {
+  "data": Object {
+    "getCatByName": Object {
+      "adaptability": 5,
+      "affectionLevel": 5,
+      "alternativeNames": null,
+      "childFriendliness": 4,
+      "countryCode": "US",
+      "description": "The American Wirehair tends to be a calm and tolerant cat who takes life as it comes. His favorite hobby is bird-watching from a sunny windowsill, and his hunting ability will stand you in good stead if insects enter the house.",
+      "dogFriendliness": 5,
+      "energyLevel": 3,
+      "experimental": false,
+      "grooming": 1,
+      "hairless": false,
+      "healthIssues": 3,
+      "hypoallergenic": false,
+      "indoor": false,
+      "intelligence": 3,
+      "lifeSpan": Array [
+        14,
+        18,
+      ],
+      "name": "American Wirehair",
+      "natural": false,
+      "origin": "United States",
+      "rare": false,
+      "rex": false,
+      "sheddingLevel": 1,
+      "shortLegs": false,
+      "socialNeeds": 3,
+      "strangerFriendly": 3,
+      "suppressedTail": false,
+      "temperament": Array [
+        "Affectionate",
+        "Curious",
+        "Gentle",
+        "Intelligent",
+        "Interactive",
+        "Lively",
+        "Loyal",
+        "Playful",
+        "Sensible",
+        "Social",
+      ],
+      "vocalisation": 3,
+      "weight": Array [
+        4,
+        7,
+      ],
+    },
+  },
+  "errors": undefined,
+  "extensions": undefined,
+  "http": Object {
+    "headers": Headers {
+      Symbol(map): Object {},
+    },
+  },
+}
+`;
