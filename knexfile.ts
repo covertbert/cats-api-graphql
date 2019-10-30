@@ -18,8 +18,8 @@ module.exports = {
     client: 'pg',
     connection: {
       database: 'catsdb',
-      host: process.env.INSTANCE_CONNECTION_NAME,
       password: 'password',
+      socketPath: `/cloudsql/${process.env.CLOUD_SQL_CONNECTION_NAME}`,
       user: 'root',
     },
     migrations: {
