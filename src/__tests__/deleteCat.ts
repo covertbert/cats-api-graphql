@@ -10,8 +10,8 @@ const deleteCat: {
   }
 } = {
   mutation: gql`
-    mutation DeleteCat_Mutation($cat: DeleteCatInput!) {
-      deleteCat(cat: $cat) {
+    mutation DeleteCat_Mutation($id: Int!) {
+      deleteCat(id: $id) {
         id
       }
     }
