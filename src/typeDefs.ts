@@ -188,6 +188,11 @@ const typeDefs = gql`
     Creates a new cat
     """
     createCat(cat: CreateCatInput): CreateCatMutationResult
+
+    """
+    Deletes a cat
+    """
+    deleteCat(id: Int): DeleteCatMutationResult
   }
 
   scalar CatsFilterInputValue
@@ -234,6 +239,10 @@ const typeDefs = gql`
   type CreateCatMutationResult {
     id: Int
     name: String
+  }
+
+  type DeleteCatMutationResult {
+    id: Int
   }
 `
 

@@ -67,6 +67,23 @@ class CatService extends Service {
     logger.log({ level: 'info', message: 'Created a new cat' })
     return id
   }
+
+  public async delete(id: number, trx?: Transaction) {
+    try {
+      await this.getById(id)
+    } catch (e) {
+      throw Error('No cat found with this id')
+    }
+
+    const connection = trx || db()
+    await connection
+      .where('id', id)
+      .del()
+      .from(TABLE_NAME)
+
+    logger.log({ level: 'info', message: `Deleted cat with id of ${id}` })
+    return id
+  }
 }
 
 export default CatService
