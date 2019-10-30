@@ -28,10 +28,10 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Google Cloud Platform (GCP) CLI - gcloud
-        uses: actions-hub/gcloud@269.0.0
+      - name: Google Cloud Platform - Deploy
+        uses: covertbert/gcloud@master
         env:
           PROJECT_ID: ${{secrets.GCLOUD_PROJECT_ID}}
           APPLICATION_CREDENTIALS: ${{ secrets.GOOGLE_APPLICATION_CREDENTIALS }}
         with:
-          args: builds submit --tag gcr.io/${{secrets.GCLOUD_PROJECT_ID}}/cats --quiet
+          args: beta run deploy --image gcr.io/${{secrets.GCLOUD_PROJECT_ID}}/cats --platform managed --quiet
