@@ -34,4 +34,4 @@ jobs:
           PROJECT_ID: ${{secrets.GCLOUD_PROJECT_ID}}
           APPLICATION_CREDENTIALS: ${{ secrets.GOOGLE_APPLICATION_CREDENTIALS }}
         with:
-          args: beta run deploy --image gcr.io/${{secrets.GCLOUD_PROJECT_ID}}/cats --platform managed
+          args: builds submit --tag gcr.io/${{secrets.GCLOUD_PROJECT_ID}}/cats --quiet
