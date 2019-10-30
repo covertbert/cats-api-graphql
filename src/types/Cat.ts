@@ -12,7 +12,7 @@ interface Cat {
   hairless: boolean
   healthIssues: number
   hypoallergenic: boolean
-  id: string
+  id: number
   indoor: boolean
   intelligence: number
   lifeSpan: number[]
