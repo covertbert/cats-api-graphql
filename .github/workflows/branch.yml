@@ -31,7 +31,7 @@ jobs:
       - name: Google Cloud Platform (GCP) CLI - gcloud
         uses: actions-hub/gcloud@269.0.0
         env:
-          PROJECT_ID: ${{secrets.GCLOUD_PROJECT_ID}}
+          PROJECT_ID: cats-api-graphql
           APPLICATION_CREDENTIALS: ${{ secrets.GOOGLE_APPLICATION_CREDENTIALS }}
         with:
           args: gcloud beta run deploy --image gcr.io/${{secrets.GCLOUD_PROJECT_ID}}/cats --platform managed
