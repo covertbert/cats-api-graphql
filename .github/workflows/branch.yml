@@ -28,7 +28,10 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Deploy
-        uses: docker://covertbert/google-cloud-sdk:latest
+      - name: Google Cloud Platform (GCP) CLI - gcloud
+        uses: actions-hub/gcloud@269.0.0
+        env:
+          PROJECT_ID: ${{secrets.GCLOUD_PROJECT_ID}}
+          APPLICATION_CREDENTIALS: ${{ secrets.GOOGLE_APPLICATION_CREDENTIALS }}
         with:
-          args: gcloud builds submit --tag gcr.io/cats-graphql-api/cats
+          args: gcloud beta run deploy --image gcr.io/${{secrets.GCLOUD_PROJECT_ID}}/cats --platform managed
