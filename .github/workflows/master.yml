@@ -16,3 +16,6 @@ jobs:
         run: cd ops/docker; ./run-ci.sh
       - name: Test
         run: ./ops/test.sh
+      - name: Deploy
+        uses: docker://paperhive/gcloud-tools:latest
+        run: gcloud components update
