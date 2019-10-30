@@ -190,7 +190,7 @@ const typeDefs = gql`
     createCat(cat: CreateCatInput): CreateCatMutationResult
 
     """
-    Creates a new cat
+    Deletes a cat
     """
     deleteCat(id: Int): DeleteCatMutationResult
   }
