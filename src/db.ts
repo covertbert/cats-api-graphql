@@ -4,8 +4,10 @@ import { knexSnakeCaseMappers } from 'objection'
 // tslint:disable-next-line:no-var-requires
 const knexfile = require('../knexfile')
 
+const environment = process.env.NODE_ENV || 'development'
+
 const db = Knex({
-  ...knexfile.development,
+  ...knexfile[environment],
   ...knexSnakeCaseMappers(),
 })
 

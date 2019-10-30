@@ -3,9 +3,23 @@ module.exports = {
     client: 'pg',
     connection: {
       database: 'catsdb',
-      // host: process.env.DB_HOST || 'localhost',
+      host: process.env.DB_HOST || 'localhost',
       password: 'password',
-      socketPath: `/cloudsql/${process.env.APP_DB_HOST}`,
+      user: 'root',
+    },
+    migrations: {
+      directory: './db/migrations',
+    },
+    seeds: {
+      directory: './db/seeds',
+    },
+  },
+  production: {
+    client: 'pg',
+    connection: {
+      database: 'catsdb',
+      host: process.env.INSTANCE_CONNECTION_NAME,
+      password: 'password',
       user: 'root',
     },
     migrations: {
