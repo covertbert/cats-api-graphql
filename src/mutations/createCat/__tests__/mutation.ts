@@ -12,7 +12,7 @@ describe('creatCat mutation', () => {
   })
 
   const getContext = (): Context => {
-    const mock: any = {
+    const mock = {
       cats: [],
       services: {
         CatService: {
@@ -81,7 +81,7 @@ describe('creatCat mutation', () => {
   })
 
   describe('error handling', () => {
-    it('throws an error if creating vehicle check fails', async () => {
+    it('throws an error if creating cat fails', async () => {
       const args = { cat }
       mockContext.services.CatService.create.mockImplementation(() =>
         Promise.reject()
