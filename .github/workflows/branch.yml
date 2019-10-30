@@ -31,4 +31,4 @@ jobs:
       - name: Deploy
         uses: docker://paperhive/gcloud-tools:latest
         with:
-          args: gcloud beta run deploy --image gcr.io/cats-graphql-api/cats --platform managed
+          args: gcloud builds submit --tag gcr.io/cats-graphql-api/cats
