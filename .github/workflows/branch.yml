@@ -29,6 +29,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Deploy
-        uses: docker://paperhive/gcloud-tools:latest
+        uses: docker://covertbert/google-cloud-sdk:latest
         with:
           args: gcloud builds submit --tag gcr.io/cats-graphql-api/cats
