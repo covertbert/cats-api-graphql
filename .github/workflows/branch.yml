@@ -34,4 +34,4 @@ jobs:
           PROJECT_ID: ${{secrets.GCLOUD_PROJECT_ID}}
           APPLICATION_CREDENTIALS: ${{ secrets.GOOGLE_APPLICATION_CREDENTIALS }}
         with:
-          args: beta run deploy --image gcr.io/${{secrets.GCLOUD_PROJECT_ID}}/cats --region europe-west1 --platform managed --quiet
+          args: beta run deploy cats --quiet --region europe-west1 --image gcr.io/${{secrets.GCLOUD_PROJECT_ID}}/cats --platform managed
