@@ -1,10 +1,10 @@
 steps:
   # build the container image
   - name: "gcr.io/cloud-builders/docker"
-    args: ["build", "-t", "gcr.io/cats-api-graphql/cats-api-graphql", "."]
+    args: ["build", "-t", "gcr.io/$PROJECT_ID/cats-api-graphql", "."]
     # push the container image to Container Registry
   - name: "gcr.io/cloud-builders/docker"
-    args: ["push", "gcr.io/cats-api-graphql/cats-api-graphql"]
+    args: ["push", "gcr.io/$PROJECT_ID/cats-api-graphql"]
     # Deploy container image to Cloud Run
   - name: "gcr.io/cloud-builders/gcloud"
     args:
@@ -14,7 +14,7 @@ steps:
         "deploy",
         "cats-api-graphql",
         "--image",
-        "gcr.io/cats-api-graphql/cats-api-graphql",
+        "gcr.io/$PROJECT_ID/cats-api-graphql",
         "--region",
         "us-central1",
         "--platform",
@@ -22,4 +22,4 @@ steps:
         "--quiet",
       ]
 images:
-  - gcr.io/cats-api-graphql/cats-api-graphql
+  - gcr.io/$PROJECT_ID/cats-api-graphql
