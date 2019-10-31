@@ -1,11 +1,23 @@
 version: "3"
 
 services:
+  db:
+    image: "postgres"
+    container_name: "cats_postgres"
+    environment:
+      POSTGRES_USER: root
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: catsdb
+    ports:
+      - "5432:5432"
+
   service:
     container_name: "cats_service"
     build:
       context: ../..
       dockerfile: Dockerfile
-    entrypoint: sh ./ops/start.sh
+    entrypoint: sh -c './ops/docker/wait-for-it.sh db:5432 -- sh ./ops/start.sh'
     ports:
       - "4000:4000"
+    environment:
+      DB_HOST: "db"
