@@ -22,7 +22,7 @@ const deleteCat: {
 }
 
 describe('DeleteCat integration tests', () => {
-  it('deletes a new cat', async () => {
+  it('deletes a cat', async () => {
     const { mutate } = createTestClient(server)
     const mutationResponse = await mutate(deleteCat as any)
 
