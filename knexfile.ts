@@ -1,12 +1,8 @@
 module.exports = {
   development: {
     client: 'pg',
-    connection: {
-      database: 'catsdb',
-      host: `/cloudsql/${process.env.CLOUD_SQL_CONNECTION_NAME}`,
-      password: 'password',
-      user: 'root',
-    },
+    connection: `postgres://root:password@${process.env.DB_HOST ||
+      'localhost'}:5432/catsdb`,
     migrations: {
       directory: './db/migrations',
     },
@@ -20,7 +16,7 @@ module.exports = {
       database: 'catsdb',
       host: `/cloudsql/${process.env.CLOUD_SQL_CONNECTION_NAME}`,
       password: 'password',
-      user: 'root',
+      user: 'postgres',
     },
     migrations: {
       directory: './db/migrations',
