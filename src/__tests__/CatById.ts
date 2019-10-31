@@ -9,7 +9,7 @@ describe('CatsById integration tests', () => {
 
     const CATS = gql`
       query {
-        getCatById(id: 5) {
+        getCatById(id: 1) {
           name
           adaptability
           affectionLevel
