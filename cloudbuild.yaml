@@ -19,6 +19,8 @@ steps:
         "europe-west1",
         "--platform",
         "managed",
+        "--add-cloudsql-instances",
+        "cats-api-257611:europe-west1:catsdb",
         "--update-env-vars",
         "NODE_ENV=production,CLOUD_SQL_CONNECTION_NAME=cats-api-257611:europe-west1:catsdb",
         "--quiet",
