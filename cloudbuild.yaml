@@ -16,7 +16,7 @@ steps:
         "--image",
         "gcr.io/$PROJECT_ID/cats-api-graphql",
         "--region",
-        "us-central1",
+        "europe-west1",
         "--platform",
         "managed",
         "--quiet",
