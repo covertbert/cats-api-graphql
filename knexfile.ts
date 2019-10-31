@@ -13,7 +13,7 @@ module.exports = {
   production: {
     client: 'pg',
     connection: {
-      database: 'catsdb',
+      database: 'postgres',
       host: `/cloudsql/${process.env.CLOUD_SQL_CONNECTION_NAME}`,
       password: 'password',
       user: 'postgres',
