@@ -10,4 +10,19 @@ module.exports = {
       directory: './db/seeds',
     },
   },
+  production: {
+    client: 'pg',
+    connection: {
+      database: 'postgres',
+      host: `/cloudsql/${process.env.CLOUD_SQL_CONNECTION_NAME}`,
+      password: 'password',
+      user: 'postgres',
+    },
+    migrations: {
+      directory: './db/migrations',
+    },
+    seeds: {
+      directory: './db/seeds',
+    },
+  },
 }

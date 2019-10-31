@@ -10,4 +10,11 @@ const resolvers: IResolvers = {
   Query,
 }
 
-export default new ApolloServer({ typeDefs, context, resolvers })
+const playground = { introspection: true, playground: true }
+
+export default new ApolloServer({
+  context,
+  resolvers,
+  typeDefs,
+  ...playground,
+})

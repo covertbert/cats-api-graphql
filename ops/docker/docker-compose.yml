@@ -16,8 +16,6 @@ services:
     build:
       context: ../..
       dockerfile: Dockerfile
-    depends_on:
-      - "db"
     entrypoint: sh -c './ops/docker/wait-for-it.sh db:5432 -- sh ./ops/start.sh'
     ports:
       - "4000:4000"
