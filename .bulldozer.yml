@@ -1,0 +1,6 @@
+version: 1
+
+merge:
+  whitelist:
+    labels: ['dependencies']
+  method: squash
