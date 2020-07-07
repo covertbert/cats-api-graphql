@@ -11,7 +11,7 @@
     "lint-staged": "^9.4.1",
     "node": "^12.11.0",
     "nodemon": "^2.0.4",
-    "objection": "^2.2.0",
+    "objection": "^2.2.1",
     "pg": "^7.12.1",
     "prettier": "^1.18.2",
     "ts-jest": "^24.1.0",
