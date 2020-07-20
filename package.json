@@ -2,7 +2,7 @@
   "author": "Bertie Blackman",
   "description": "A GraphQL endpoint for the cats rest API",
   "devDependencies": {
-    "apollo-server": "^2.15.1",
+    "apollo-server": "^2.16.0",
     "apollo-server-testing": "^2.15.1",
     "graphql": "^14.7.0",
     "husky": "^4.2.5",
