@@ -5,17 +5,17 @@
     "apollo-server": "^2.16.0",
     "apollo-server-testing": "^2.15.1",
     "graphql": "^14.7.0",
-    "husky": "^4.2.5",
+    "husky": "^4.3.8",
     "jest": "^24.9.0",
-    "knex": "^0.21.5",
-    "lint-staged": "^10.2.13",
-    "node": "^14.8.0",
-    "nodemon": "^2.0.4",
-    "objection": "^2.2.3",
-    "pg": "^8.3.2",
+    "knex": "^0.21.17",
+    "lint-staged": "^10.5.3",
+    "node": "^15.4.0",
+    "nodemon": "^2.0.7",
+    "objection": "^2.2.12",
+    "pg": "^8.5.1",
     "prettier": "^1.19.1",
     "ts-jest": "^24.3.0",
-    "ts-node": "^9.0.0",
+    "ts-node": "^9.1.1",
     "tslint": "^5.20.1",
     "tslint-config-airbnb": "^5.11.2",
     "tslint-config-prettier": "^1.18.0",
@@ -54,6 +54,6 @@
   },
   "version": "1.0.0",
   "dependencies": {
-    "@types/jest": "^26.0.10"
+    "@types/jest": "^26.0.20"
   }
 }
