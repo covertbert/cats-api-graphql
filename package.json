@@ -4,7 +4,7 @@
   "devDependencies": {
     "apollo-server": "^2.15.1",
     "apollo-server-testing": "^2.15.1",
-    "graphql": "^14.7.0",
+    "graphql": "^15.5.0",
     "husky": "^5.1.0",
     "jest": "^24.9.0",
     "knex": "^0.21.17",
